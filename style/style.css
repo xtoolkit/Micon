@@ -119,4 +119,4 @@ ul.xrow li .contactx{float:right;padding:0;margin:0;width:100%;text-align:center
 .iconst ul li:hover a{background:#0078d7;color:#fff}
 .iconst ul li span{font-size:20px;margin-right:10px;}
 .livefilter{border:0;background:#D2D2D2;float:right;width:100%;margin:0;padding:10px 0;text-indent:10px;font:normal 14px "Segoe UI",arial;color:#2F2F2F;}
-.iconst ul.cheatsheet li a{font-size:10px;}
+.iconst ul#cheatsheet li a{font-size:10px;}
