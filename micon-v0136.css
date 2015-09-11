@@ -199,6 +199,7 @@
 .mi-computer-theme:before{content:"\e8a0"}
 .mi-cone:before{content:"\ea26"}
 .mi-console:before{content:"\ea0c"}
+.mi-console-xbox:before{content:"\ea27"}
 .mi-contact:before{content:"\e935"}
 .mi-contact-send:before{content:"\e985"}
 .mi-controller:before{content:"\ea98"}
@@ -815,4 +816,3 @@
 .mi-xEC45:before{content:"\eb05"}
 .mi-xEC46:before{content:"\eb04"}
 .mi-xEC47:before{content:"\eb03"}
-.mi-xbox:before{content:"\ea27"}
