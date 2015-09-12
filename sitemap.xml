@@ -1,0 +1,4743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://xtoolkit.github.io/Micon/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/get-started/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icons/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/examples/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/cheatsheet/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-box/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-details-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-folder/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-frame-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-message/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-multiple/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-switch/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/account-status/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/airplane/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/airplane-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/album/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/alert/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/alert-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/archive/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-bottom-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-top-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/arrow-up-variant/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/aspect-ratio/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/attach/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bag/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-charge-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-disconnect/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-charge-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-disconnect/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-large-saver-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-10/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/battery-saver-9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bell-off-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bell-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bluetooth/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/boat/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/boat-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/book/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/book-plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/box-fourth/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/box-half-horizontal/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/box-half-vertical/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/box-sixteenth/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/box-small/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bulb/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bulb-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/bus-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calculator/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar-day/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar-repeat/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar-reply/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/calendar-weeks/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/camera/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/camera-clicker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car-left-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car-right-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car-side/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car-upside-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/car-upside-down-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cast-to-device/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cast-to-monitor/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cd/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cellphone/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cellphone-tablet/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cellphone-wireless/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/check/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/check-larg/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/checkbox/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/checkbox-check/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/checkbox-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/checkbox-outline-check/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-bold-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-bold-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-bold-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-bold-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-left-circle/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-right-circle/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chevron-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/chip/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/clear/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/clear-larg/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/clear-small/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/clipboard/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/clock/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/close/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/closedcaption/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cloud/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cloud-book/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/compare/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/computer/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/computer-speaker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/computer-theme/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cone/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/console/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/console-xbox/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/contact/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/contact-send/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/controller/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/crop/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cursor/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/cursor-default/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/delete/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/desktops/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/desktops-view/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/dialer/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/diamond/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/direction/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/disk/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/disk-all/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/diskdownload/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/diskedit/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/divide/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/doppler/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/dots-horizontal/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/download/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/easeofacess/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/edit/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/education/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email-adress/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email-opened/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email-reply/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/email-reply-all/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/emoji/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/emoji-grin/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/equal/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/eraser/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/eraser-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/eraser-color-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/exclamation/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/eye/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/eye-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file-hidden-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file-multiple/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file-outline-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:37:58+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/file-printer-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/filter/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/fingerprint/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/firewall/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/flag/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/flag-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/flash/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/flash-light/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-move/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-refresh/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-refresh-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/folder-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-block-left-decrease/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-block-left-increase/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-block-right-decrease/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-block-right-increase/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-bold/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-font-size/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-font-size-decrease/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-font-size-increase/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-text-center/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-text-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-text-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/format-under-line/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/gps/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/grid/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/grid-perspective/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/headphones/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/headset/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/heart/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/heart-broken/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/heart-broken-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/heart-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/heart-plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/help/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/home/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/home-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/home-tree/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/humidity/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/image/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/indent/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/info/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-marker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-marker-color-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-marker-color-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-pen/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-pen-color-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/input-pen-color-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/insider/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/key/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-enter/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-enter-larg/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-enter-small/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-hide/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-mini/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-mouse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-move/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-split/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/keyboard-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/landmark/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop-monitor/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop-monitor-extend/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop-printer/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop-speaker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/laptop-tablet/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/layers/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/led/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/library/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/light-bulb/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/line-horizontal/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/link/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-block/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-check/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-collapse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-expand/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-select/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/list-select-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/lock/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/lowercase/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/magnify/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/magnify-minus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/magnify-plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-location/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-marker-pause/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-marker-pause-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-marker-play/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-marker-play-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/map-pin/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/mapsdownload/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/max/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-fast-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-next/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-pause/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-play/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-player/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-previous/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-remind/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-repeat/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-server/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/media-wireless/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/megaphone/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/menu/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message-multiple/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message-processing/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message-quote/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message-reply/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/message-video/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/microphone/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/min/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/minus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/monitor/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/monitor-duplicate/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/monitor-extend/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/monitor-sound/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/monitor-tape/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/moon/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/mouse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/movie/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/multiple/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/multiple-larg/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/multiple-small/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/music/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/network/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/network-drive/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/network-drive-close/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/network-homegroup/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/nfc/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/notdef/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/note/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/openinapp/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/palette/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/panel-bottom/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/panel-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/panel-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/paragraph-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/paragraph-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/pen/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/percent/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/phone/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/phone-book/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/phone-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/phone-hangup-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/pin/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/pin-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/pin-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/pin-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/ping-left-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/plus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/plus-minus/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/power/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/printer/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/printer-3d/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/processor/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/projector/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/puzzle/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/redo/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/refresh/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/region/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rename/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/repeat/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/repeat-once/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/roptate-clockwise/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rotate-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rotation-lock/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/router/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/router-wireless/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-account-details-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-box-fourth/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-box-sixteenth/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-box-vertical/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-edit/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-email-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-email-reply/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-email-reply-all/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-help/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-list/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-list-block/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-list-check/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-list-select/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-list-select-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-message-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-phone-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-send/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/rtl-send-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/scaner/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/scissors/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sd/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/search/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/security/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/security-alert/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/select-table/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/selection-redo/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/selection-undo/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/selecttion-cut/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/send/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/send-color/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/server/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/server-network/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/setting/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/share/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/shuffle/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sidebar-left-collapse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sidebar-left-expand/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sidebar-right-collapse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sidebar-right-expand/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/signal-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/slash-forward/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/smile/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sound-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/space/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/speaker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/squareroot/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star-cancel/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star-half-left/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star-half-right/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star-list/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/star-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/store/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/sun/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tables/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tablet/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tablet-mode/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tag/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tape/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/thought-bubble/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/thumbs/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/thumbs-down/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/thumbs-up/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/timer/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/toolbox/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/toolbox-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tooltip/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tooltip-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/touch/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/touch-slider/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tram/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/tram-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/translate/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/undo/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/unlock/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/upload/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/uppercase/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/usb/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/video/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/video-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/voicemail/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/vpn/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/walk/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/walk-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/webcam/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-alert-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-alert-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-alert-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-alert-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-alert-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-call-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-cancel-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-cancel-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-cancel-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-cancel-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-cancel-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-outline-0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-outline-1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-outline-2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-outline-3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wifi-outline-4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/windows-collapse/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/windows-expand/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/windows-maximize/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/windows-minimize/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/windows-restore/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wireless/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/worker/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/worker-outline/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/world/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/world-wire/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/wrench/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE12C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE130/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE131/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE135/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE13C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE13F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE140/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE143/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE148/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE149/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE150/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE151/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE152/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE153/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE155/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE158/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE15A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE15B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE173/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE174/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE176/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE177/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE178/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE182/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE185/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE186/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE18C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE18D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE18E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE18F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE191/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE194/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1A6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1A7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1AA/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1AB/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1AC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1AD/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1AE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1B9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1BA/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1BB/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1BC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1BD/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1BE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1E1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1E4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1EA/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE1F5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE248/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE29B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2AC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2AD/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2AE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2B0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2B2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2B3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE2B4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE703/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE70C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE74C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE75E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE76F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE773/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE777/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE783/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE784/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE788/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE791/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7A5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7BC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7DE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7EA/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7EB/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE7FB/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE802/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE803/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE80C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE80D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE812/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE813/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE81C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE830/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE835/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE836/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE839/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE83A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE83C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE843/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE844/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE845/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE846/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE847/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE848/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE849/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE84C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE84D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE84E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE84F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE875/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE876/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE877/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE878/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE879/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE87F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE880/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE881/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE882/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE883/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE884/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE885/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE886/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE887/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE888/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE889/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE88B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE88C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE88D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE8AE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE911/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE915/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE91B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE91F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE926/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE92C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE92D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE930/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE931/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE933/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE934/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE935/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE936/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE937/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE938/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE93E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE943/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE948/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE949/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE963/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE967/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE971/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE972/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE973/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE974/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE97D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE97E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE97F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE980/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE981/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE982/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE983/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE984/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE985/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE986/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE987/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE988/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE989/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE98A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE998/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9A8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9A9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9AC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9AD/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9AE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9AF/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B0/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B1/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B2/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B3/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B8/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9B9/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9BA/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9BB/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xE9BC/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA1F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA21/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA24/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA37/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA38/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA39/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA3A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA3B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA43/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA44/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA47/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA50/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA55/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA62/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA6A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA6C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA81/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA82/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA83/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA84/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEA99/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB55/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB56/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB57/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB58/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB59/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB82/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB83/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB84/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB85/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB86/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB87/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB88/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB8A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB8B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB8C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB8D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB90/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEB95/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBC4/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBC5/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBC6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBE6/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBE7/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBFD/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBFE/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEBFF/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC00/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC06/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC11/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC12/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC13/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC14/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC19/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC1E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC31/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC39/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3A/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3B/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3C/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3D/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3E/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC3F/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC40/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC41/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC42/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC43/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC44/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC45/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC46/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+<url>
+	<loc>http://xtoolkit.github.io/Micon/icon/xEC47/</loc>
+	<priority>0.5</priority>
+	<lastmod>2015-09-12T13:51:04+00:00</lastmod>
+	<changefreq>monthly</changefreq>
+</url>
+</urlset>
