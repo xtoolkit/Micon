@@ -1,32 +1,37 @@
 @charset "UTF-8";
 @font-face{font-family:'mdl2';src:url('fonts/mdl2-v136.eot?33723320');src:url('fonts/mdl2-v136.eot?337233204#iefix') format('embedded-opentype'),url('fonts/mdl2-v136.woff?337233204') format('woff'),url('fonts/mdl2-v136.ttf?337233204') format('truetype'),url('fonts/mdl2-v136.svg?337233204#mdl2-v136') format('svg');font-weight:normal;font-style:normal}
 .mi{display:inline-block;font:normal normal normal 14px/1 mdl2;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
-.mi-lg{font-size:1.33333333333em;line-height:.75em;vertical-align:-15%}
+.mi-lg{font-size:1.33333333em;line-height:.75em;vertical-align:-15%}
 .mi-2x{font-size:2em}
 .mi-3x{font-size:3em}
 .mi-4x{font-size:4em}
 .mi-5x{font-size:5em}
-.mi-fw{midth:1.28571428571em;text-align:center}
-.mi-ul{padding-left:0;margin-left:2.14285714286em;list-style-type:none}
-.mi-ul >li{position:relative}
-.mi-li{position:absolute;left:-2.14285714286em;midth:2.14285714286em;top:.142857142857em;text-align:center}
-.mi-li.mi-lg{left:-1.85714285714em}
-.mi-border{padding:.2em .25em .15em;border:solid .08em #eee;-webkit-border-radius:.1em;-moz-border-radius:.1em;-khtml-border-radius:.1em;-o-border-radius:.1em;-ms-border-radius:.1em;border-radius:.1em;}
+.mi-fw{width:1.28571429em;text-align:center}
+.mi-ul{padding-left:0;margin-left:2.14285714em;list-style-type:none}
+.mi-ul>li{position:relative}
+.mi-li{position:absolute;left:-2.14285714em;width:2.14285714em;top:.14285714em;text-align:center}
+.mi-li.mi-lg{left:-1.85714286em}
+.mi-border{padding:.2em .25em .15em;border:solid .08em #eee;border-radius:.1em}
+.mi-pull-left{float:left}
+.mi-pull-right{float:right}
+.mi.mi-pull-left{margin-right:.3em}
+.mi.mi-pull-right{margin-left:.3em}
 .pull-right{float:right}
 .pull-left{float:left}
 .mi.pull-left{margin-right:.3em}
 .mi.pull-right{margin-left:.3em}
 .mi-spin{-webkit-animation:mi-spin 2s infinite linear;animation:mi-spin 2s infinite linear}
+.mi-pulse{-webkit-animation:mi-spin 1s infinite steps(8);animation:mi-spin 1s infinite steps(8)}
 @-webkit-keyframes mi-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 @keyframes mi-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}
 .mi-rotate-90{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg)}
 .mi-rotate-180{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);transform:rotate(180deg)}
 .mi-rotate-270{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);-webkit-transform:rotate(270deg);-ms-transform:rotate(270deg);transform:rotate(270deg)}
-.mi-flip-horizontal{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=0,mirror=1);-webkit-transform:scale(-1,1);-ms-transform:scale(-1,1);transform:scale(-1,1)}
-.mi-flip-vertical{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2,mirror=1);-webkit-transform:scale(1,-1);-ms-transform:scale(1,-1);transform:scale(1,-1)}
+.mi-flip-horizontal{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);-webkit-transform:scale(-1, 1);-ms-transform:scale(-1, 1);transform:scale(-1, 1)}
+.mi-flip-vertical{filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);-webkit-transform:scale(1, -1);-ms-transform:scale(1, -1);transform:scale(1, -1)}
 :root .mi-rotate-90,:root .mi-rotate-180,:root .mi-rotate-270,:root .mi-flip-horizontal,:root .mi-flip-vertical{filter:none}
-.mi-stack{position:relative;display:inline-block;midth:2em;height:2em;line-height:2em;vertical-align:middle}
-.mi-stack-1x,.mi-stack-2x{position:absolute;left:0;midth:100%;text-align:center}
+.mi-stack{position:relative;display:inline-block;width:2em;height:2em;line-height:2em;vertical-align:middle}
+.mi-stack-1x,.mi-stack-2x{position:absolute;left:0;width:100%;text-align:center}
 .mi-stack-1x{line-height:inherit}
 .mi-stack-2x{font-size:2em}
 .mi-inverse{color:#fff}
@@ -247,8 +252,8 @@
 .mi-filter:before{content:"\e809"}
 .mi-fingerprint:before{content:"\e9b2"}
 .mi-firewall:before{content:"\e90f"}
-.mi-flag:before{content:"\e8b9"}
-.mi-flag-outline:before{content:"\ea92"}
+.mi-flag:before{content:"\ea92"}
+.mi-flag-outline:before{content:"\e8b9"}
 .mi-flash:before{content:"\e9e8"}
 .mi-flash-light:before{content:"\e891"}
 .mi-folder:before{content:"\e967"}

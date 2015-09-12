@@ -1,6 +1,4 @@
 ﻿@charset "UTF-8";
-@font-face{font-family:"yekan";font-style:normal;font-weight:normal;src:url('../fonts/regular.eot') format("embedded-opentype"), url('../fonts/regular.woff') format("woff"), url('../fonts/regular.ttf') format("truetype");}
-@font-face{font-family:"yekannum";font-style:normal;font-weight:normal;src:url('../fonts/num-regular.eot') format("embedded-opentype"), url('../fonts/num-regular.woff') format("woff"), url('../fonts/num-regular.ttf') format("truetype");}
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
@@ -120,3 +118,4 @@ ul.xrow li .contactx{float:right;padding:0;margin:0;width:100%;text-align:center
 .iconst ul li span{font-size:20px;margin-right:10px;}
 .livefilter{border:0;background:#D2D2D2;float:right;width:100%;margin:0;padding:10px 0;text-indent:10px;font:normal 14px "Segoe UI",arial;color:#2F2F2F;}
 .cheatsheet ul li a{font-size:10px;}
+.text-danger{color:#F25022;}
