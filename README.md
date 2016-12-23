@@ -30,7 +30,7 @@ Follow these steps to build custom font:
 
 1. install requires Dependencies (_gulp, gulp-consolidate, gulp-iconfont, gulp-rename, loadash_) with down command.<br>
   `$ npm install`
-2. customize your icons from `/icons/`
+2. customize your icons from `/icons/`. if add icon add in `name_db.json`. example: `["svgfilename":["svgfilename","aliasname"]]`
 3. config `gulpfile.js` for your fontname, fontversion, class and etc.
 4. customize your css template `/templates/style-template.css`. (default use Font-Awesome template)
 5. build your font with down command<br>
