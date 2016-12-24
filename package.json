@@ -17,14 +17,13 @@
         "email": "arshen@outlook.com",
         "web": "http://arshen.ir/"
     },
-    "private": true,
     "license": "MIT",
     "devDependencies": {
-        "gulp": "latest",
-        "gulp-consolidate": "latest",
-        "gulp-iconfont": "latest",
-        "gulp-rename": "latest",
-        "lodash": "latest"
+        "gulp": ">=3.9.1",
+        "gulp-consolidate": ">=0.2.0",
+        "gulp-iconfont": ">=8.0.1",
+        "gulp-rename": ">=1.2.2",
+        "lodash": ">=4.17.2"
     },
     "scripts": {
         "start": "gulp mimake"

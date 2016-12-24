@@ -11,16 +11,28 @@ Online Demo and Documents: <http://xtoolkit.github.io/Micon/>
 
 Follow these steps to use Micon:
 
-1. Download last Micon version release from [Github](https://github.com/xtoolkit/Micon/releases)
-2. Copy the entire `micon-repo/dist` directory into your project
-3. In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
-  --example:<br>
-  `<link rel="stylesheet" href="path/to/micon-repo/dist/css/micon.min.css">`--
-4. Check out the [example](http://xtoolkit.github.io/Micon/examples/) to start using Micon!.
+1- Download last Micon version release from [Github](https://github.com/xtoolkit/Micon/releases)
+
+2- Copy the entire `micon-repo/dist/micon/` directory into your project. if you do not use **webbrand icon** in font use `micon-repo/dist/micon_nb/`
+
+3- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
+example:
+
+```
+<head>
+...
+<link rel="stylesheet" href="micon-repo/dist/micon/css/micon.min.css">
+...
+</head>
+```
 
 ### use icons in html
 
-example: `<i class="mi mi-Home"></i>`
+example:
+
+```
+<i class="mi mi-Home"></i>
+```
 
 ## Build Instructions (for make custom font)
 
@@ -28,14 +40,39 @@ This repo already comes with all the files built and ready to go, but can also b
 
 Follow these steps to build custom font:
 
-1. install requires Dependencies (_gulp, gulp-consolidate, gulp-iconfont, gulp-rename, loadash_) with down command.<br>
-  `$ npm install`
-2. customize your icons from `/icons/`. if add icon add in `name_db.json`. example: `["svgfilename":["svgfilename","aliasname"]]`
-3. config `gulpfile.js` for your fontname, fontversion, class and etc.
-4. customize your css template `/templates/style-template.css`. (default use Font-Awesome template)
-5. build your font with down command<br>
-  `$ npm start`
-6. you can see demo your font in `/dist/html-demo-your_fontname.html`
+1- install requires Dependencies (_gulp, gulp-consolidate, gulp-iconfont, gulp-rename, loadash_) with down command.<br>
+
+```
+$ npm install
+```
+
+2- customize your icons from `/icons/`.<br>
+if add new icon, insert icon name in `name_db.json`.<br>
+example:
+
+```
+[
+    ...,
+    "svgfilename": [
+        "svgfilename",
+        "aliasname1",
+        "aliasname2",
+        ...
+    ]
+]
+```
+
+3- config `gulpfile.js` for your _fontname_, _fontversion_ and etc.
+
+4- customize your css template `/templates/style-template.css`,`/templates/style-min-template.css`. (default use Font-Awesome template Edited by Micon)
+
+5- build your font with down command
+
+```
+$ npm start
+```
+
+6- end, you can see demo your font in `/dist/your_fontname/html-demo-your_fontname.html`
 
 ## Versioning
 
@@ -53,18 +90,19 @@ For more information on SemVer, please visit <http://semver.org>.
 
 ### Next version
 
-Next Micon font version release when **RedSton2** font version release.
+Next Micon font version release, when **RedSton2** font version release.
 
 ### Change Logs
 
 #### Version 2.0.155 (23/12/2016)
 
-- add **GulpJs** for create custom font
-- add **brand** icons
+- add **GulpJs** for build Micon or Easy create custom font fork Micon icons
+- add **webBrand** icons
 - add **woff2** and **otf** standard font
 - add html-demo-micon.html for simple portable view icons.
 - update style template
-- fix some font view probrom
+- fix alias name problem
+- fix some font view probrom (etc height of icons)
 
 #### Version 1.0.155 (16/08/2016)
 
@@ -78,6 +116,7 @@ Next Micon font version release when **RedSton2** font version release.
 #### Version 0.9.136 (12/09/2015)
 
 - initial build
+- remove duplicate svg path and use alias
 
 ## License
 
