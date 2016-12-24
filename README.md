@@ -1,4 +1,4 @@
-# Micon [![Build Status](https://travis-ci.org/xtoolkit/Micon.svg)](https://travis-ci.org/xtoolkit/Micon)
+# Micon [![Build Status](https://travis-ci.org/xtoolkit/Micon.svg?branch=master)](https://travis-ci.org/xtoolkit/Micon)
 
 Micon, The iconic windows 10 font and CSS toolkit.<br>
 this icon exracted as _segmdl2.ttf_ in windows 10 and converted too css toolkit based on _Font Awesome_. Micon icons that can instantly be customized -- size, color, drop shadow, and anything that can be done with the power of CSS.<br>
