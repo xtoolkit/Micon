@@ -3,7 +3,9 @@
 Micon, The iconic windows 10 font and CSS toolkit.<br>
 this icon exracted as _segmdl2.ttf_ in windows 10 and converted too css toolkit based on _Font Awesome_. Micon icons that can instantly be customized -- size, color, drop shadow, and anything that can be done with the power of CSS.<br>
 
-Online Demo and Documents: <http://xtoolkit.github.io/Micon/>
+Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated to 2.0155. as soon as possible update Documents.)
+
+_sry for my bad english_
 
 ## Get started
 
@@ -18,7 +20,7 @@ Follow these steps to use Micon:
 3- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
 example:
 
-```
+``` xml
 <head>
 ...
 <link rel="stylesheet" href="micon-repo/dist/micon/css/micon.min.css">
@@ -30,7 +32,7 @@ example:
 
 example:
 
-```
+``` xml
 <i class="mi mi-Home"></i>
 ```
 
@@ -50,8 +52,8 @@ $ npm install
 if add new icon, insert icon name in `name_db.json`.<br>
 example:
 
-```
-[
+``` json
+{
     ...,
     "svgfilename": [
         "svgfilename",
@@ -59,7 +61,7 @@ example:
         "aliasname2",
         ...
     ]
-]
+}
 ```
 
 3- config `gulpfile.js` for your _fontname_, _fontversion_ and etc.
@@ -116,7 +118,7 @@ Next Micon font version release, when **RedSton2** font version release.
 #### Version 0.9.136 (12/09/2015)
 
 - initial build
-- remove duplicate svg path and use alias
+- remove duplicate svg path and use css alias
 
 ## License
 
