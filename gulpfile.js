@@ -3,7 +3,6 @@
 const gulp = require('gulp')
 const rename = require('gulp-rename')
 const iconfont = require('gulp-iconfont')
-const sourcemaps = require('gulp-sourcemaps');
 const consolidate = require('gulp-consolidate')
 
 const path = 'dist'
