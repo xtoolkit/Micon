@@ -1,23 +1,31 @@
 # Micon [![Build Status](https://travis-ci.org/xtoolkit/Micon.svg?branch=master)](https://travis-ci.org/xtoolkit/Micon)
 
-Micon, The iconic windows 10 font and CSS toolkit.<br>
+Micon (MDL2 Icons), The iconic windows 10 font and CSS toolkit.<br>
 this icon exracted as _segmdl2.ttf_ in windows 10 and converted too css toolkit based on _Font Awesome_. Micon icons that can instantly be customized -- size, color, drop shadow, and anything that can be done with the power of CSS.<br>
 
-Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated to 2.0155. as soon as possible update Documents.)
+Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated to 2.\*.155. as soon as possible update Documents.)
 
 _sry for my bad english_
 
+## Installation
+
+### Option one: install with bower
+
+To install via Bower, simply do the following:
+
+```
+$ bower install micon --save
+```
+
+### Option two: Download repo
+
+Download last Micon version release from [Github](https://github.com/xtoolkit/Micon/releases)
+
 ## Get started
 
-### linked in html
+1- Copy the entire `micon-repo/dist/micon/` directory into your project. if you do not use **webbrand icon** in font use `micon-repo/dist/micon_nb/`
 
-Follow these steps to use Micon:
-
-1- Download last Micon version release from [Github](https://github.com/xtoolkit/Micon/releases)
-
-2- Copy the entire `micon-repo/dist/micon/` directory into your project. if you do not use **webbrand icon** in font use `micon-repo/dist/micon_nb/`
-
-3- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
+2- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
 example:
 
 ``` xml
@@ -31,7 +39,6 @@ example:
 ### use icons in html
 
 example:
-
 ``` xml
 <i class="mi mi-Home"></i>
 ```
@@ -66,7 +73,7 @@ example:
 
 3- config `gulpfile.js` for your _fontname_, _fontversion_ and etc.
 
-4- customize your css template `/templates/style-template.css`,`/templates/style-min-template.css`. (default use Font-Awesome template Edited by Micon)
+4- customize your scss, less and css template in `.templates/`. (default use Font-Awesome template Edited by Micon)
 
 5- build your font with down command
 
@@ -95,6 +102,13 @@ For more information on SemVer, please visit <http://semver.org>.
 Next Micon font version release, when **RedSton2** font version release.
 
 ### Change Logs
+
+#### Version 2.1.155 (29/12/2016)
+
+- support **bower**
+- add **scss** and **less** template
+- move templates to .templates
+- fix style.css problem
 
 #### Version 2.0.155 (23/12/2016)
 

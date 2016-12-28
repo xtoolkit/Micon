@@ -1,0 +1,36 @@
+{
+    "name": "micon",
+    "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+    "main": [
+        "dist/micon/less/micon.less",
+        "dist/micon/scss/micon.scss"
+    ],
+    "authors": [{
+        "name": "Mehdi HosseinZade",
+        "email": "arshen@outlook.com",
+        "homepage": "http://arshen.ir"
+    }],
+    "license": "MIT",
+    "keywords": [
+        "Micon",
+        "MDL2",
+        "icons",
+        "MDL2",
+        "web",
+        "font",
+        "icon",
+        "font",
+        "bootstrap"
+    ],
+    "homepage": "http://xtoolkit.github.io/Micon/",
+    "ignore": [
+        ".*",
+        "*.json",
+        "*.js",
+        ".travis.yml",
+        "dist/micon_nb",
+        "icons",
+        "node_modules",
+        "templates"
+    ]
+}

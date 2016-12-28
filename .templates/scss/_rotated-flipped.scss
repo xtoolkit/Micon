@@ -1,0 +1,32 @@
+// Rotated & Flipped Icons
+// -------------------------
+
+.#{$<%= className %>-css-prefix}-rotate-90 {
+    @include <%= className %>-icon-rotate(90deg, 1);
+}
+
+.#{$<%= className %>-css-prefix}-rotate-180 {
+    @include <%= className %>-icon-rotate(180deg, 2);
+}
+
+.#{$<%= className %>-css-prefix}-rotate-270 {
+    @include <%= className %>-icon-rotate(270deg, 3);
+}
+
+.#{$<%= className %>-css-prefix}-flip-horizontal {
+    @include <%= className %>-icon-flip(-1, 1, 0);
+}
+
+.#{$<%= className %>-css-prefix}-flip-vertical {
+    @include <%= className %>-icon-flip(1, -1, 2);
+}
+// Hook for IE8-9
+// -------------------------
+
+:root .#{$<%= className %>-css-prefix}-flip-horizontal,
+:root .#{$<%= className %>-css-prefix}-flip-vertical,
+:root .#{$<%= className %>-css-prefix}-rotate-180,
+:root .#{$<%= className %>-css-prefix}-rotate-270,
+:root .#{$<%= className %>-css-prefix}-rotate-90 {
+    filter: none;
+}

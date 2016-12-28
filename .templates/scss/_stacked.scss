@@ -1,0 +1,31 @@
+// Stacked Icons
+// -------------------------
+
+.#{$<%= className %>-css-prefix}-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
+
+.#{$<%= className %>-css-prefix}-stack-1x,
+.#{$<%= className %>-css-prefix}-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.#{$<%= className %>-css-prefix}-stack-1x {
+    line-height: inherit;
+}
+
+.#{$<%= className %>-css-prefix}-stack-2x {
+    font-size: 2em;
+}
+
+.#{$<%= className %>-css-prefix}-inverse {
+    color: $<%= className %>-inverse;
+}
