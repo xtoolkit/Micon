@@ -28,7 +28,7 @@ Download last Micon version release from [Github](https://github.com/xtoolkit/Mi
 2- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
 example:
 
-```xml
+``` xml
 <head>
 ...
 <link rel="stylesheet" href="micon-repo/dist/micon/css/micon.min.css">
@@ -39,8 +39,7 @@ example:
 ### use icons in html
 
 example:
-
-```xml
+``` xml
 <i class="mi mi-Home"></i>
 ```
 
@@ -60,7 +59,7 @@ $ npm install
 if add new icon, insert icon name in `name_db.json`.<br>
 example:
 
-```json
+``` json
 {
     ...,
     "svgfilename": [
