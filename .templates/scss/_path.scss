@@ -1,0 +1,13 @@
+/* FONT PATH
+ * -------------------------- */
+@font-<%= className %>ce {
+    font-family: '<%= fontName %>';
+    src: url('#{$<%= className %>-font-path}<%= fontName %>.eot?v=#{$<%= className %>-version}');
+    src: url('#{$<%= className %>-font-path}<%= fontName %>.eot?#iefix&v=#{$<%= className %>-version}') format('embedded-opentype'),
+    url('#{$<%= className %>-font-path}<%= fontName %>.woff2?v=#{$<%= className %>-version}') format('woff2'),
+    url('#{$<%= className %>-font-path}<%= fontName %>.woff?v=#{$<%= className %>-version}') format('woff'),
+    url('#{$<%= className %>-font-path}<%= fontName %>.ttf?v=#{$<%= className %>-version}') format('truetype'),
+    url('#{$<%= className %>-font-path}<%= fontName %>.svg?v=#{$<%= className %>-version}#<%= fontName %>') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

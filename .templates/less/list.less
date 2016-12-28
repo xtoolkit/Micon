@@ -1,0 +1,24 @@
+// List Icons
+// -------------------------
+
+.@{<%= className %>-css-prefix}-ul {
+    padding-left: 0;
+    margin-left: @<%= className %>-li-width;
+    list-style-type: none;
+
+    > li {
+        position: relative;
+    }
+}
+
+.@{<%= className %>-css-prefix}-li {
+    position: absolute;
+    left: -@<%= className %>-li-width;
+    width: @<%= className %>-li-width;
+    top: (2em / 14);
+    text-align: center;
+
+    &.@{<%= className %>-css-prefix}-lg {
+        left: (-@<%= className %>-li-width + (4em / 14));
+    }
+}
