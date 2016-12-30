@@ -1,0 +1,59 @@
+<%
+function xISODateString(d) {
+    function pad(n) {return n<10 ? '0'+n : n}
+    return d.getUTCFullYear()+'-'
+         + pad(d.getUTCMonth()+1)+'-'
+         + pad(d.getUTCDate())+'T'
+         + pad(d.getUTCHours())+':'
+         + pad(d.getUTCMinutes())+':'
+         + pad(d.getUTCSeconds())+'+00:00'
+}
+var d = new Date();
+var xdate = xISODateString(d);
+%><?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc><%= config.home %></loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc><%= config.home %>get-started/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc><%= config.home %>icons/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc><%= config.home %>examples/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc><%= config.home %>cheatsheet/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc><%= config.home %>changelogs/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+<%
+for (i in orgname){
+%>	<url>
+		<loc><%= config.home %>icon/<%= orgname[i] %>/</loc>
+		<priority>0.5</priority>
+		<lastmod><%= xdate %></lastmod>
+		<changefreq>monthly</changefreq>
+	</url>
+<% } %></urlset>

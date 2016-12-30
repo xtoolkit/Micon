@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<base href="<%= config.home %>"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="midth=device-width, initial-scale=1.0" />
+	<title>Micon - Icons - <%= loci %></title>
+<%
+const styles=config.styles;
+for (i in styles){
+%>	<link rel="stylesheet" href="<%= styles[i] %>" type="text/css"/>
+<% }
+const scripts=config.scripts;
+for (i in scripts){
+%>	<script src="<%= scripts[i] %>" type="text/javascript"></script>
+<% } %></head>
+
+<body>
+	<div class="hmenu">
+		<div class="theme">
+			<a href="" class="logo"><span class="mi mi-ResolutionLegacy"></span><span class="logoinfo">Micon</span></a>
+			<a href="#" class="xmenu"><i class="mi mi-GlobalNavButton"></i></a>
+			<ul class="menu">
+<%
+const mnow="Icons";
+const menus=config.menu;
+for (i in menus){
+	var mdb=menus[i];
+%>				<li<% if(mnow==mdb.name){ %> class="selected"<% } %>><a href="<%= mdb.href %>/"><%= mdb.name %></a></li>
+<% } %>			</ul>
+		</div>
+	</div>
+	<div class="iconsp">
+		<div class="theme">
+			<div class="hmtopicon sifixa">
+				<i class="iconxorg mi mi-<%= loci %>" style="font-size:175px;"></i>
+				<i class="mi mi-<%= loci %>" style="font-size:125px;"></i>
+				<i class="mi mi-<%= loci %>" style="font-size:75px;"></i>
+				<i class="mi mi-<%= loci %>" style="font-size:50px;"></i>
+				<i class="mi mi-<%= loci %>" style="font-size:25px;"></i>
+			</div>
+		</div>
+	</div>
+	<div class="homehp">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li>mi-<%= loci %></li>
+				<li class="spash">-</li>
+				<li>Unicode: <%= cheet[loci] %></li>
+				<li class="spash">-</li>
+				<li>Created: <%= config.ver %></li>
+				<li class="spash">-</li>
+				<li>Categories: <a href="">Global</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="main">
+		<div class="theme">
+			<div class="nbox">
+				<div class="iconst">
+					<pre>&lt;i class=&quot;mi mi-<%= loci %>&quot;&gt;&lt;/i&gt;</pre>
+				</div>
+				<div class="importi">
+					<div class="contact">
+						<h3>note</h3>
+						<ul>
+							<li>
+								<p>After you get up and running, you can place Micon icons just about anywhere with the &lt;i&gt; tag.</p>
+							</li>
+							<li>
+								<p>Looking for more? Check out the <a href="examples/">examples</a>..</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li><a href="https://github.com/xtoolkit/Micon/">GitHub Project</a></li>
+				<li><a href="mailto:arshen@outlook.com">Feedback</a></li>
+				<li><a href="<%= config.author.home %>"><%= config.author.nhome %></a></li>
+			</ul>
+			<div class="crighty"><span>Micon</span><br>© <%= config.copyyear %> <%= config.author.nhome %></div>
+		</div>
+	</div>
+</body>
+
+</html>

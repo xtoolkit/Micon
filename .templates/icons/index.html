@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<base href="<%= config.home %>"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="midth=device-width, initial-scale=1.0" />
+	<title>Micon - Icons</title>
+<%
+const styles=config.styles;
+for (i in styles){
+%>	<link rel="stylesheet" href="<%= styles[i] %>" type="text/css"/>
+<% }
+const scripts=config.scripts;
+for (i in scripts){
+%>	<script src="<%= scripts[i] %>" type="text/javascript"></script>
+<% } %></head>
+
+<body>
+	<div class="hmenu">
+		<div class="theme">
+			<a href="" class="logo"><span class="mi mi-ResolutionLegacy"></span><span class="logoinfo">Micon</span></a>
+			<a href="#" class="xmenu"><i class="mi mi-GlobalNavButton"></i></a>
+			<ul class="menu">
+<%
+const mnow="Icons";
+const menus=config.menu;
+for (i in menus){
+	var mdb=menus[i];
+%>				<li<% if(mnow==mdb.name){ %> class="selected"<% } %>><a href="<%= mdb.href %>/"><%= mdb.name %></a></li>
+<% } %>			</ul>
+		</div>
+	</div>
+	<div class="iconsp">
+		<div class="theme">
+			<div class="hmtop">Micon</div>
+			<div class="hmbot">The iconic font and CSS toolkit</div>
+		</div>
+	</div>
+	<div class="main">
+		<div class="theme">
+			<div class="iconst"><br></div>
+			<div class="importi">
+				<div class="contact">
+					<h3>Important</h3>
+					<ul>
+						<li>
+							<p>If you use <span>Firefox</span> and you have problem to see icons, go to <span>Options > Advenced > General > Browsing</span> and uncheck <span>Use hardware acceleration when available</span>.</p>
+						</li>
+						<li>
+							<p>You asked, <span>Micon</span> delivers mith new icons in new version. Want to request new icons? No we can't! because Micon icon's extracted of segmdl2.ttf font. Need vectors or want to use on the desktop? Check the <a href="cheatsheet/">cheatsheet</a>.</p>
+						</li>
+						<li>
+							<p>After you get up and running, you can place Micon icons just about anywhere with the <span>&lt;i&gt;</span> tag. Some examples appreciatively re-used from the <a href="http://getbootstrap.com/">Bootstrap documentation</a>. </p>
+						</li>
+						<li>
+							<p>If icons work great mith the <span>mi-spin</span> class. Check out the spinning icons example</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="nbox">
+				<div class="iconst">
+					<input class="livefilter" type="text" value="" placeholder="live Search icons..." />
+					<h3>Icons</h3>
+					<ul id="icons">
+<%
+for (i in orgname){
+%>						<li><a href="icon/<%= orgname[i] %>/" title="<%= orgname[i] %>"><span class="mi mi-<%= orgname[i] %>"></span><span class="ulatitle"><%= orgname[i] %></span></a></li>
+<% }
+for (j in namedb){
+_.each(namedb[j], function(icon) {
+if(j!=icon){
+%>						<li><a href="icon/<%= j %>/" title="<%= icon %>"><span class="mi mi-<%= icon %>"></span><span class="ulatitle"><%= icon %> (alias)</span></a></li>
+<%
+}
+});
+}
+%>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li><a href="https://github.com/xtoolkit/Micon/">GitHub Project</a></li>
+				<li><a href="mailto:arshen@outlook.com">Feedback</a></li>
+				<li><a href="<%= config.author.home %>"><%= config.author.nhome %></a></li>
+			</ul>
+			<div class="crighty"><span>Micon</span><br>© <%= config.copyyear %> <%= config.author.nhome %></div>
+		</div>
+	</div>
+</body>
+
+</html>

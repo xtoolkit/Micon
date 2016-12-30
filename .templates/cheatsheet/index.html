@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<base href="<%= config.home %>"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="midth=device-width, initial-scale=1.0" />
+	<title>Micon - CheatsSheet</title>
+<%
+const styles=config.styles;
+for (i in styles){
+%>	<link rel="stylesheet" href="<%= styles[i] %>" type="text/css"/>
+<% }
+const scripts=config.scripts;
+for (i in scripts){
+%>	<script src="<%= scripts[i] %>" type="text/javascript"></script>
+<% } %></head>
+
+<body>
+	<div class="hmenu">
+		<div class="theme">
+			<a href="" class="logo"><span class="mi mi-ResolutionLegacy"></span><span class="logoinfo">Micon</span></a>
+			<a href="#" class="xmenu"><i class="mi mi-GlobalNavButton"></i></a>
+			<ul class="menu">
+<%
+const mnow="Iconsx";
+const menus=config.menu;
+for (i in menus){
+	var mdb=menus[i];
+%>				<li<% if(mnow==mdb.name){ %> class="selected"<% } %>><a href="<%= mdb.href %>/"><%= mdb.name %></a></li>
+<% } %>			</ul>
+		</div>
+	</div>
+	<div class="iconsp">
+		<div class="theme">
+			<div class="hmtop">Micon</div>
+			<div class="hmbot">The iconic font and CSS toolkit</div>
+		</div>
+	</div>
+	<div class="main">
+		<div class="theme">
+			<div class="iconst"> </div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>Print this page to PDF for the complete set of vectors. Or to use on the desktop, install FontAwesome.otf, set it as the font in your application, and copy and paste the icons (not the unicode) directly from this page into your designs. </p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="nbox">
+				<div class="iconst cheatsheet">
+					<input class="livefilter" type="text" value="" placeholder="live Search icons..." />
+					<h3>Every Micon, CSS Class, & Unicode</h3>
+					<ul id="icons">
+						<ul id="icons">
+<%
+for (i in orgname){
+%>						<li><a title="<%= orgname[i] %>"><span class="mi mi-<%= orgname[i] %>"></span><span class="ulatitle"><%= orgname[i] %> [&amp;#x<%= cheet[orgname[i]] %>;]</span></a></li>
+<% } %>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li><a href="https://github.com/xtoolkit/Micon/">GitHub Project</a></li>
+				<li><a href="mailto:arshen@outlook.com">Feedback</a></li>
+				<li><a href="<%= config.author.home %>"><%= config.author.nhome %></a></li>
+			</ul>
+			<div class="crighty"><span>Micon</span><br>© <%= config.copyyear %> <%= config.author.nhome %></div>
+		</div>
+	</div>
+</body>
+
+</html>

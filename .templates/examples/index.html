@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<base href="<%= config.home %>"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="midth=device-width, initial-scale=1.0" />
+	<title>Micon - Examples</title>
+<%
+const styles=config.styles;
+for (i in styles){
+%>	<link rel="stylesheet" href="<%= styles[i] %>" type="text/css"/>
+<% }
+const scripts=config.scripts;
+for (i in scripts){
+%>	<script src="<%= scripts[i] %>" type="text/javascript"></script>
+<% } %></head>
+
+<body>
+	<div class="hmenu">
+		<div class="theme">
+			<a href="" class="logo"><span class="mi mi-ResolutionLegacy"></span><span class="logoinfo">Micon</span></a>
+			<a href="#" class="xmenu"><i class="mi mi-GlobalNavButton"></i></a>
+			<ul class="menu">
+<%
+const mnow="Examples";
+const menus=config.menu;
+for (i in menus){
+	var mdb=menus[i];
+%>				<li<% if(mnow==mdb.name){ %> class="selected"<% } %>><a href="<%= mdb.href %>/"><%= mdb.name %></a></li>
+<% } %>			</ul>
+		</div>
+	</div>
+	<div class="iconsp">
+		<div class="theme">
+			<div class="hmtop">Micon</div>
+			<div class="hmbot">Lots of easy ways to use Micon.</div>
+		</div>
+	</div>
+	<div class="main">
+		<div class="theme">
+			<div class="iconst">
+				<h3>Basic Icons</h3>
+				<p><i class="mi mi-Settings"></i> mi-Settings : <pre>&lt;i class=&quot;mi mi-Settings&quot;&gt;&lt;/i&gt;</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>You can place Micon icons just about anywhere using the CSS Prefix <span>mi</span> and the icon's name. Micon is designed to be used with inline elements (we like the <span>&lt;i&gt;</span> tag for brevity, but using a <span>&lt;span&gt;</span>								is more semantically correct). </p>
+						</li>
+						<li>
+							<p>If you change the font-size of the icon's container, the icon gets bigger. Same things goes for color, drop shadow, and anything else that gets inherited using CSS.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>Larger Icons</h3>
+				<p><i class="mi mi-Settings mi-lg"></i> mi-lg : <pre>&lt;i class=&quot;mi mi-Settings mi-lg&quot;&gt;&lt;/i&gt;</pre></p>
+				<p><i class="mi mi-Settings mi-2x"></i> mi-2x : <pre>&lt;i class=&quot;mi mi-Settings mi-2x&quot;&gt;&lt;/i&gt;</pre></p>
+				<p><i class="mi mi-Settings mi-3x"></i> mi-3x : <pre>&lt;i class=&quot;mi mi-Settings mi-3x&quot;&gt;&lt;/i&gt;</pre></p>
+				<p><i class="mi mi-Settings mi-4x"></i> mi-4x : <pre>&lt;i class=&quot;mi mi-Settings mi-4x&quot;&gt;&lt;/i&gt;</pre></p>
+				<p><i class="mi mi-Settings mi-5x"></i> mi-5x : <pre>&lt;i class=&quot;mi mi-Settings mi-5x&quot;&gt;&lt;/i&gt;</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>To increase icon sizes relative to their container, use the <span>mi-lg</span> (33% increase), <span>mi-2x</span>, <span>mi-3x</span>, <span>mi-4x</span>, or <span>mi-5x</span> classes. </p>
+						</li>
+						<li>
+							<p>If your icons are getting chopped off on top and bottom, make sure you have sufficient line-height.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>Fixed Width Icons</h3>
+				<p><i class="mi mi-Settings mi-fw"></i> mi-fw : <pre>&lt;i class=&quot;mi mi-Settings mi-fw&quot;&gt;&lt;/i&gt;</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>Use <span>mi-fw</span> to set icons at a fixed width. Great to use when different icon widths throw off alignment. Especially useful in things like nav lists & list groups.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>List Icons</h3>
+				<div class="fixrg">
+					<ul class="mi-ul">
+						<li style="float:none"><i class="mi-li mi mi-Settings"></i>List icons</li>
+						<li style="float:none"><i class="mi-li mi mi-Send"></i>can be used</li>
+						<li style="float:none"><i class="mi-li mi mi-Rotate mi-spin"></i>as bullets</li>
+						<li style="float:none"><i class="mi-li mi mi-MyNetwork"></i>in lists</li>
+					</ul>
+					<pre>&lt;ul class=&quot;mi-ul&quot;&gt;
+	&lt;li&gt;&lt;i class=&quot;mi-li mi mi-Settings&quot;&gt;&lt;/i&gt;List icons&lt;/li&gt;
+	&lt;li&gt;&lt;i class=&quot;mi-li mi mi-Send&quot;&gt;&lt;/i&gt;can be used&lt;/li&gt;
+	&lt;li&gt;&lt;i class=&quot;mi-li mi mi-Rotate mi-spin&quot;&gt;&lt;/i&gt;as bullets&lt;/li&gt;
+	&lt;li&gt;&lt;i class=&quot;mi-li mi mi-MyNetwork&quot;&gt;&lt;/i&gt;in lists&lt;/li&gt;
+&lt;/ul&gt;</pre></div>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>Use <span>mi-ul</span> and <span>mi-li</span> to easily replace default bullets in unordered lists.</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>Animated Icons</h3>
+				<p>
+					<i class="mi mi-fw mi-Settings mi-spin"></i>
+					<i class="mi mi-fw mi-Globe mi-pulse"></i>
+					<i class="mi mi-fw mi-Refresh mi-spin"></i> :
+					<pre>&lt;i class=&quot;mi mi-Settings mi-spin&quot;&gt;&lt;/i&gt;
+&lt;i class=&quot;mi mi-Globe mi-pulse&quot;&gt;&lt;/i&gt;
+&lt;i class=&quot;mi mi-Refresh mi-spin&quot;&gt;&lt;/i&gt;</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>Use the <span>mi-spin</span> class to get any icon to rotate, and use <span>mi-pulse</span> to have it rotate with 8 steps. Works well with <span>mi-Settings</span>, <span>mi-refresh</span>, and <span>more</span>.</p>
+						</li>
+						<li>
+							<p>CSS3 animations aren't supported in IE8 - IE9.</li>
+						<li>
+							<p>Some browsers on some platforms have issues with animated icons resulting in a jittery wobbling effect.</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>Rotated & Flipped </h3>
+				<p>
+					<i class="mi mi-SDCard"></i> normal<br>
+					<i class="mi mi-SDCard mi-rotate-90"></i> mi-rotate-90<br>
+					<i class="mi mi-SDCard mi-rotate-180"></i> mi-rotate-180<br>
+					<i class="mi mi-SDCard mi-rotate-270"></i> mi-rotate-270<br>
+					<i class="mi mi-SDCard mi-flip-horizontal"></i> mi-flip-horizontal<br>
+					<i class="mi mi-SDCard mi-flip-vertical"></i> icon-flip-vertical :
+					<pre>&lt;i class=&quot;mi mi-SDCard&quot;&gt;&lt;/i&gt; normal&lt;br&gt;
+&lt;i class=&quot;mi mi-SDCard mi-rotate-90&quot;&gt;&lt;/i&gt; mi-rotate-90&lt;br&gt;
+&lt;i class=&quot;mi mi-SDCard mi-rotate-180&quot;&gt;&lt;/i&gt; mi-rotate-180&lt;br&gt;
+&lt;i class=&quot;mi mi-SDCard mi-rotate-270&quot;&gt;&lt;/i&gt; mi-rotate-270&lt;br&gt;
+&lt;i class=&quot;mi mi-SDCard mi-flip-horizontal&quot;&gt;&lt;/i&gt; mi-flip-horizontal&lt;br&gt;
+&lt;i class=&quot;mi mi-SDCard mi-flip-vertical&quot;&gt;&lt;/i&gt; icon-flip-vertical</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>To arbitrarily rotate and flip icons, use the <span>mi-rotate-*</span> and <span>mi-flip-*</span> classes.</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst">
+				<h3>Stacked Icons</h3>
+				<p>
+					<span class="mi-stack mi-lg">
+	<i class="mi mi-BodyCam mi-stack-1x"></i>
+	<i class="mi mi-BlockedLegacy mi-stack-2x text-danger"></i>
+</span> mi-BlockedLegacy on mi-BodyCam :
+					<pre>
+&lt;span class=&quot;mi-stack mi-lg&quot;&gt;
+	&lt;i class=&quot;mi mi-BodyCam mi-stack-1x&quot;&gt;&lt;/i&gt;
+	&lt;i class=&quot;mi mi-BlockedLegacy mi-stack-2x text-danger&quot;&gt;&lt;/i&gt;
+&lt;/span&gt;</pre></p>
+				OR
+				<p>
+					<span class="mi-stack mi-lg">
+	<i class="mi mi-HeartFill mi-stack-1x text-danger"></i>
+	<i class="mi mi-Heart mi-stack-1x"></i>
+</span> mi-Heart on mi-HeartFill :
+					<pre>
+&lt;span class=&quot;mi-stack mi-lg&quot;&gt;
+	&lt;i class=&quot;mi mi-HeartFill mi-stack-1x  text-danger&quot;&gt;&lt;/i&gt;
+	&lt;i class=&quot;mi mi-Heart mi-stack-1x&quot;&gt;&lt;/i&gt;
+&lt;/span&gt;</pre></p>
+			</div>
+			<div class="importi">
+				<div class="contact">
+					<h3>note</h3>
+					<ul>
+						<li>
+							<p>To stack multiple icons, use the <span>mi-stack</span> class on the parent, the <span>mi-stack-1x</span> for the regularly sized icon, and <span>mi-stack-2x</span> for the larger icon. <span>mi-inverse</span> can be used as an alternative icon
+								color. You can even throw larger icon classes on the parent to get further control of sizing. </li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst"><br></div>
+		</div>
+	</div>
+	</div>
+	<div class="footer">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li><a href="https://github.com/xtoolkit/Micon/">GitHub Project</a></li>
+				<li><a href="mailto:arshen@outlook.com">Feedback</a></li>
+				<li><a href="<%= config.author.home %>"><%= config.author.nhome %></a></li>
+			</ul>
+			<div class="crighty"><span>Micon</span><br>© <%= config.copyyear %> <%= config.author.nhome %></div>
+		</div>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+{
+    "name": "Micon",
+    "version": "2.1.155",
+    "style": "dist/css/micon.css",
+    "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+    "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap"],
+    "homepage": "http://xtoolkit.github.io/Micon/",
+    "bugs": {
+        "url": "http://github.com/xtoolkit/Micon/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xtoolkit/Micon.git"
+    },
+    "author": {
+        "name": "Mehdi HosseinZade",
+        "email": "arshen@outlook.com",
+        "web": "http://arshen.ir/"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": ">=3.9.1",
+        "gulp-consolidate": ">=0.2.0",
+        "gulp-iconfont": ">=8.0.1",
+        "gulp-rename": ">=1.2.2",
+        "lodash": ">=4.17.2"
+    },
+    "scripts": {
+        "start": "gulp gbuild"
+    }
+}

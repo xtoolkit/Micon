@@ -1,0 +1,854 @@
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+article, aside, footer, header, nav, section {
+    display: block;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+figcaption, figure, main {
+    display: block;
+}
+
+figure {
+    margin: 1em 40px;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+pre {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+a:active, a:hover {
+    outline-width: 0;
+}
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted;
+}
+
+b, strong {
+    font-weight: inherit;
+}
+
+b, strong {
+    font-weight: bolder;
+}
+
+code, kbd, samp {
+    font-family: monospace, monospace;
+    font-size: 1em;
+}
+
+dfn {
+    font-style: italic;
+}
+
+mark {
+    background-color: #ff0;
+    color: #000;
+}
+
+small {
+    font-size: 80%;
+}
+
+sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+sup {
+    top: -0.5em;
+}
+
+audio, video {
+    display: inline-block;
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+img {
+    border-style: none;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+button, input, optgroup, select, textarea {
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+
+button, input {
+    overflow: visible;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, html [type="button"], [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+}
+
+button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {
+    border-style: none;
+    padding: 0;
+}
+
+button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
+}
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+    box-sizing: border-box;
+    color: inherit;
+    display: table;
+    max-width: 100%;
+    padding: 0;
+    white-space: normal;
+}
+
+progress {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+textarea {
+    overflow: auto;
+}
+
+[type="checkbox"], [type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+
+[type="search"] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px;
+}
+
+[type="search"]::-webkit-search-cancel-button, [type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit;
+}
+
+details, menu {
+    display: block;
+}
+
+summary {
+    display: list-item;
+}
+
+canvas {
+    display: inline-block;
+}
+
+template {
+    display: none;
+}
+
+[hidden] {
+    display: none;
+}
+
+
+/* customize */
+
+html {
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    outline: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+button {
+    cursor: pointer;
+}
+
+input, textarea, button {
+    outline: 0;
+}
+
+
+/* start */
+
+body {
+    direction: ltr;
+    background: #fff;
+}
+
+.theme {
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.xmenu {
+    display: none;
+    float: right;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    font-size: 24px;
+    line-height: 74px;
+    text-align: center;
+}
+
+.hmenu {
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    background: #0078d7;
+    border-bottom: 1px solid #006cc1;
+    z-index: 100001;
+}
+
+.logo {
+    float: left;
+    height: 70px;
+    margin: 0 10px 0 0;
+    color: #fff;
+}
+
+.logo .mi {
+    float: left;
+    height: 70px;
+    line-height: 70px;
+    font-size: 22px;
+    width: 28px;
+    text-align: center
+}
+
+.logo .logoinfo {
+    float: left;
+    height: 70px;
+    font: normal 22px/70px "Segoe UI", arial;
+}
+
+ul.menu {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+ul.menu li {
+    float: left;
+    margin: 0 0 0 1px;
+    padding: 0;
+}
+
+ul.menu li a {
+    float: left;
+    padding: 0 22px;
+    height: 70px;
+    color: #fff;
+    font: normal 16px/66px "Segoe UI", arial;
+    transition: background-color 0.3s ease-out
+}
+
+ul.menu li a span {
+    font-size: 8px;
+    margin-left: 2px;
+}
+
+ul.menu li a:hover {
+    background: #006cc1;
+}
+
+ul.menu li.selected a, ul.menu li a:focus {
+    background: #0060ac;
+}
+
+ul.menu li ul {
+    margin: 0;
+    background: #006cc1;
+    width: 288px;
+    position: absolute;
+    padding: 10px 0px;
+    display: none;
+    float: none;
+    top: 71px;
+}
+
+ul.menu li ul li {
+    margin: 0;
+}
+
+ul.menu li ul li a {
+    width: 288px;
+    padding: 0;
+    text-indent: 22px;
+    height: 40px;
+    line-height: 36px;
+}
+
+ul.menu li ul li a:hover {
+    background: #0060ac;
+}
+
+.homep {
+    background: #0078d7;
+    float: right;
+    height: 460px;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.homep .left {
+    float: left;
+    height: 460px;
+    width: 49%;
+}
+
+.homep .hltext {
+    float: left;
+    width: 100%;
+    font: 400 34px "Segoe UI", arial;
+    color: #fff;
+    margin-top: 148px;
+}
+
+.homep .hltext a {
+    padding: 12px 20px;
+    font: 400 18px "Segoe UI", arial;
+    color: #0078d7;
+    background: #fff;
+}
+
+.homep .hltext a:hover {
+    border: 2px solid #BFBFBF;
+    padding: 10px 18px;
+}
+
+.homep .right {
+    float: right;
+    height: 460px;
+    width: 49%;
+}
+
+ul.bjqs {
+    position: relative;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    display: none;
+}
+
+ul.bjqs li.bjqs-slide {
+    position: absolute;
+    display: none;
+    text-align: center;
+    color: #fff;
+    display: none;
+    font-size: 200px;
+    line-height: 500px;
+}
+
+ul.bjqs-controls {
+    float: right;
+    width: 100%;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    font-size: 40px;
+    line-height: 30px;
+}
+
+ul.bjqs-controls.v-centered li {
+    margin: 0;
+    padding: 0;
+}
+
+ul.bjqs-controls.v-centered li a {
+    color: #fff;
+}
+
+ul.bjqs-controls.v-centered li.bjqs-next {
+    float: right;
+    height: 60px;
+    width: 49%;
+    text-align: left;
+}
+
+ul.bjqs-controls.v-centered li.bjqs-prev {
+    float: left;
+    height: 60px;
+    width: 49%;
+    text-align: right;
+}
+
+.homehp {
+    background: #d2d2d2;
+    float: right;
+    min-height: 70px;
+    width: 100%;
+    line-height: 66px;
+}
+
+ul.hxmenu {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+ul.hxmenu li {
+    float: left;
+    margin: 0 0 0 1px;
+    padding: 0 10px;
+    height: 70px;
+    font: normal 14px/66px "Segoe UI", arial;
+    color: #505050;
+    transition: color 0.3s ease-out;
+}
+
+ul.hxmenu li a {
+    color: #0078d7;
+}
+
+ul.hxmenu li a:hover {
+    color: #0060ac;
+}
+
+.iconsp {
+    background: #d2d2d2;
+    float: right;
+    min-height: 236px;
+    width: 100%;
+    margin-top: 71px;
+}
+
+.iconsp .hmtop {
+    float: right;
+    height: 166px;
+    width: 100%;
+    font: normal 44px/210px "Segoe UI", arial;
+    color: #505050;
+}
+
+.iconsp .hmtopicon {
+    float: right;
+    height: 166px;
+    width: 100%;
+    font: normal 100px/350px "Segoe UI", arial;
+    color: #505050;
+}
+
+.iconsp .hmbot {
+    float: right;
+    min-height: 70px;
+    width: 100%;
+    font: normal 24px/66px "Segoe UI", arial;
+    color: #606060;
+}
+
+.main {
+    float: right;
+    width: 100%;
+}
+
+.quitset {
+    height: 282px;
+    width: 100%;
+    color: #505050;
+    float: left;
+    background: url(../image/1.png) right no-repeat;
+    font: normal 13px "Segoe UI", arial;
+    margin: 50px 0 26px 0;
+}
+
+.quitset div {
+    float: left;
+    width: 50%;
+}
+
+.quitset span, .quitset a {
+    font-weight: bold;
+}
+
+.importi {
+    float: right;
+    width: 100%;
+    background: #ededf0;
+}
+
+.importi .contact {
+    color: #505050;
+    padding: 15px 25px;
+    font: normal 13px "Segoe UI", arial;
+}
+
+.importi .contact h3 {
+    font-weight: bold;
+}
+
+.importi .contact ul {
+    margin: 0 0 0 28px;
+    padding: 0;
+}
+
+.importi .contact ul li {
+    padding: 0;
+    margin: 0;
+    list-style-type: disc;
+}
+
+.importi .contact ul li span, .importi .contact ul li a {
+    font-weight: bold;
+}
+
+.nbox {
+    float: right;
+    width: 100%;
+    margin: 50px 0;
+}
+
+.nbox .row1 {
+    float: right;
+    width: 100%;
+    text-align: center;
+    color: #0078d7;
+    font: normal 26px "Segoe UI", arial;
+    margin: 5px;
+}
+
+.nbox .row2 {
+    float: right;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font: normal 20px "Segoe UI", arial;
+    margin: 5px;
+}
+
+ul.xrow {
+    float: right;
+    margin: 60px 0 0 0;
+    padding: 0;
+}
+
+ul.xrow li {
+    float: left;
+    height: 260px;
+    padding: 0;
+    width: 24.9%
+}
+
+ul.xrow li .icon {
+    float: right;
+    margin: 0 0 20px 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    color: #0078d7;
+    font-size: 50px;
+}
+
+ul.xrow li h4 {
+    float: right;
+    margin: 0 0 10px 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    color: #0078d7;
+    font-size: 22px;
+}
+
+ul.xrow li .contactx {
+    float: right;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font: normal 18px "Segoe UI", arial;
+}
+
+.footer {
+    float: right;
+    width: 100%;
+    padding: 10px 0;
+    background: #2F2F2F;
+}
+
+.footer ul.hxmenu li, .footer ul.hxmenu a {
+    color: #fff
+}
+
+.footer .crighty {
+    float: right;
+    margin: 14px 0 0 1px;
+    padding: 0 10px;
+    height: 56px;
+    font: normal 14px/16px "Segoe UI", arial;
+    color: #fff;
+    text-align: center;
+}
+
+.footer .crighty span {
+    font-size: 24px;
+}
+
+.iconst {
+    float: right;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.iconst h3 {
+    float: right;
+    width: 100%;
+    margin: 10px 0;
+    font: normal 16px/66px "Segoe UI", arial;
+    color: #0078d7;
+}
+
+.iconst #icons, .iconst .mi-ul {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.iconst #icons li {
+    float: left;
+    width: 24.9%;
+    height: 40px;
+    margin: 4px 0;
+    padding: 0;
+    overflow: hidden
+}
+
+.iconst #icons li a {
+    float: left;
+    width: 1000px;
+    height: 40px;
+    margin: 0;
+    font: normal 14px "Segoe UI", arial;
+    color: #000;
+    transition: all 0.3s ease-out;
+}
+
+.iconst #icons li:hover a {
+    background: #0078d7;
+    color: #fff
+}
+
+.iconst #icons li .mi {
+    font-size: 20px;
+    float: left;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.iconst #icons li .ulatitle {
+    height: 40px;
+    line-height: 40px;
+    float: left;
+}
+
+.livefilter {
+    border: 0;
+    background: #D2D2D2;
+    float: right;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    text-indent: 10px;
+    font: normal 14px "Segoe UI", arial;
+    color: #2F2F2F;
+}
+
+.cheatsheet #icons li a {
+    font-size: 10px;
+}
+
+.text-danger {
+    color: #F25022;
+}
+
+.fixrg, .fixrg pre {
+    float: left;
+    width: 100%;
+}
+
+@media (max-width:1023px) {
+    .homep .left, .homep .right {
+        width: 100%;
+        height: 230px !important;
+    }
+    .homep .hltext {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 24px;
+    }
+    .homep .right * {
+        height: 230px !important;
+    }
+    ul.bjqs li.bjqs-slide {
+        font-size: 140px;
+        line-height: 200px;
+    }
+    .homep .right ul.bjqs-controls {
+        height: 42px !important;
+        margin-top: -58px;
+        position: relative;
+        z-index: 99;
+    }
+    .homep .right ul.bjqs-controls li {
+        height: 42px !important;
+    }
+    .xmenu {
+        display: block;
+    }
+    ul.menu {
+        position: absolute;
+        top: 71px;
+        width: 100%;
+        right: 0;
+        left: 0;
+        background: #333;
+        display: none;
+    }
+    ul.menu li {
+        width: 100%;
+    }
+    ul.menu li a {
+        padding: 0;
+        width: 100%;
+        text-indent: 20px;
+        height: 50px;
+        line-height: 50px;
+    }
+    ul.hxmenu {
+        width: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    ul.hxmenu li {
+        float: none;
+        display: inline-block;
+        margin: 0;
+    }
+    ul.hxmenu li.splash {
+        display: none
+    }
+    ul.hxmenu li {
+        float: left;
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        padding: 0;
+        text-align: left;
+    }
+    ul.xrow li {
+        width: 100%;
+    }
+    .footer .crighty {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .iconst .fixrg ul {
+        margin-left: 30px;
+    }
+    .quitset {
+        background-size: 100% auto;
+        padding-top: 300px;
+        background-position: top center;
+        margin-top: 80px;
+    }
+    .quitset div {
+        width: 100%;
+    }
+    .iconst #icons li {
+        width: 100%;
+    }
+    .iconsp .hmtopicon i {
+        display: none;
+    }
+    .iconsp .hmtopicon .iconxorg {
+        display: block;
+    }
+    .sifixa {
+        text-align: center;
+    }
+    ul.hxmenu li.spash {
+        display: none;
+    }
+}

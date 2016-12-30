@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<base href="<%= config.home %>"/>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="midth=device-width, initial-scale=1.0" />
+	<title>Micon - Change Logs</title>
+<%
+const styles=config.styles;
+for (i in styles){
+%>	<link rel="stylesheet" href="<%= styles[i] %>" type="text/css"/>
+<% }
+const scripts=config.scripts;
+for (i in scripts){
+%>	<script src="<%= scripts[i] %>" type="text/javascript"></script>
+<% } %></head>
+
+<body>
+	<div class="hmenu">
+		<div class="theme">
+			<a href="" class="logo"><span class="mi mi-ResolutionLegacy"></span><span class="logoinfo">Micon</span></a>
+			<a href="#" class="xmenu"><i class="mi mi-GlobalNavButton"></i></a>
+			<ul class="menu">
+<%
+const mnow="Change Logs";
+const menus=config.menu;
+for (i in menus){
+	var mdb=menus[i];
+%>				<li<% if(mnow==mdb.name){ %> class="selected"<% } %>><a href="<%= mdb.href %>/"><%= mdb.name %></a></li>
+<% } %>			</ul>
+		</div>
+	</div>
+	<div class="iconsp">
+		<div class="theme">
+			<div class="hmtop">Micon</div>
+			<div class="hmbot">Change logs of Micon</div>
+		</div>
+	</div>
+	<div class="main">
+		<div class="theme">
+			<div class="importi" style="margin-top: 80px;">
+				<div class="contact">
+					<h3>version 2.1.155 (29/12/2016)</h3>
+					<ul>
+						<li>
+							<p>support <span>bower</span></p>
+						</li>
+						<li>
+							<p>add <span>scss</span> and <span>less</span> template</p>
+						</li>
+						<li>
+							<p>move templates to .templates</p>
+						</li>
+						<li>
+							<p>fix style.css problem</p>
+						</li>
+					</ul>
+						<h3>version 2.0.155 (23/12/2016)</h3>
+						<ul>
+							<li>
+								<p>add <span>GulpJs</span> for build Micon or Easy create custom font fork Micon icons</p>
+							</li>
+						<li>
+							<p>add <span>webBrand</span> icons</p>
+						</li>
+						<li>
+							<p>add <span>woff2</span> and <span>otf</span> standard font</p>
+						</li>
+						<li>
+							<p>add html-demo-micon.html for simple portable view icons.</p>
+						</li>
+						<li>
+							<p>update style template</p>
+						</li>
+						<li>
+							<p>fix alias name problem</p>
+						</li>
+						<li>
+							<p>fix some font view probrom (etc height of icons)</p>
+						</li>
+					</ul>
+					<h3>version 1.0.155 (16/08/2016)</h3>
+					<ul>
+						<li>
+							<p>update icons <span>version</span> => 155 <span>(RedStone)</span></p>
+						</li>
+						<li>
+							<p>rename icons <span>name</span> with <a href="https://msdn.microsoft.com/en-us/windows/uwp/style/segoe-ui-symbol-font">official MDL2 icons name</a></p>
+						</li>
+						<li>
+							<p>remove <span>woff2</span> and <span>otf</span> font</li>
+						<li>
+							<p>fixed icon <span>animation</span> problem</p>
+						</li>
+						<li>
+							<p>fixed icon<span> height</span> problem</p>
+						</li>
+						<li>
+							<p>create <span>Change logs</span> page</p>
+						</li>
+					</ul>
+					<h3>version 0.9.136 (12/09/2015)</h3>
+					<ul>
+						<li>
+							<p>initial build</p>
+						</li>
+						<li>
+							<p>remove duplicate svg path and use css alias</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="iconst"><br><br><br></div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="theme">
+			<ul class="hxmenu">
+				<li><a href="https://github.com/xtoolkit/Micon/">GitHub Project</a></li>
+				<li><a href="mailto:arshen@outlook.com">Feedback</a></li>
+				<li><a href="<%= config.author.home %>"><%= config.author.nhome %></a></li>
+			</ul>
+			<div class="crighty"><span>Micon</span><br>© <%= config.copyyear %> <%= config.author.nhome %></div>
+		</div>
+	</div>
+</body>
+
+</html>
