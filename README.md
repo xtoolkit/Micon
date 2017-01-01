@@ -16,7 +16,7 @@ $ npm install
 
 1- config `config.json`.
 
-2- customize your scss, less and css template in `.templates/`. (default use Font-Awesome template Edited by Micon)
+2- customize your pages template in `.templates/`. (default use Font-Awesome template Edited by Micon)
 
 3- build your font with down command
 
