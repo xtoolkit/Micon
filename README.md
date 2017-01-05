@@ -111,6 +111,7 @@ Next Micon font version release, when **RedSton2** font version release.
 
 - fix [#13 issues](https://github.com/xtoolkit/Micon/issues/13/)
 - fix less compile problem
+- add sourcemap for micon and micon_nb
 
 #### Version 2.1.155 (29/12/2016)
 
