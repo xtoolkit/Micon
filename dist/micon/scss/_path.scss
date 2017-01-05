@@ -1,6 +1,6 @@
 /* FONT PATH
  * -------------------------- */
-@font-mice {
+@font-face {
     font-family: 'micon';
     src: url('#{$mi-font-path}micon.eot?v=#{$mi-version}');
     src: url('#{$mi-font-path}micon.eot?#iefix&v=#{$mi-version}') format('embedded-opentype'),

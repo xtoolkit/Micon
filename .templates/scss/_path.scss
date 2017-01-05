@@ -1,6 +1,6 @@
 /* FONT PATH
  * -------------------------- */
-@font-<%= className %>ce {
+@font-face {
     font-family: '<%= fontName %>';
     src: url('#{$<%= className %>-font-path}<%= fontName %>.eot?v=#{$<%= className %>-version}');
     src: url('#{$<%= className %>-font-path}<%= fontName %>.eot?#iefix&v=#{$<%= className %>-version}') format('embedded-opentype'),

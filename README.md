@@ -3,7 +3,7 @@
 Micon (MDL2 Icons), The iconic windows 10 font and CSS toolkit.<br>
 this icon exracted as _segmdl2.ttf_ in windows 10 and converted too css toolkit based on _Font Awesome_. Micon icons that can instantly be customized -- size, color, drop shadow, and anything that can be done with the power of CSS.<br>
 
-Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated to 2.\*.155. as soon as possible update Documents.)
+Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated for bower and building)
 
 _sry for my bad english_
 
@@ -83,6 +83,10 @@ $ npm start
 
 6- end, you can see demo your font in `/dist/your_fontname/html-demo-your_fontname.html`
 
+### Page Build Instructions (for make custom your font page)
+
+you can build custom your font page (like [Micon github page](http://xtoolkit.github.io/Micon/)) with [this Instructions](https://github.com/xtoolkit/Micon/tree/gh-pages#build-instructions-for-make-custom-page)
+
 ## Versioning
 
 Micon will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered with the following format:
@@ -102,6 +106,11 @@ For more information on SemVer, please visit <http://semver.org>.
 Next Micon font version release, when **RedSton2** font version release.
 
 ### Change Logs
+
+#### Version 2.2.155 (05/01/2017)
+
+- fix [#13 issues](https://github.com/xtoolkit/Micon/issues/13/)
+- fix less compile problem
 
 #### Version 2.1.155 (29/12/2016)
 

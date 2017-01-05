@@ -1,4 +1,4 @@
-/*! Micon v2.1.155 | MIT License | http://xtoolkit.github.io/Micon/ */
+/*! Micon v2.2.155 | MIT License | http://xtoolkit.github.io/Micon/ */
 
 const gulp = require('gulp')
 const rename = require('gulp-rename')
@@ -8,7 +8,7 @@ const consolidate = require('gulp-consolidate')
 const path = 'dist'
 const path_templates = '.templates'
 const fontName = 'micon'
-const fontVer = '2.1.155'
+const fontVer = '2.2.155'
 const className = 'mi'
 const timestamp = Math.round(Date.now() / 1000)
 var namedb = require('./name_db.json')
@@ -57,7 +57,7 @@ gulp.task('mimake', function() {
                     basename: `${fontName}`
                 }))
                 .pipe(gulp.dest(`${path}/${fontName}/scss`))
-            gulp.src([`${path_templates}/animated.less`, `${path_templates}/less/bordered-pulled.less`, `${path_templates}/less/core.less`, `${path_templates}/less/fixed-width.less`, `${path_templates}/less/icons.less`, `${path_templates}/less/larger.less`, `${path_templates}/less/list.less`, `${path_templates}/less/mixins.less`, `${path_templates}/less/path.less`, `${path_templates}/less/rotated-flipped.less`, `${path_templates}/less/screen-reader.less`, `${path_templates}/less/stacked.less`, `${path_templates}/less/variables.less`])
+            gulp.src([`${path_templates}/less/animated.less`, `${path_templates}/less/bordered-pulled.less`, `${path_templates}/less/core.less`, `${path_templates}/less/fixed-width.less`, `${path_templates}/less/icons.less`, `${path_templates}/less/larger.less`, `${path_templates}/less/list.less`, `${path_templates}/less/mixins.less`, `${path_templates}/less/path.less`, `${path_templates}/less/rotated-flipped.less`, `${path_templates}/less/screen-reader.less`, `${path_templates}/less/stacked.less`, `${path_templates}/less/variables.less`])
                 .pipe(consolidate('lodash', options))
                 .pipe(gulp.dest(`${path}/${fontName}/less/`))
             gulp.src(`${path_templates}/less/style.less`)

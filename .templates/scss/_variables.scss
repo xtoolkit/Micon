@@ -10,5 +10,5 @@ $<%= className %>-border-color:     #eee !default;
 $<%= className %>-inverse:          #fff !default;
 $<%= className %>-li-width:         (30em / 14) !default;
 
-<% _.each(glyphs, function(glyph) { %>$<%= className %>-var-<%= glyph.name %>: "\<%= glyph.codepoint.toString(16).toUpperCase() %>";
+<% _.each(glyphs, function(glyph) { %>$<%= className %>-var-<%= glyph.name %>: \<%= glyph.codepoint.toString(16).toUpperCase() %>;
 <% }); %>

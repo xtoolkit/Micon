@@ -17,8 +17,7 @@
     transform: rotate(@degrees);
 }
 
-.mi-icon-flip(@horiz, @rotation),
-@vert {
+.mi-icon-flip(@horiz, @rotation, @vert) {
     -ms-filter:  "progid:DXImageTransform.Microsoft.BasicImage(rotation=@{rotation}, mirror=1)";
     -webkit-transform: scale(@horiz, @vert);
     -ms-transform: scale(@horiz, @vert);

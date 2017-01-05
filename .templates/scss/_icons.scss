@@ -4,7 +4,7 @@
 var xname=glyph.name;
 var temp=namedb[xname];
 %>.#{$<%= className %>-css-prefix}-<%= temp.join(":before,\n.#{$" + className + '-css-prefix}-') %>:before {
-     content: $<%= className %>-var-<%= glyph.name %>;
+     content: <%= className %>-get-icon($<%= className %>-var-<%= glyph.name %>);
 }
 
 <% }); %>
