@@ -41,6 +41,8 @@ example:
 example:
 ``` xml
 <i class="mi mi-Home"></i>
+OR
+<i class="mi">&#xEB6F;</i>
 ```
 
 ## Build Instructions (for make custom font)

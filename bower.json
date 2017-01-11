@@ -20,7 +20,12 @@
         "font",
         "icon",
         "font",
-        "bootstrap"
+        "bootstrap",
+        "windows 10",
+        "windows 10 icons",
+        "windows 10 css",
+        "windows 10 css icons",
+        "windows 10 web font"
     ],
     "homepage": "http://xtoolkit.github.io/Micon/",
     "ignore": [
@@ -31,6 +36,6 @@
         "dist/micon_nb",
         "icons",
         "node_modules",
-        "templates"
+        ".templates"
     ]
 }

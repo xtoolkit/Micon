@@ -1,9 +1,9 @@
 {
-    "name": "Micon",
+    "name": "micon",
     "version": "2.2.155",
-    "style": "dist/css/micon.css",
+    "style": "dist/micon/css/micon.css",
     "description": "Micon, The iconic windows 10 font and CSS toolkit.",
-    "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap"],
+    "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap", "windows 10", "windows 10 icons", "windows 10 css", "windows 10 css icons", "windows 10 web font"],
     "homepage": "http://xtoolkit.github.io/Micon/",
     "bugs": {
         "url": "http://github.com/xtoolkit/Micon/issues"
