@@ -1,5 +1,5 @@
 {
-    "name": "micon",
+    "name": "miconcss",
     "version": "2.2.155",
     "style": "dist/micon/css/micon.css",
     "description": "Micon, The iconic windows 10 font and CSS toolkit.",
