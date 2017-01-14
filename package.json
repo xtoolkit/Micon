@@ -1,6 +1,6 @@
 {
     "name": "micon-font",
-    "version": "2.2.155",
+    "version": "2.3.155",
     "style": "dist/micon/css/micon.css",
     "description": "Micon, The iconic windows 10 font and CSS toolkit.",
     "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap", "windows 10", "windows 10 icons", "windows 10 css", "windows 10 css icons", "windows 10 web font"],
