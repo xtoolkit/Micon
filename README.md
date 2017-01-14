@@ -148,7 +148,7 @@ Next Micon font version release, when **RedSton2** font version release.
 
 ## License
 
-Ionicons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Micon is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Contact
 
