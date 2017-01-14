@@ -9,12 +9,14 @@ _sry for my bad english_
 
 ## Installation
 
-### Option one: install with bower
+### Option one: install with bower or npm
 
-To install via Bower, simply do the following:
+To install via Bower or npm, simply do the following:
 
 ```
 $ bower install micon --save
+OR
+$ npm install micon
 ```
 
 ### Option two: Download repo
