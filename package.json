@@ -18,7 +18,7 @@
         "web": "http://arshen.ir/"
     },
     "license": "MIT",
-    "devDependencies": {
+    "dependencies": {
         "gulp": ">=3.9.1",
         "gulp-consolidate": ">=0.2.0",
         "gulp-iconfont": ">=8.0.1",
