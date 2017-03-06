@@ -18,7 +18,7 @@ $ npm install
 
 2- customize your pages template in `.templates/`. (default use Micon github template)
 
-3- build your font with down command
+3- build your font page with down command
 
 ```
 $ npm start
