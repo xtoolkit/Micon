@@ -9,6 +9,19 @@ _sry for my bad english_
 
 ## Installation
 
+### Quick option: use cdn
+
+You can use cdn. hosted by [github page](https://github.com/xtoolkit/cdn.arshen.ir) and clouded by [Cloudflare](https://www.cloudflare.com/)
+example:
+
+``` html
+<head>
+...
+<link rel="stylesheet" href="http://cdn.arshen.ir/micon/2.2.155/dist/micon/css/micon.min.css">
+...
+</head>
+```
+
 ### Option one: install with bower
 
 To install via Bower, simply do the following:
@@ -17,7 +30,7 @@ To install via Bower, simply do the following:
 $ bower install micon --save
 ```
 
-### Option two: Download repo
+### Option two: Download repo or builded font
 
 Download last Micon version release from [Github](https://github.com/xtoolkit/Micon/releases)
 
@@ -28,7 +41,7 @@ Download last Micon version release from [Github](https://github.com/xtoolkit/Mi
 2- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
 example:
 
-``` xml
+``` html
 <head>
 ...
 <link rel="stylesheet" href="micon-repo/dist/micon/css/micon.min.css">
