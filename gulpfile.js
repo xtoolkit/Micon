@@ -5,7 +5,7 @@ const rename = require('gulp-rename')
 const iconfont = require('gulp-iconfont')
 const consolidate = require('gulp-consolidate')
 
-const path = 'dist'
+const path = 'distx'
 const path_templates = '.templates'
 const fontName = 'micon'
 const fontVer = '2.2.155'
