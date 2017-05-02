@@ -27,7 +27,7 @@ example:
 To install via Bower, simply do the following:
 
 ```
-$ bower install micon --save
+$ bowersada install micon --save
 ```
 
 ### Option two: Download repo or builded font
