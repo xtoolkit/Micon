@@ -5,7 +5,7 @@ this icon exracted as _segmdl2.ttf_ in windows 10 and converted too css toolkit 
 
 Online Demo and Documents: <http://xtoolkit.github.io/Micon/> (Because i am very busy, online Documents not updated for bower and building)
 
-_sry for my bad english_
+_sry for my bad englisdh_
 
 ## Installation
 
