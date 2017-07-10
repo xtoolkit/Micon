@@ -120,7 +120,7 @@ For more information on SemVer, please visit <http://semver.org>.
 
 Next Micon font version release, when **RedSton2** font version release.
 
-> now **RedSton2** released! but i'm waiting for release official name for new icons from Microsoft.
+> now **RedSton2** released! but i'm waiting for release official name for new icons from Microsoft. ([issues](https://github.com/MicrosoftDocs/windows-uwp/pull/72))
 
 ### Change Logs
 
