@@ -1,9 +1,10 @@
 {
-  "fontName": "micon_nb",
+  "fontName": "micon",
   "fontPrefix": "mi",
   "fontVersion": "3.0.168",
   "fontPath": "../fonts",
   "iconsPacks": [
-    "mdl2"
+    "mdl2",
+    "webbrand"
   ]
 }
