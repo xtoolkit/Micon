@@ -17,7 +17,7 @@ example:
 ``` html
 <head>
 ...
-<link rel="stylesheet" href="http://cdn.arshen.ir/micon/2.2.155/dist/micon/css/micon.min.css">
+<link rel="stylesheet" href="http://cdn.arshen.ir/micon/3.0.168/dist/micon/css/micon.min.css">
 ...
 </head>
 ```
@@ -36,7 +36,7 @@ Download last Micon version release from [Github](https://github.com/xtoolkit/Mi
 
 ## Get started
 
-1- Copy the entire `micon-repo/dist/micon/` directory into your project. if you do not use **webbrand icon** in font use `micon-repo/dist/micon_nb/`
+1- Copy the entire `micon-repo/dist/micon/` directory into your project. if you do not use **webbrand icon** in font, use `micon-repo/dist/micon_nb/`
 
 2- In the `<head>` of your html, reference the location to your **micon.min.css**.<br>
 example:
@@ -64,29 +64,32 @@ This repo already comes with all the files built and ready to go, but can also b
 
 Follow these steps to build custom font:
 
-1- install requires Dependencies (_gulp, gulp-consolidate, gulp-iconfont, gulp-rename, loadash_) with down command.<br>
+1- install requires Dependencies (*gulp, gulp-consolidate, gulp-iconfont, gulp-rename, mustache*) with down command.<br>
 
 ```
 $ npm install
 ```
 
 2- customize your icons from `/icons/`.<br>
-if add new icon, insert icon name in `name_db.json`.<br>
+if add new icon, insert icon name in `db.json`.<br>
 example:
 
 ``` json
 {
     ...,
-    "svgfilename": [
-        "svgfilename",
-        "aliasname1",
-        "aliasname2",
-        ...
-    ]
+    "svgfilename": {
+        "info": {
+            "created": "1.0.155" //font-version
+        },
+        "alias": [
+            "aliasname1",
+            "aliasname2"
+        ]
+    }
 }
 ```
 
-3- config `gulpfile.js` for your _fontname_, _fontversion_ and etc.
+3- customize `config.json` for your font.
 
 4- customize your scss, less and css template in `.templates/`. (default use Font-Awesome template Edited by Micon)
 
@@ -118,11 +121,25 @@ For more information on SemVer, please visit <http://semver.org>.
 
 ### Next version
 
-Next Micon font version release, when **RedSton2** font version release.
-
-> now **RedSton2** released! but i'm waiting for release official name for new icons from Microsoft. ([issues](https://github.com/MicrosoftDocs/windows-uwp/pull/72))
+We are thinking of supporting **react** and **vuejs**
 
 ### Change Logs
+
+#### Version 3.0.168 (14/01/2019)
+
+- update mdl2 icons **version** => 168 **(October 2018)**
+  - 350 new icon (35 icon untitled)
+  - svg icons get larger
+- update webbrand icons (268 new icon)
+- remove classic create font css
+- use **scss compiler** for create font css
+- remove **sourcemap** by default
+- change lodash with **mustache**
+- update **scss** and **less** template to **Font-Awesome 5.6.3**
+- rename fontname.(scss|less) file to style.(scss|less)
+- move font config from *gulpfile.js* to **config.js** file in root
+- icons name db file move to icons pack directory (db.json)
+- rewrite **gulpfile.js**
 
 #### Version 2.2.155 (05/01/2017)
 
