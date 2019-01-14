@@ -2,10 +2,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>
-        <%= fontName %>
-    </title>
-    <link href="css/<%= fontName %>.css" rel="stylesheet">
+    <title>{{config.fontName}} - {{config.fontVersion}}</title>
+    <link href="css/{{config.fontName}}.css" rel="stylesheet">
     <style>
         * {
             padding: 0;
@@ -79,15 +77,15 @@
 </head>
 
 <body>
-    <h1><a href="http://xtoolkit.github.io/Micon/"><%= fontName %></a></h1>
+    <h1><a href="http://xtoolkit.github.io/Micon/">{{config.fontName}}</a></h1>
     <ul class="glyphs">
-        <% _.each(glyphs, function(glyph) { %>
-            <li>
-                <span class="glyph"><i class="<%= className %> <%= className %>-<%= glyph.name %>"></i></span>
-                <span class="glyph-codepoint"><%= glyph.codepoint.toString(16).toUpperCase() %></span>
-                <span class="glyph-name"><%= glyph.name %></span>
-            </li>
-            <% }); %>
+      {{#glyphs}}
+        <li>
+            <span class="glyph"><i class="{{config.fontPrefix}} {{config.fontPrefix}}-{{name}}"></i></span>
+            <span class="glyph-codepoint">{{codepoint}}</span>
+            <span class="glyph-name">{{name}}</span>
+        </li>
+      {{/glyphs}}
     </ul>
 </body>
 
