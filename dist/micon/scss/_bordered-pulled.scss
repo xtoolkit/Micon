@@ -2,43 +2,15 @@
 // -------------------------
 
 .#{$mi-css-prefix}-border {
-    padding: 0.2em 0.25em 0.15em;
-    border: solid 0.08em $mi-border-color;
-    border-radius: 0.1em;
+  border: solid .08em $mi-border-color;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
 }
 
-.#{$mi-css-prefix}-pull-left {
-    float: left;
-}
+.#{$mi-css-prefix}-pull-left { float: left; }
+.#{$mi-css-prefix}-pull-right { float: right; }
 
-.#{$mi-css-prefix}-pull-right {
-    float: right;
-}
-
-.#{$mi-css-prefix} {
-    &.#{$mi-css-prefix}-pull-left {
-        margin-right: 0.3em;
-    }
-
-    &.#{$mi-css-prefix}-pull-right {
-        margin-left: 0.3em;
-    }
-}
-
-.pull-right {
-    float: right;
-}
-
-.pull-left {
-    float: left;
-}
-
-.#{$mi-css-prefix} {
-    &.pull-left {
-        margin-right: 0.3em;
-    }
-
-    &.pull-right {
-        margin-left: 0.3em;
-    }
+.#{$mi-css-prefix}{
+  &.#{$mi-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$mi-css-prefix}-pull-right { margin-left: .3em; }
 }

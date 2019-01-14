@@ -1,13 +1,19 @@
 /* FONT PATH
  * -------------------------- */
+
 @font-face {
-    font-family: 'micon';
-    src: url('#{$mi-font-path}micon.eot?v=#{$mi-version}');
-    src: url('#{$mi-font-path}micon.eot?#iefix&v=#{$mi-version}') format('embedded-opentype'),
-    url('#{$mi-font-path}micon.woff2?v=#{$mi-version}') format('woff2'),
-    url('#{$mi-font-path}micon.woff?v=#{$mi-version}') format('woff'),
-    url('#{$mi-font-path}micon.ttf?v=#{$mi-version}') format('truetype'),
-    url('#{$mi-font-path}micon.svg?v=#{$mi-version}#micon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'micon';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$mi-font-path}/micon.eot');
+  src: url('#{$mi-font-path}/micon.eot?#iefix') format('embedded-opentype'),
+  url('#{$mi-font-path}/micon.woff2') format('woff2'),
+  url('#{$mi-font-path}/micon.woff') format('woff'),
+  url('#{$mi-font-path}/micon.ttf') format('truetype'),
+  url('#{$mi-font-path}/micon.svg#micon') format('svg');
+}
+
+.mi {
+  font-family: 'micon';
+  font-weight: 400;
 }

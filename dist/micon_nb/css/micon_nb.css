@@ -1,4021 +1,4340 @@
-/*! Micon v2.2.155 | MIT License | http://xtoolkit.github.io/Micon/ */
-
+/*!
+ * License - Micon v3.0.168 http://xtoolkit.github.io/Micon/ (MIT License)
+ * License - template: https://fontawesome.com/license/free (Code: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
 @font-face {
-    font-family: 'micon_nb';
-    src: url('../fonts/micon_nb.eot?v=2.2.155');
-    src: url('../fonts/micon_nb.eot?#iefix&v=2.2.155') format('embedded-opentype'), url('../fonts/micon_nb.woff2?v=2.2.155') format('woff2'), url('../fonts/micon_nb.woff?v=2.2.155') format('woff'), url('../fonts/micon_nb.ttf?v=2.2.155') format('truetype'), url('../fonts/micon_nb.svg?v=2.2.155#micon_nb') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+  font-family: 'micon_nb';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/micon_nb.eot");
+  src: url("../fonts/micon_nb.eot?#iefix") format("embedded-opentype"), url("../fonts/micon_nb.woff2") format("woff2"), url("../fonts/micon_nb.woff") format("woff"), url("../fonts/micon_nb.ttf") format("truetype"), url("../fonts/micon_nb.svg#micon_nb") format("svg"); }
 
 .mi {
-    display: inline-block;
-    font: normal normal normal 14px/1 micon_nb;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
+  font-family: 'micon_nb';
+  font-weight: 400; }
+
+.mi {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
 
 .mi-lg {
-    font-size: 1.33333333em;
-    line-height: 0.75em;
-    vertical-align: -15%;
-}
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.mi-xs {
+  font-size: .75em; }
+
+.mi-sm {
+  font-size: .875em; }
+
+.mi-1x {
+  font-size: 1em; }
 
 .mi-2x {
-    font-size: 2em;
-}
+  font-size: 2em; }
 
 .mi-3x {
-    font-size: 3em;
-}
+  font-size: 3em; }
 
 .mi-4x {
-    font-size: 4em;
-}
+  font-size: 4em; }
 
 .mi-5x {
-    font-size: 5em;
-}
+  font-size: 5em; }
+
+.mi-6x {
+  font-size: 6em; }
+
+.mi-7x {
+  font-size: 7em; }
+
+.mi-8x {
+  font-size: 8em; }
+
+.mi-9x {
+  font-size: 9em; }
+
+.mi-10x {
+  font-size: 10em; }
 
 .mi-fw {
-    width: 1.28571429em;
-    text-align: center;
-}
+  text-align: center;
+  width: 1.25em; }
 
 .mi-ul {
-    padding-left: 0;
-    margin-left: 2.14285714em;
-    list-style-type: none;
-}
-
-.mi-ul>li {
-    position: relative;
-}
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0; }
+  .mi-ul > li {
+    position: relative; }
 
 .mi-li {
-    position: absolute;
-    left: -2.14285714em;
-    width: 2.14285714em;
-    top: 0.14285714em;
-    text-align: center;
-}
-
-.mi-li.mi-lg {
-    left: -1.85714286em;
-}
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit; }
 
 .mi-border {
-    padding: .2em .25em .15em;
-    border: solid 0.08em #eee;
-    border-radius: .1em;
-}
+  border: solid 0.08em #eee;
+  border-radius: .1em;
+  padding: .2em .25em .15em; }
 
 .mi-pull-left {
-    float: left;
-}
+  float: left; }
 
 .mi-pull-right {
-    float: right;
-}
+  float: right; }
 
 .mi.mi-pull-left {
-    margin-right: .3em;
-}
+  margin-right: .3em; }
 
 .mi.mi-pull-right {
-    margin-left: .3em;
-}
-
-.pull-right {
-    float: right;
-}
-
-.pull-left {
-    float: left;
-}
-
-.mi.pull-left {
-    margin-right: .3em;
-}
-
-.mi.pull-right {
-    margin-left: .3em;
-}
+  margin-left: .3em; }
 
 .mi-spin {
-    -webkit-animation: mi-spin 2s infinite linear;
-    animation: mi-spin 2s infinite linear;
-}
+  animation: mi-spin 2s infinite linear; }
 
 .mi-pulse {
-    -webkit-animation: mi-spin 1s infinite steps(8);
-    animation: mi-spin 1s infinite steps(8);
-}
-
-@-webkit-keyframes mi-spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(359deg);
-        transform: rotate(359deg);
-    }
-}
+  animation: mi-spin 1s infinite steps(8); }
 
 @keyframes mi-spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(359deg);
-        transform: rotate(359deg);
-    }
-}
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
 
 .mi-rotate-90 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  transform: rotate(90deg); }
 
 .mi-rotate-180 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
-    -webkit-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
-}
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  transform: rotate(180deg); }
 
 .mi-rotate-270 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
-    -webkit-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    transform: rotate(270deg);
-}
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  transform: rotate(270deg); }
 
 .mi-flip-horizontal {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
-    -webkit-transform: scale(-1, 1);
-    -ms-transform: scale(-1, 1);
-    transform: scale(-1, 1);
-}
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  transform: scale(-1, 1); }
 
 .mi-flip-vertical {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-    -webkit-transform: scale(1, -1);
-    -ms-transform: scale(1, -1);
-    transform: scale(1, -1);
-}
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  transform: scale(1, -1); }
 
-:root .mi-rotate-90, :root .mi-rotate-180, :root .mi-rotate-270, :root .mi-flip-horizontal, :root .mi-flip-vertical {
-    filter: none;
-}
+.mi-flip-horizontal.mi-flip-vertical {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  transform: scale(-1, -1); }
+
+:root .mi-rotate-90,
+:root .mi-rotate-180,
+:root .mi-rotate-270,
+:root .mi-flip-horizontal,
+:root .mi-flip-vertical {
+  filter: none; }
 
 .mi-stack {
-    position: relative;
-    display: inline-block;
-    width: 2em;
-    height: 2em;
-    line-height: 2em;
-    vertical-align: middle;
-}
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em; }
 
-.mi-stack-1x, .mi-stack-2x {
-    position: absolute;
-    left: 0;
-    width: 100%;
-    text-align: center;
-}
+.mi-stack-1x,
+.mi-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%; }
 
 .mi-stack-1x {
-    line-height: inherit;
-}
+  line-height: inherit; }
 
 .mi-stack-2x {
-    font-size: 2em;
-}
+  font-size: 2em; }
 
 .mi-inverse {
-    color: #fff;
-}
+  color: #fff; }
 
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
 .mi-Accept:before, .mi-AcceptLegacy:before, .mi-CheckmarkListviewLegacy:before, .mi-CheckmarkMenuLegacy:before {
-    content: "\EA01"
-}
+  content: "\EA01"; }
 
 .mi-Accident:before {
-    content: "\EA02"
-}
+  content: "\EA02"; }
 
 .mi-AccidentSolid:before {
-    content: "\EA03"
-}
+  content: "\EA03"; }
 
 .mi-Accounts:before, .mi-AccountsLegacy:before {
-    content: "\EA04"
-}
+  content: "\EA04"; }
 
 .mi-ActionCenter:before {
-    content: "\EA05"
-}
+  content: "\EA05"; }
 
 .mi-ActionCenterAsterisk:before {
-    content: "\EA06"
-}
+  content: "\EA06"; }
 
 .mi-ActionCenterMirrored:before {
-    content: "\EA07"
-}
+  content: "\EA07"; }
 
 .mi-ActionCenterNotification:before {
-    content: "\EA08"
-}
+  content: "\EA08"; }
 
 .mi-ActionCenterNotificationMirrored:before {
-    content: "\EA09"
-}
+  content: "\EA09"; }
 
 .mi-ActionCenterQuiet:before {
-    content: "\EA0A"
-}
+  content: "\EA0A"; }
 
 .mi-ActionCenterQuietNotification:before {
-    content: "\EA0B"
-}
+  content: "\EA0B"; }
 
 .mi-Add:before, .mi-AddLegacy:before {
-    content: "\EA0C"
-}
+  content: "\EA0C"; }
 
 .mi-AddFriend:before, .mi-AddFriendLegacy:before {
-    content: "\EA0D"
-}
+  content: "\EA0D"; }
 
 .mi-AddRemoteDevice:before {
-    content: "\EA0E"
-}
+  content: "\EA0E"; }
 
 .mi-AddSurfaceHub:before {
-    content: "\EA0F"
-}
+  content: "\EA0F"; }
 
 .mi-AddTo:before {
-    content: "\EA10"
-}
+  content: "\EA10"; }
 
 .mi-AdjustHologram:before {
-    content: "\EA11"
-}
+  content: "\EA11"; }
 
 .mi-Admin:before, .mi-AdminLegacy:before {
-    content: "\EA12"
-}
+  content: "\EA12"; }
 
 .mi-Airplane:before {
-    content: "\EA13"
-}
+  content: "\EA13"; }
 
 .mi-AirplaneSolid:before {
-    content: "\EA14"
-}
+  content: "\EA14"; }
 
 .mi-AlignCenter:before, .mi-AlignCenterLegacy:before {
-    content: "\EA15"
-}
+  content: "\EA15"; }
 
 .mi-AlignLeft:before, .mi-AlignLeftLegacy:before {
-    content: "\EA16"
-}
+  content: "\EA16"; }
 
 .mi-AlignRight:before, .mi-AlignRightLegacy:before {
-    content: "\EA17"
-}
+  content: "\EA17"; }
 
 .mi-AllApps:before, .mi-AllAppsLegacy:before {
-    content: "\EA18"
-}
+  content: "\EA18"; }
 
-.mi-AllAppsLegacyMirrored:before, .mi-AllAppsMirrored:before {
-    content: "\EA19"
-}
+.mi-AllAppsMirrored:before, .mi-AllAppsLegacyMirrored:before {
+  content: "\EA19"; }
 
 .mi-Annotation:before {
-    content: "\EA1A"
-}
+  content: "\EA1A"; }
 
 .mi-AppIconDefault:before {
-    content: "\EA1B"
-}
+  content: "\EA1B"; }
+
+.mi-Apps:before {
+  content: "\EA1C"; }
+
+.mi-AreaChart:before {
+  content: "\EA1D"; }
+
+.mi-ArrowDown8:before {
+  content: "\EA1E"; }
+
+.mi-ArrowLeft8:before {
+  content: "\EA1F"; }
+
+.mi-ArrowRight8:before {
+  content: "\EA20"; }
+
+.mi-ArrowUp8:before {
+  content: "\EA21"; }
 
 .mi-AspectRatio:before {
-    content: "\EA1C"
-}
+  content: "\EA22"; }
 
 .mi-Asterisk:before {
-    content: "\EA1D"
-}
+  content: "\EA23"; }
 
 .mi-AsteriskBadge12:before {
-    content: "\EA1E"
-}
+  content: "\EA24"; }
 
 .mi-Attach:before, .mi-AttachLegacy:before {
-    content: "\EA1F"
-}
+  content: "\EA25"; }
 
 .mi-AttachCamera:before, .mi-AttachCameraLegacy:before {
-    content: "\EA20"
-}
+  content: "\EA26"; }
 
 .mi-Audio:before, .mi-AudioLegacy:before {
-    content: "\EA21"
-}
+  content: "\EA27"; }
 
-.mi-ArrowHTMLLegacy:before, .mi-Back:before, .mi-BackBttnArrow20Legacy:before, .mi-BackBttnArrow42Legacy:before, .mi-BackLegacy:before {
-    content: "\EA22"
-}
+.mi-Back:before, .mi-ArrowHTMLLegacy:before, .mi-BackBttnArrow20Legacy:before, .mi-BackBttnArrow42Legacy:before, .mi-BackLegacy:before {
+  content: "\EA28"; }
+
+.mi-BackMirrored:before {
+  content: "\EA29"; }
+
+.mi-BackSpaceQWERTY:before {
+  content: "\EA2A"; }
 
 .mi-BackSpaceQWERTYLg:before {
-    content: "\EA23"
-}
+  content: "\EA2B"; }
 
 .mi-BackSpaceQWERTYMd:before {
-    content: "\EA24"
-}
+  content: "\EA2C"; }
 
 .mi-BackSpaceQWERTYSm:before {
-    content: "\EA25"
-}
+  content: "\EA2D"; }
 
 .mi-BackToWindow:before, .mi-BackToWindowLegacy:before {
-    content: "\EA26"
-}
+  content: "\EA2E"; }
 
 .mi-BackgroundToggle:before {
-    content: "\EA27"
-}
+  content: "\EA2F"; }
 
 .mi-Badge:before {
-    content: "\EA28"
-}
+  content: "\EA30"; }
+
+.mi-BandBattery0:before {
+  content: "\EA31"; }
+
+.mi-BandBattery1:before {
+  content: "\EA32"; }
+
+.mi-BandBattery2:before {
+  content: "\EA33"; }
+
+.mi-BandBattery3:before {
+  content: "\EA34"; }
+
+.mi-BandBattery4:before {
+  content: "\EA35"; }
+
+.mi-BandBattery5:before {
+  content: "\EA36"; }
+
+.mi-BandBattery6:before {
+  content: "\EA37"; }
 
 .mi-Bank:before {
-    content: "\EA29"
-}
+  content: "\EA38"; }
 
 .mi-BarcodeScanner:before {
-    content: "\EA2A"
-}
+  content: "\EA39"; }
 
 .mi-Battery0:before {
-    content: "\EA2B"
-}
+  content: "\EA3A"; }
 
 .mi-Battery1:before {
-    content: "\EA2C"
-}
+  content: "\EA3B"; }
 
 .mi-Battery10:before {
-    content: "\EA2D"
-}
+  content: "\EA3C"; }
 
 .mi-Battery2:before {
-    content: "\EA2E"
-}
+  content: "\EA3D"; }
 
 .mi-Battery3:before {
-    content: "\EA2F"
-}
+  content: "\EA3E"; }
 
 .mi-Battery4:before {
-    content: "\EA30"
-}
+  content: "\EA3F"; }
 
 .mi-Battery5:before {
-    content: "\EA31"
-}
+  content: "\EA40"; }
 
 .mi-Battery6:before {
-    content: "\EA32"
-}
+  content: "\EA41"; }
 
 .mi-Battery7:before {
-    content: "\EA33"
-}
+  content: "\EA42"; }
 
 .mi-Battery8:before {
-    content: "\EA34"
-}
+  content: "\EA43"; }
 
 .mi-Battery9:before {
-    content: "\EA35"
-}
+  content: "\EA44"; }
 
 .mi-BatteryCharging0:before {
-    content: "\EA36"
-}
+  content: "\EA45"; }
 
 .mi-BatteryCharging1:before {
-    content: "\EA37"
-}
+  content: "\EA46"; }
 
 .mi-BatteryCharging10:before {
-    content: "\EA38"
-}
+  content: "\EA47"; }
 
 .mi-BatteryCharging2:before {
-    content: "\EA39"
-}
+  content: "\EA48"; }
 
 .mi-BatteryCharging3:before {
-    content: "\EA3A"
-}
+  content: "\EA49"; }
 
 .mi-BatteryCharging4:before {
-    content: "\EA3B"
-}
+  content: "\EA4A"; }
 
 .mi-BatteryCharging5:before {
-    content: "\EA3C"
-}
+  content: "\EA4B"; }
 
 .mi-BatteryCharging6:before {
-    content: "\EA3D"
-}
+  content: "\EA4C"; }
 
 .mi-BatteryCharging7:before {
-    content: "\EA3E"
-}
+  content: "\EA4D"; }
 
 .mi-BatteryCharging8:before {
-    content: "\EA3F"
-}
+  content: "\EA4E"; }
 
 .mi-BatteryCharging9:before {
-    content: "\EA40"
-}
+  content: "\EA4F"; }
 
 .mi-BatterySaver0:before {
-    content: "\EA41"
-}
+  content: "\EA50"; }
 
 .mi-BatterySaver1:before {
-    content: "\EA42"
-}
+  content: "\EA51"; }
 
 .mi-BatterySaver10:before {
-    content: "\EA43"
-}
+  content: "\EA52"; }
 
 .mi-BatterySaver2:before {
-    content: "\EA44"
-}
+  content: "\EA53"; }
 
 .mi-BatterySaver3:before {
-    content: "\EA45"
-}
+  content: "\EA54"; }
 
 .mi-BatterySaver4:before {
-    content: "\EA46"
-}
+  content: "\EA55"; }
 
 .mi-BatterySaver5:before {
-    content: "\EA47"
-}
+  content: "\EA56"; }
 
 .mi-BatterySaver6:before {
-    content: "\EA48"
-}
+  content: "\EA57"; }
 
 .mi-BatterySaver7:before {
-    content: "\EA49"
-}
+  content: "\EA58"; }
 
 .mi-BatterySaver8:before {
-    content: "\EA4A"
-}
+  content: "\EA59"; }
 
 .mi-BatterySaver9:before {
-    content: "\EA4B"
-}
+  content: "\EA5A"; }
 
 .mi-BatteryUnknown:before {
-    content: "\EA4C"
-}
+  content: "\EA5B"; }
 
 .mi-Beta:before {
-    content: "\EA4D"
-}
+  content: "\EA5C"; }
 
 .mi-BidiLtr:before {
-    content: "\EA4E"
-}
+  content: "\EA5D"; }
 
 .mi-BidiRtl:before {
-    content: "\EA4F"
-}
+  content: "\EA5E"; }
 
 .mi-BlockContact:before, .mi-BlockContactLegacy:before {
-    content: "\EA50"
-}
+  content: "\EA5F"; }
+
+.mi-Blocked:before, .mi-BlockedLegacy:before {
+  content: "\EA60"; }
 
 .mi-BlockedLegacy:before {
-    content: "\EA51"
-}
+  content: "\EA61"; }
+
+.mi-BlueLight:before {
+  content: "\EA62"; }
 
 .mi-Bluetooth:before {
-    content: "\EA52"
-}
+  content: "\EA63"; }
 
 .mi-BodyCam:before {
-    content: "\EA53"
-}
+  content: "\EA64"; }
 
 .mi-Bold:before, .mi-BoldLegacy:before {
-    content: "\EA54"
-}
+  content: "\EA65"; }
+
+.mi-BoldF:before, .mi-BoldFLegacy:before {
+  content: "\EA66"; }
 
 .mi-BoldFLegacy:before {
-    content: "\EA55"
-}
+  content: "\EA67"; }
+
+.mi-BoldG:before, .mi-BoldGLegacy:before {
+  content: "\EA68"; }
 
 .mi-BoldGLegacy:before {
-    content: "\EA56"
-}
+  content: "\EA69"; }
+
+.mi-BoldKorean:before, .mi-BoldKoreanLegacy:before {
+  content: "\EA6A"; }
 
 .mi-BoldKoreanLegacy:before {
-    content: "\EA57"
-}
+  content: "\EA6B"; }
+
+.mi-BoldN:before, .mi-BoldNLegacy:before {
+  content: "\EA6C"; }
 
 .mi-BoldNLegacy:before {
-    content: "\EA58"
-}
+  content: "\EA6D"; }
+
+.mi-BoldRussion:before, .mi-BoldRussionLegacy:before {
+  content: "\EA6E"; }
 
 .mi-BoldRussionLegacy:before {
-    content: "\EA59"
-}
+  content: "\EA6F"; }
 
 .mi-Bookmarks:before, .mi-BookmarksLegacy:before {
-    content: "\EA5A"
-}
+  content: "\EA70"; }
 
-.mi-BookmarksLegacyMirrored:before, .mi-BookmarksMirrored:before {
-    content: "\EA5B"
-}
+.mi-BookmarksMirrored:before, .mi-BookmarksLegacyMirrored:before {
+  content: "\EA71"; }
 
 .mi-Brightness:before {
-    content: "\EA5C"
-}
+  content: "\EA72"; }
 
 .mi-Broom:before {
-    content: "\EA5D"
-}
+  content: "\EA73"; }
 
 .mi-BrowsePhotos:before, .mi-BrowsePhotosLegacy:before {
-    content: "\EA5E"
-}
+  content: "\EA74"; }
 
 .mi-BrushSize:before {
-    content: "\EA5F"
-}
+  content: "\EA75"; }
+
+.mi-Bug:before {
+  content: "\EA76"; }
 
 .mi-BuildingEnergy:before {
-    content: "\EA60"
-}
+  content: "\EA77"; }
 
 .mi-BulletedList:before, .mi-BulletedListLegacy:before, .mi-ListLegacy:before {
-    content: "\EA61"
-}
+  content: "\EA78"; }
 
-.mi-BulletedListLegacyMirrored:before, .mi-BulletedListMirrored:before, .mi-ListLegacyMirrored:before {
-    content: "\EA62"
-}
+.mi-BulletedListMirrored:before, .mi-BulletedListLegacyMirrored:before, .mi-ListLegacyMirrored:before {
+  content: "\EA79"; }
+
+.mi-Bullseye:before {
+  content: "\EA7A"; }
+
+.mi-BumperLeft:before {
+  content: "\EA7B"; }
+
+.mi-BumperRight:before {
+  content: "\EA7C"; }
 
 .mi-Bus:before {
-    content: "\EA63"
-}
+  content: "\EA7D"; }
 
 .mi-BusSolid:before {
-    content: "\EA64"
-}
+  content: "\EA7E"; }
+
+.mi-ButtonA:before {
+  content: "\EA7F"; }
+
+.mi-ButtonB:before {
+  content: "\EA80"; }
+
+.mi-ButtonMenu:before {
+  content: "\EA81"; }
+
+.mi-ButtonView2:before {
+  content: "\EA82"; }
+
+.mi-ButtonX:before {
+  content: "\EA83"; }
+
+.mi-ButtonY:before {
+  content: "\EA84"; }
 
 .mi-CC:before, .mi-CCLegacy:before {
-    content: "\EA65"
-}
+  content: "\EA85"; }
+
+.mi-CCEuro:before, .mi-CCEuroLegacy:before {
+  content: "\EA86"; }
 
 .mi-CCEuroLegacy:before {
-    content: "\EA66"
-}
+  content: "\EA87"; }
+
+.mi-CCJapan:before, .mi-CCJapanLegacy:before {
+  content: "\EA88"; }
 
 .mi-CCJapanLegacy:before {
-    content: "\EA67"
-}
+  content: "\EA89"; }
+
+.mi-Cafe:before {
+  content: "\EA8A"; }
 
 .mi-Calculator:before, .mi-CalculatorLegacy:before {
-    content: "\EA68"
-}
+  content: "\EA8B"; }
 
 .mi-CalculatorAddition:before {
-    content: "\EA69"
-}
+  content: "\EA8C"; }
 
-.mi-BackSpaceQWERTY:before, .mi-CalculatorBackspace:before {
-    content: "\EA6A"
-}
+.mi-CalculatorBackspace:before, .mi-BackSpaceQWERTY:before {
+  content: "\EA8D"; }
 
 .mi-CalculatorDivide:before {
-    content: "\EA6B"
-}
+  content: "\EA8E"; }
 
 .mi-CalculatorEqualTo:before {
-    content: "\EA6C"
-}
+  content: "\EA8F"; }
 
 .mi-CalculatorMultiply:before {
-    content: "\EA6D"
-}
+  content: "\EA90"; }
 
 .mi-CalculatorNegate:before {
-    content: "\EA6E"
-}
+  content: "\EA91"; }
 
 .mi-CalculatorPercentage:before {
-    content: "\EA6F"
-}
+  content: "\EA92"; }
 
 .mi-CalculatorSquareroot:before {
-    content: "\EA70"
-}
+  content: "\EA93"; }
 
 .mi-CalculatorSubtract:before {
-    content: "\EA71"
-}
+  content: "\EA94"; }
 
 .mi-Calendar:before, .mi-CalendarLegacy:before {
-    content: "\EA72"
-}
+  content: "\EA95"; }
 
 .mi-CalendarDay:before, .mi-CalendarDayLegacy:before {
-    content: "\EA73"
-}
+  content: "\EA96"; }
 
-.mi-CalendarLegacyMirrored:before, .mi-CalendarMirrored:before {
-    content: "\EA74"
-}
+.mi-CalendarMirrored:before, .mi-CalendarLegacyMirrored:before {
+  content: "\EA97"; }
 
 .mi-CalendarReply:before, .mi-CalendarReplyLegacy:before {
-    content: "\EA75"
-}
+  content: "\EA98"; }
 
 .mi-CalendarSolid:before {
-    content: "\EA76"
-}
+  content: "\EA99"; }
 
 .mi-CalendarWeek:before, .mi-CalendarWeekLegacy:before {
-    content: "\EA77"
-}
+  content: "\EA9A"; }
 
 .mi-CaligraphyPen:before {
-    content: "\EA78"
-}
+  content: "\EA9B"; }
 
 .mi-CallForwardInternational:before {
-    content: "\EA79"
-}
+  content: "\EA9C"; }
 
 .mi-CallForwardInternationalMirrored:before {
-    content: "\EA7A"
-}
+  content: "\EA9D"; }
 
 .mi-CallForwardRoaming:before {
-    content: "\EA7B"
-}
+  content: "\EA9E"; }
 
 .mi-CallForwardRoamingMirrored:before {
-    content: "\EA7C"
-}
+  content: "\EA9F"; }
 
 .mi-CallForwarding:before {
-    content: "\EA7D"
-}
+  content: "\EAA0"; }
 
 .mi-CallForwardingMirrored:before {
-    content: "\EA7E"
-}
+  content: "\EAA1"; }
+
+.mi-CalligraphyFill:before {
+  content: "\EAA2"; }
+
+.mi-CalligraphyPen:before {
+  content: "\EAA3"; }
+
+.mi-Calories:before {
+  content: "\EAA4"; }
 
 .mi-Camera:before, .mi-CameraLegacy:before {
-    content: "\EA7F"
-}
+  content: "\EAA5"; }
 
 .mi-Cancel:before, .mi-CancelLegacy:before {
-    content: "\EA80"
-}
+  content: "\EAA6"; }
 
 .mi-Caption:before, .mi-CaptionLegacy:before {
-    content: "\EA81"
-}
+  content: "\EAA7"; }
 
 .mi-Car:before, .mi-DrivingMode:before {
-    content: "\EA82"
-}
+  content: "\EAA8"; }
+
+.mi-CaretBottomRightSolidCenter8:before {
+  content: "\EAA9"; }
+
+.mi-CaretDownSolid8:before {
+  content: "\EAAA"; }
+
+.mi-CaretLeftSolid8:before {
+  content: "\EAAB"; }
+
+.mi-CaretRight8:before {
+  content: "\EAAC"; }
+
+.mi-CaretRightSolid8:before {
+  content: "\EAAD"; }
+
+.mi-CaretUpSolid8:before {
+  content: "\EAAE"; }
 
 .mi-CashDrawer:before {
-    content: "\EA83"
-}
+  content: "\EAAF"; }
 
 .mi-CellPhone:before, .mi-CellPhoneLegacy:before, .mi-MobileContactLegacy:before {
-    content: "\EA84"
-}
+  content: "\EAB0"; }
 
 .mi-Certificate:before {
-    content: "\EA85"
-}
+  content: "\EAB1"; }
+
+.mi-CharacterAppearance:before {
+  content: "\EAB2"; }
 
 .mi-Characters:before, .mi-CharactersLegacy:before {
-    content: "\EA86"
-}
+  content: "\EAB3"; }
 
 .mi-ChatBubbles:before {
-    content: "\EA87"
-}
+  content: "\EAB4"; }
+
+.mi-CheckList:before {
+  content: "\EAB5"; }
 
 .mi-CheckMark:before, .mi-CheckMarkLegacy:before, .mi-CheckMarkZeroWidthLegacy:before {
-    content: "\EA88"
-}
+  content: "\EAB6"; }
 
 .mi-Checkbox:before, .mi-CheckboxLegacy:before {
-    content: "\EA89"
-}
+  content: "\EAB7"; }
+
+.mi-Checkbox14:before {
+  content: "\EAB8"; }
 
 .mi-CheckboxComposite:before, .mi-CheckboxCompositeLegacy:before {
-    content: "\EA8A"
-}
+  content: "\EAB9"; }
+
+.mi-CheckboxComposite14:before {
+  content: "\EABA"; }
 
 .mi-CheckboxCompositeReversed:before, .mi-CheckboxCompositeReversedLegacy:before {
-    content: "\EA8B"
-}
+  content: "\EABB"; }
 
 .mi-CheckboxFill:before, .mi-CheckboxFillLegacy:before, .mi-CheckboxFillZeroWidthLegacy:before, .mi-PresenceChicklet:before, .mi-PresenceChickletLegacy:before, .mi-ResizeMouseLarge:before {
-    content: "\EA8C"
-}
+  content: "\EABC"; }
 
 .mi-CheckboxIndeterminate:before, .mi-CheckboxIndeterminateLegacy:before {
-    content: "\EA8D"
-}
+  content: "\EABD"; }
+
+.mi-CheckboxIndeterminateCombo:before {
+  content: "\EABE"; }
+
+.mi-CheckboxIndeterminateCombo14:before {
+  content: "\EABF"; }
+
+.mi-ChecklistMirrored:before {
+  content: "\EAC0"; }
 
 .mi-ChevronDown:before, .mi-ChevronDown1Legacy:before, .mi-ChevronDown2Legacy:before, .mi-ChevronDown3Legacy:before, .mi-ChevronDown4Legacy:before, .mi-ChevronFlipDownLegacy:before, .mi-ScrollChevronDownBoldLegacy:before, .mi-ScrollChevronDownLegacy:before {
-    content: "\EA8E"
-}
+  content: "\EAC1"; }
 
 .mi-ChevronDownMed:before {
-    content: "\EA8F"
-}
+  content: "\EAC2"; }
 
-.mi-ChevronDownSmLegacy:before, .mi-ChevronDownSmall:before {
-    content: "\EA90"
-}
+.mi-ChevronDownSmall:before, .mi-ChevronDownSmLegacy:before {
+  content: "\EAC3"; }
 
-.mi-ChevronFlipLeftLegacy:before, .mi-ChevronLeft:before, .mi-ChevronLeft1Legacy:before, .mi-ChevronLeft2Legacy:before, .mi-ChevronLeft3Legacy:before, .mi-ChevronLeft4Legacy:before, .mi-ScrollChevronLeftBoldLegacy:before, .mi-ScrollChevronLeftLegacy:before {
-    content: "\EA91"
-}
+.mi-ChevronLeft:before, .mi-ChevronFlipLeftLegacy:before, .mi-ChevronLeft1Legacy:before, .mi-ChevronLeft2Legacy:before, .mi-ChevronLeft3Legacy:before, .mi-ChevronLeft4Legacy:before, .mi-ScrollChevronLeftBoldLegacy:before, .mi-ScrollChevronLeftLegacy:before {
+  content: "\EAC4"; }
 
 .mi-ChevronLeftMed:before {
-    content: "\EA92"
-}
+  content: "\EAC5"; }
 
-.mi-ChevronLeftSmLegacy:before, .mi-ChevronLeftSmall:before {
-    content: "\EA93"
-}
+.mi-ChevronLeftSmall:before, .mi-ChevronLeftSmLegacy:before {
+  content: "\EAC6"; }
 
-.mi-ChevronFlipRightLegacy:before, .mi-ChevronRight:before, .mi-ChevronRight1Legacy:before, .mi-ChevronRight2Legacy:before, .mi-ChevronRight3Legacy:before, .mi-ChevronRight4Legacy:before, .mi-ScrollChevronRightBoldLegacy:before, .mi-ScrollChevronRightLegacy:before {
-    content: "\EA94"
-}
+.mi-ChevronRight:before, .mi-ChevronFlipRightLegacy:before, .mi-ChevronRight1Legacy:before, .mi-ChevronRight2Legacy:before, .mi-ChevronRight3Legacy:before, .mi-ChevronRight4Legacy:before, .mi-ScrollChevronRightBoldLegacy:before, .mi-ScrollChevronRightLegacy:before {
+  content: "\EAC7"; }
 
 .mi-ChevronRightMed:before {
-    content: "\EA95"
-}
+  content: "\EAC8"; }
 
-.mi-ChevronRightSmLegacy:before, .mi-ChevronRightSmall:before {
-    content: "\EA96"
-}
+.mi-ChevronRightSmall:before, .mi-ChevronRightSmLegacy:before {
+  content: "\EAC9"; }
 
-.mi-ChevronFlipUpLegacy:before, .mi-ChevronUp:before, .mi-ChevronUp1Legacy:before, .mi-ChevronUp2Legacy:before, .mi-ChevronUp3Legacy:before, .mi-ChevronUp4Legacy:before, .mi-ScrollChevronUpBoldLegacy:before, .mi-ScrollChevronUpLegacy:before {
-    content: "\EA97"
-}
+.mi-ChevronUp:before, .mi-ChevronFlipUpLegacy:before, .mi-ChevronUp1Legacy:before, .mi-ChevronUp2Legacy:before, .mi-ChevronUp3Legacy:before, .mi-ChevronUp4Legacy:before, .mi-ScrollChevronUpBoldLegacy:before, .mi-ScrollChevronUpLegacy:before {
+  content: "\EACA"; }
 
 .mi-ChevronUpMed:before {
-    content: "\EA98"
-}
+  content: "\EACB"; }
 
 .mi-ChevronUpSmall:before {
-    content: "\EA99"
-}
+  content: "\EACC"; }
 
 .mi-ChineseBoPoMoFo:before {
-    content: "\EA9A"
-}
+  content: "\EACD"; }
 
 .mi-ChineseChangjie:before {
-    content: "\EA9B"
-}
+  content: "\EACE"; }
 
 .mi-ChinesePinyin:before {
-    content: "\EA9C"
-}
+  content: "\EACF"; }
+
+.mi-ChinesePunctuation:before {
+  content: "\EAD0"; }
 
 .mi-ChineseQuick:before {
-    content: "\EA9D"
-}
+  content: "\EAD1"; }
+
+.mi-ChipCardCreditCardReader:before {
+  content: "\EAD2"; }
 
 .mi-ChromeAnnotate:before {
-    content: "\EA9E"
-}
+  content: "\EAD3"; }
+
+.mi-ChromeAnnotateContrast:before {
+  content: "\EAD4"; }
 
 .mi-ChromeBack:before {
-    content: "\EA9F"
-}
+  content: "\EAD5"; }
+
+.mi-ChromeBackContrast:before {
+  content: "\EAD6"; }
+
+.mi-ChromeBackContrastMirrored:before {
+  content: "\EAD7"; }
 
 .mi-ChromeBackMirrored:before {
-    content: "\EAA0"
-}
+  content: "\EAD8"; }
 
 .mi-ChromeBackToWindow:before {
-    content: "\EAA1"
-}
+  content: "\EAD9"; }
+
+.mi-ChromeBackToWindowContrast:before {
+  content: "\EADA"; }
 
 .mi-ChromeClose:before {
-    content: "\EAA2"
-}
+  content: "\EADB"; }
+
+.mi-ChromeCloseContrast:before {
+  content: "\EADC"; }
 
 .mi-ChromeFullScreen:before {
-    content: "\EAA3"
-}
+  content: "\EADD"; }
+
+.mi-ChromeFullScreenContrast:before {
+  content: "\EADE"; }
 
 .mi-ChromeMaximize:before {
-    content: "\EAA4"
-}
+  content: "\EADF"; }
+
+.mi-ChromeMaximizeContrast:before {
+  content: "\EAE0"; }
 
 .mi-ChromeMinimize:before {
-    content: "\EAA5"
-}
+  content: "\EAE1"; }
+
+.mi-ChromeMinimizeContrast:before {
+  content: "\EAE2"; }
 
 .mi-ChromeRestore:before {
-    content: "\EAA6"
-}
+  content: "\EAE3"; }
+
+.mi-ChromeRestoreContrast:before {
+  content: "\EAE4"; }
+
+.mi-ChromeSwitch:before {
+  content: "\EAE5"; }
+
+.mi-ChromeSwitchContast:before {
+  content: "\EAE6"; }
 
 .mi-CircleFill:before {
-    content: "\EAA7"
-}
+  content: "\EAE7"; }
 
 .mi-CircleFillBadge12:before {
-    content: "\EAA8"
-}
+  content: "\EAE8"; }
 
 .mi-CircleRing:before {
-    content: "\EAA9"
-}
+  content: "\EAE9"; }
 
 .mi-CircleRingBadge12:before {
-    content: "\EAAA"
-}
+  content: "\EAEA"; }
 
 .mi-CityNext:before {
-    content: "\EAAB"
-}
+  content: "\EAEB"; }
 
 .mi-CityNext2:before {
-    content: "\EAAC"
-}
+  content: "\EAEC"; }
 
 .mi-Clear:before, .mi-ClearLegacy:before {
-    content: "\EAAD"
-}
+  content: "\EAED"; }
 
 .mi-ClearAllInk:before {
-    content: "\EAAE"
-}
+  content: "\EAEE"; }
 
 .mi-ClearAllInkMirrored:before {
-    content: "\EAAF"
-}
+  content: "\EAEF"; }
 
 .mi-ClearSelection:before, .mi-ClearSelectionLegacy:before {
-    content: "\EAB0"
-}
+  content: "\EAF0"; }
 
-.mi-ClearSelectionLegacyMirrored:before, .mi-ClearSelectionMirrored:before {
-    content: "\EAB1"
-}
+.mi-ClearSelectionMirrored:before, .mi-ClearSelectionLegacyMirrored:before {
+  content: "\EAF1"; }
 
 .mi-Click:before {
-    content: "\EAB2"
-}
+  content: "\EAF2"; }
+
+.mi-ClipboardList:before {
+  content: "\EAF3"; }
+
+.mi-ClipboardListMirrored:before {
+  content: "\EAF4"; }
+
+.mi-ClippingTool:before {
+  content: "\EAF5"; }
+
+.mi-Clock:before, .mi-ClockLegacy:before {
+  content: "\EAF6"; }
 
 .mi-ClockLegacy:before {
-    content: "\EAB3"
-}
+  content: "\EAF7"; }
 
 .mi-ClosePane:before, .mi-ClosePaneLegacy:before {
-    content: "\EAB4"
-}
+  content: "\EAF8"; }
 
-.mi-ClosePaneLegacyMirrored:before, .mi-ClosePaneMirrored:before {
-    content: "\EAB5"
-}
+.mi-ClosePaneMirrored:before, .mi-ClosePaneLegacyMirrored:before {
+  content: "\EAF9"; }
 
 .mi-Cloud:before {
-    content: "\EAB6"
-}
+  content: "\EAFA"; }
 
 .mi-CloudPrinter:before {
-    content: "\EAB7"
-}
+  content: "\EAFB"; }
+
+.mi-CloudSeach:before {
+  content: "\EAFC"; }
 
 .mi-Code:before {
-    content: "\EAB8"
-}
+  content: "\EAFD"; }
+
+.mi-CollapseContent:before {
+  content: "\EAFE"; }
+
+.mi-CollapseContentSingle:before {
+  content: "\EAFF"; }
+
+.mi-CollateLandscape:before {
+  content: "\EB00"; }
+
+.mi-CollateLandscapeSeparated:before {
+  content: "\EB01"; }
+
+.mi-CollatePortrait:before {
+  content: "\EB02"; }
+
+.mi-CollatePortraitSeparated:before {
+  content: "\EB03"; }
 
 .mi-Color:before, .mi-ColorLegacy:before {
-    content: "\EAB9"
-}
+  content: "\EB04"; }
+
+.mi-ColorOff:before {
+  content: "\EB05"; }
 
 .mi-CommaKey:before {
-    content: "\EABA"
-}
+  content: "\EB06"; }
 
 .mi-CommandPrompt:before {
-    content: "\EABB"
-}
+  content: "\EB07"; }
 
 .mi-Comment:before, .mi-CommentLegacy:before {
-    content: "\EABC"
-}
+  content: "\EB08"; }
 
 .mi-Communications:before {
-    content: "\EABD"
-}
+  content: "\EB09"; }
 
 .mi-CompanionApp:before {
-    content: "\EABE"
-}
+  content: "\EB0A"; }
 
 .mi-CompanionDeviceFramework:before {
-    content: "\EABF"
-}
+  content: "\EB0B"; }
 
 .mi-Completed:before {
-    content: "\EAC0"
-}
+  content: "\EB0C"; }
 
 .mi-CompletedSolid:before {
-    content: "\EAC1"
-}
+  content: "\EB0D"; }
 
 .mi-Component:before {
-    content: "\EAC2"
-}
+  content: "\EB0E"; }
 
 .mi-Connect:before {
-    content: "\EAC3"
-}
+  content: "\EB0F"; }
 
 .mi-ConnectApp:before, .mi-MiracastLogoLarge:before {
-    content: "\EAC4"
-}
+  content: "\EB10"; }
+
+.mi-Connected:before {
+  content: "\EB11"; }
 
 .mi-Construction:before {
-    content: "\EAC5"
-}
+  content: "\EB12"; }
 
 .mi-ConstructionCone:before {
-    content: "\EAC6"
-}
+  content: "\EB13"; }
 
 .mi-ConstructionSolid:before {
-    content: "\EAC7"
-}
+  content: "\EB14"; }
 
 .mi-Contact:before, .mi-Contact3Legacy:before, .mi-ContactLegacy:before {
-    content: "\EAC8"
-}
+  content: "\EB15"; }
 
 .mi-Contact2:before, .mi-Contact2Legacy:before {
-    content: "\EAC9"
-}
+  content: "\EB16"; }
 
 .mi-ContactInfo:before, .mi-ContactInfoLegacy:before {
-    content: "\EACA"
-}
+  content: "\EB17"; }
 
 .mi-ContactInfoMirrored:before {
-    content: "\EACB"
-}
+  content: "\EB18"; }
 
 .mi-ContactPresence:before, .mi-ContactPresenceLegacy:before {
-    content: "\EACC"
-}
+  content: "\EB19"; }
 
 .mi-ContactSolid:before {
-    content: "\EACD"
-}
+  content: "\EB1A"; }
 
 .mi-Copy:before, .mi-CopyLegacy:before {
-    content: "\EACE"
-}
+  content: "\EB1B"; }
+
+.mi-CopyTo:before {
+  content: "\EB1C"; }
 
 .mi-Courthouse:before {
-    content: "\EACF"
-}
+  content: "\EB1D"; }
 
 .mi-Crop:before, .mi-CropLegacy:before {
-    content: "\EAD0"
-}
+  content: "\EB1E"; }
+
+.mi-CtrlSpatialLeft:before {
+  content: "\EB1F"; }
+
+.mi-CtrlSpatialRight:before {
+  content: "\EB20"; }
 
 .mi-Cut:before, .mi-CutLegacy:before {
-    content: "\EAD1"
-}
+  content: "\EB21"; }
 
 .mi-DMC:before {
-    content: "\EAD2"
-}
+  content: "\EB22"; }
 
 .mi-DashKey:before {
-    content: "\EAD3"
-}
+  content: "\EB23"; }
 
 .mi-DataSense:before {
-    content: "\EAD4"
-}
+  content: "\EB24"; }
 
 .mi-DataSenseBar:before {
-    content: "\EAD5"
-}
+  content: "\EB25"; }
 
 .mi-DateTime:before {
-    content: "\EAD6"
-}
+  content: "\EB26"; }
 
 .mi-DateTimeMirrored:before {
-    content: "\EAD7"
-}
+  content: "\EB27"; }
+
+.mi-DecreaseIndent:before, .mi-DecreaseIndentLegacy:before {
+  content: "\EB28"; }
 
 .mi-DecreaseIndentLegacy:before {
-    content: "\EAD8"
-}
+  content: "\EB29"; }
 
 .mi-DecreaseIndentLegacyMirrored:before {
-    content: "\EAD9"
-}
+  content: "\EB2A"; }
+
+.mi-DecreaseIndentMirrored:before, .mi-DecreaseIndentLegacyMirrored:before {
+  content: "\EB2B"; }
+
+.mi-DefaultAPN:before {
+  content: "\EB2C"; }
 
 .mi-DefenderApp:before {
-    content: "\EADA"
-}
+  content: "\EB2D"; }
+
+.mi-DefenderBadge12:before {
+  content: "\EB2E"; }
 
 .mi-Delete:before, .mi-DeleteLegacy:before {
-    content: "\EADB"
-}
+  content: "\EB2F"; }
+
+.mi-Design:before {
+  content: "\EB30"; }
+
+.mi-DetachablePC:before {
+  content: "\EB31"; }
 
 .mi-DevUpdate:before {
-    content: "\EADC"
-}
+  content: "\EB32"; }
 
 .mi-DeveloperTools:before {
-    content: "\EADD"
-}
+  content: "\EB33"; }
 
 .mi-DeviceDiscovery:before {
-    content: "\EADE"
-}
+  content: "\EB34"; }
 
 .mi-DeviceLaptopNoPic:before {
-    content: "\EADF"
-}
+  content: "\EB35"; }
 
 .mi-DeviceLaptopPic:before {
-    content: "\EAE0"
-}
+  content: "\EB36"; }
 
 .mi-DeviceMonitorLeftPic:before {
-    content: "\EAE1"
-}
+  content: "\EB37"; }
 
 .mi-DeviceMonitorNoPic:before {
-    content: "\EAE2"
-}
+  content: "\EB38"; }
 
 .mi-DeviceMonitorRightPic:before {
-    content: "\EAE3"
-}
+  content: "\EB39"; }
 
 .mi-Devices:before {
-    content: "\EAE4"
-}
-
-.mi-Devices3:before {
-    content: "\EAE5"
-}
-
-.mi-Devices4:before {
-    content: "\EAE6"
-}
+  content: "\EB3A"; }
 
 .mi-Devices2:before, .mi-DevicesLegacy:before {
-    content: "\EAE7"
-}
+  content: "\EB3B"; }
+
+.mi-Devices3:before {
+  content: "\EB3C"; }
+
+.mi-Devices4:before {
+  content: "\EB3D"; }
+
+.mi-DevicesLegacy:before {
+  content: "\EB3E"; }
 
 .mi-Diagnostic:before {
-    content: "\EAE8"
-}
+  content: "\EB3F"; }
+
+.mi-Dial1:before {
+  content: "\EB40"; }
+
+.mi-Dial10:before {
+  content: "\EB41"; }
+
+.mi-Dial11:before {
+  content: "\EB42"; }
+
+.mi-Dial12:before {
+  content: "\EB43"; }
+
+.mi-Dial13:before {
+  content: "\EB44"; }
+
+.mi-Dial14:before {
+  content: "\EB45"; }
+
+.mi-Dial15:before {
+  content: "\EB46"; }
+
+.mi-Dial16:before {
+  content: "\EB47"; }
+
+.mi-Dial2:before {
+  content: "\EB48"; }
+
+.mi-Dial3:before {
+  content: "\EB49"; }
+
+.mi-Dial4:before {
+  content: "\EB4A"; }
+
+.mi-Dial5:before {
+  content: "\EB4B"; }
+
+.mi-Dial6:before {
+  content: "\EB4C"; }
+
+.mi-Dial7:before {
+  content: "\EB4D"; }
+
+.mi-Dial8:before {
+  content: "\EB4E"; }
+
+.mi-Dial9:before {
+  content: "\EB4F"; }
+
+.mi-DialShape1:before {
+  content: "\EB50"; }
+
+.mi-DialShape2:before {
+  content: "\EB51"; }
+
+.mi-DialShape3:before {
+  content: "\EB52"; }
+
+.mi-DialShape4:before {
+  content: "\EB53"; }
 
 .mi-DialUp:before {
-    content: "\EAE9"
-}
+  content: "\EB54"; }
 
 .mi-Dialpad:before {
-    content: "\EAEA"
-}
+  content: "\EB55"; }
 
 .mi-Dictionary:before {
-    content: "\EAEB"
-}
+  content: "\EB56"; }
 
 .mi-DictionaryAdd:before {
-    content: "\EAEC"
-}
+  content: "\EB57"; }
 
 .mi-DictionaryCloud:before {
-    content: "\EAED"
-}
+  content: "\EB58"; }
 
 .mi-DirectAccess:before {
-    content: "\EAEE"
-}
+  content: "\EB59"; }
 
 .mi-Directions:before, .mi-DirectionsLegacy:before {
-    content: "\EAEF"
-}
+  content: "\EB5A"; }
 
 .mi-DisableUpdates:before, .mi-DisableUpdatesLegacy:before {
-    content: "\EAF0"
-}
+  content: "\EB5B"; }
 
 .mi-DisconnectDisplay:before {
-    content: "\EAF1"
-}
+  content: "\EB5C"; }
 
 .mi-DisconnectDrive:before, .mi-DisconnectDriveLegacy:before {
-    content: "\EAF2"
-}
+  content: "\EB5D"; }
 
 .mi-Dislike:before, .mi-DislikeLegacy:before {
-    content: "\EAF3"
-}
+  content: "\EB5E"; }
 
 .mi-Dock:before {
-    content: "\EAF4"
-}
+  content: "\EB5F"; }
 
 .mi-DockBottom:before, .mi-DockBottomLegacy:before {
-    content: "\EAF5"
-}
+  content: "\EB60"; }
 
 .mi-DockLeft:before, .mi-DockLeftLegacy:before {
-    content: "\EAF6"
-}
+  content: "\EB61"; }
 
-.mi-DockLeftLegacyMirrored:before, .mi-DockLeftMirrored:before {
-    content: "\EAF7"
-}
+.mi-DockLeftMirrored:before, .mi-DockLeftLegacyMirrored:before {
+  content: "\EB62"; }
 
 .mi-DockRight:before, .mi-DockRightLegacy:before {
-    content: "\EAF8"
-}
+  content: "\EB63"; }
 
-.mi-DockRightLegacyMirrored:before, .mi-DockRightMirrored:before {
-    content: "\EAF9"
-}
+.mi-DockRightMirrored:before, .mi-DockRightLegacyMirrored:before {
+  content: "\EB64"; }
 
 .mi-Document:before, .mi-DocumentLegacy:before {
-    content: "\EAFA"
-}
+  content: "\EB65"; }
+
+.mi-DoublePinyin:before {
+  content: "\EB66"; }
 
 .mi-Down:before, .mi-DownLegacy:before {
-    content: "\EAFB"
-}
+  content: "\EB67"; }
 
 .mi-DownShiftKey:before {
-    content: "\EAFC"
-}
+  content: "\EB68"; }
 
 .mi-Download:before, .mi-DownloadLegacy:before {
-    content: "\EAFD"
-}
+  content: "\EB69"; }
 
 .mi-DownloadMap:before {
-    content: "\EAFE"
-}
+  content: "\EB6A"; }
+
+.mi-Dpad:before {
+  content: "\EB6B"; }
 
 .mi-Draw:before {
-    content: "\EAFF"
-}
+  content: "\EB6C"; }
 
 .mi-DrawSolid:before {
-    content: "\EB00"
-}
+  content: "\EB6D"; }
 
 .mi-Drop:before {
-    content: "\EB01"
-}
+  content: "\EB6E"; }
 
 .mi-DullSound:before {
-    content: "\EB02"
-}
+  content: "\EB6F"; }
 
 .mi-DullSoundKey:before {
-    content: "\EB03"
-}
+  content: "\EB70"; }
+
+.mi-DuplexLandscapeOneSided:before {
+  content: "\EB71"; }
+
+.mi-DuplexLandscapeOneSidedMirrored:before {
+  content: "\EB72"; }
+
+.mi-DuplexLandscapeTwoSidedLongEdge:before {
+  content: "\EB73"; }
+
+.mi-DuplexLandscapeTwoSidedLongEdgeMirrored:before {
+  content: "\EB74"; }
+
+.mi-DuplexLandscapeTwoSidedShortEdge:before {
+  content: "\EB75"; }
+
+.mi-DuplexLandscapeTwoSidedShortEdgeMirrored:before {
+  content: "\EB76"; }
+
+.mi-DuplexPortraitOneSided:before {
+  content: "\EB77"; }
+
+.mi-DuplexPortraitOneSidedMirrored:before {
+  content: "\EB78"; }
+
+.mi-DuplexPortraitTwoSidedLongEdge:before {
+  content: "\EB79"; }
+
+.mi-DuplexPortraitTwoSidedLongEdgeMirrored:before {
+  content: "\EB7A"; }
+
+.mi-DuplexPortraitTwoSidedShortEdge:before {
+  content: "\EB7B"; }
+
+.mi-DuplexPortraitTwoSidedShortEdgeMirrored:before {
+  content: "\EB7C"; }
+
+.mi-DynamicLock:before {
+  content: "\EB7D"; }
+
+.mi-EMI:before {
+  content: "\EB7E"; }
+
+.mi-Ear:before {
+  content: "\EB7F"; }
+
+.mi-Earbud:before {
+  content: "\EB80"; }
 
 .mi-EaseOfAccess:before, .mi-EaseOfAccessLegacy:before {
-    content: "\EB04"
-}
+  content: "\EB81"; }
 
 .mi-Edit:before, .mi-EditLegacy:before {
-    content: "\EB05"
-}
+  content: "\EB82"; }
 
-.mi-EditLegacyMirrored:before, .mi-EditMirrored:before {
-    content: "\EB06"
-}
+.mi-EditMirrored:before, .mi-EditLegacyMirrored:before {
+  content: "\EB83"; }
 
 .mi-Education:before {
-    content: "\EB07"
-}
+  content: "\EB84"; }
 
 .mi-Emoji:before, .mi-EmojiLegacy:before {
-    content: "\EB08"
-}
+  content: "\EB85"; }
 
 .mi-Emoji2:before, .mi-Emoji2Legacy:before {
-    content: "\EB09"
-}
+  content: "\EB86"; }
 
 .mi-EmojiSwatch:before {
-    content: "\EB0A"
-}
+  content: "\EB87"; }
 
 .mi-EmojiTabCelebrationObjects:before {
-    content: "\EB0B"
-}
+  content: "\EB88"; }
 
 .mi-EmojiTabFavorites:before {
-    content: "\EB0C"
-}
+  content: "\EB89"; }
 
 .mi-EmojiTabFoodPlants:before {
-    content: "\EB0D"
-}
+  content: "\EB8A"; }
 
 .mi-EmojiTabPeople:before {
-    content: "\EB0E"
-}
+  content: "\EB8B"; }
 
 .mi-EmojiTabSmilesAnimals:before {
-    content: "\EB0F"
-}
+  content: "\EB8C"; }
 
 .mi-EmojiTabSymbols:before {
-    content: "\EB10"
-}
+  content: "\EB8D"; }
 
 .mi-EmojiTabTextSmiles:before {
-    content: "\EB11"
-}
+  content: "\EB8E"; }
 
 .mi-EmojiTabTransitPlaces:before {
-    content: "\EB12"
-}
+  content: "\EB8F"; }
+
+.mi-EndPoint:before {
+  content: "\EB90"; }
 
 .mi-EndPointSolid:before {
-    content: "\EB13"
-}
+  content: "\EB91"; }
+
+.mi-EnglishPunctuation:before {
+  content: "\EB92"; }
+
+.mi-Equalizer:before {
+  content: "\EB93"; }
 
 .mi-EraseTool:before {
-    content: "\EB14"
-}
+  content: "\EB94"; }
 
 .mi-EraseToolFill:before {
-    content: "\EB15"
-}
+  content: "\EB95"; }
 
 .mi-EraseToolFill2:before {
-    content: "\EB16"
-}
+  content: "\EB96"; }
 
 .mi-Error:before {
-    content: "\EB17"
-}
+  content: "\EB97"; }
 
 .mi-ErrorBadge:before {
-    content: "\EB18"
-}
+  content: "\EB98"; }
 
 .mi-ErrorBadge12:before {
-    content: "\EB19"
-}
+  content: "\EB99"; }
 
 .mi-Ethernet:before {
-    content: "\EB1A"
-}
+  content: "\EB9A"; }
 
 .mi-EthernetError:before {
-    content: "\EB1B"
-}
+  content: "\EB9B"; }
 
 .mi-EthernetWarning:before {
-    content: "\EB1C"
-}
+  content: "\EB9C"; }
 
 .mi-ExpandTile:before, .mi-ExpandTileLegacy:before {
-    content: "\EB1D"
-}
+  content: "\EB9D"; }
 
-.mi-ExpandTileLegacyMirrored:before, .mi-ExpandTileMirrored:before {
-    content: "\EB1E"
-}
+.mi-ExpandTileMirrored:before, .mi-ExpandTileLegacyMirrored:before {
+  content: "\EB9E"; }
+
+.mi-ExploitProtectionSettings:before {
+  content: "\EB9F"; }
 
 .mi-ExploreContent:before {
-    content: "\EB1F"
-}
+  content: "\EBA0"; }
+
+.mi-ExploreContentSingle:before {
+  content: "\EBA1"; }
 
 .mi-Export:before, .mi-ImportLegacyMirrored:before, .mi-ImportMirrored:before {
-    content: "\EB20"
-}
+  content: "\EBA2"; }
+
+.mi-EyeGaze:before {
+  content: "\EBA3"; }
+
+.mi-Eyedropper:before {
+  content: "\EBA4"; }
+
+.mi-Family:before {
+  content: "\EBA5"; }
 
 .mi-FastForward:before {
-    content: "\EB21"
-}
+  content: "\EBA6"; }
 
-.mi-Favorite2Legacy:before, .mi-FavoriteLegacy:before, .mi-FavoriteStarFill:before, .mi-RatingStarFillLegacy:before, .mi-RatingStarFillReducedPaddingHTMLLegacy:before, .mi-RatingStarFillSmallLegacy:before, .mi-RatingStarFillZeroWidthLegacy:before, .mi-SolidStarLegacy:before {
-    content: "\EB22"
-}
+.mi-Favicon:before {
+  content: "\EBA7"; }
+
+.mi-FavoriteLegacy:before {
+  content: "\EBA8"; }
 
 .mi-FavoriteList:before {
-    content: "\EB23"
-}
+  content: "\EBA9"; }
 
-.mi-FavoriteInlineLegacy:before, .mi-FavoriteStar:before, .mi-OutlineStarLegacy:before, .mi-RatingStarLegacy:before, .mi-Unfavorite2Legacy:before {
-    content: "\EB24"
-}
+.mi-FavoriteStar:before, .mi-FavoriteInlineLegacy:before, .mi-OutlineStarLegacy:before, .mi-RatingStarLegacy:before, .mi-Unfavorite2Legacy:before {
+  content: "\EBAA"; }
+
+.mi-FavoriteStarFill:before, .mi-Favorite2Legacy:before, .mi-FavoriteLegacy:before, .mi-RatingStarFillLegacy:before, .mi-RatingStarFillReducedPaddingHTMLLegacy:before, .mi-RatingStarFillSmallLegacy:before, .mi-RatingStarFillZeroWidthLegacy:before, .mi-SolidStarLegacy:before {
+  content: "\EBAB"; }
 
 .mi-Feedback:before {
-    content: "\EB25"
-}
+  content: "\EBAC"; }
 
 .mi-FeedbackApp:before {
-    content: "\EB26"
-}
+  content: "\EBAD"; }
 
 .mi-Ferry:before {
-    content: "\EB27"
-}
+  content: "\EBAE"; }
 
 .mi-FerrySolid:before {
-    content: "\EB28"
-}
+  content: "\EBAF"; }
 
 .mi-FileExplorer:before {
-    content: "\EB29"
-}
+  content: "\EBB0"; }
 
 .mi-FileExplorerApp:before {
-    content: "\EB2A"
-}
+  content: "\EBB1"; }
 
 .mi-Filter:before, .mi-FilterLegacy:before {
-    content: "\EB2B"
-}
+  content: "\EBB2"; }
 
 .mi-FingerInking:before {
-    content: "\EB2C"
-}
+  content: "\EBB3"; }
 
 .mi-Fingerprint:before {
-    content: "\EB2D"
-}
+  content: "\EBB4"; }
 
-.mi-EndPoint:before, .mi-Flag:before, .mi-FlagLegacy:before {
-    content: "\EB2E"
-}
+.mi-FitPage:before {
+  content: "\EBB5"; }
+
+.mi-Flag:before, .mi-EndPoint:before, .mi-FlagLegacy:before {
+  content: "\EBB6"; }
 
 .mi-Flashlight:before {
-    content: "\EB2F"
-}
+  content: "\EBB7"; }
 
 .mi-FlickDown:before {
-    content: "\EB30"
-}
+  content: "\EBB8"; }
 
 .mi-FlickLeft:before {
-    content: "\EB31"
-}
+  content: "\EBB9"; }
 
 .mi-FlickRight:before {
-    content: "\EB32"
-}
+  content: "\EBBA"; }
 
 .mi-FlickUp:before {
-    content: "\EB33"
-}
+  content: "\EBBB"; }
 
 .mi-Folder:before {
-    content: "\EB34"
-}
+  content: "\EBBC"; }
 
 .mi-FolderFill:before, .mi-FolderLegacy:before {
-    content: "\EB35"
-}
+  content: "\EBBD"; }
+
+.mi-FolderHorizontal:before {
+  content: "\EBBE"; }
+
+.mi-FolderOpen:before {
+  content: "\EBBF"; }
 
 .mi-Font:before, .mi-FontLegacy:before {
-    content: "\EB36"
-}
+  content: "\EBC0"; }
 
 .mi-FontColor:before, .mi-FontColorLegacy:before {
-    content: "\EB37"
-}
+  content: "\EBC1"; }
+
+.mi-FontColorKorean:before, .mi-FontColorKoreanLegacy:before {
+  content: "\EBC2"; }
 
 .mi-FontColorKoreanLegacy:before {
-    content: "\EB38"
-}
+  content: "\EBC3"; }
 
 .mi-FontDecrease:before, .mi-FontDecreaseLegacy:before {
-    content: "\EB39"
-}
+  content: "\EBC4"; }
 
 .mi-FontIncrease:before, .mi-FontIncreaseLegacy:before {
-    content: "\EB3A"
-}
+  content: "\EBC5"; }
 
 .mi-FontSize:before, .mi-FontSizeLegacy:before {
-    content: "\EB3B"
-}
+  content: "\EBC6"; }
+
+.mi-FontStyleKorean:before, .mi-FontStyleKoreanLegacy:before {
+  content: "\EBC7"; }
 
 .mi-FontStyleKoreanLegacy:before {
-    content: "\EB3C"
-}
+  content: "\EBC8"; }
 
-.mi-ArrowHTMLLegacyMirrored:before, .mi-BackBttnMirroredArrow20Legacy:before, .mi-BackBttnMirroredArrow42Legacy:before, .mi-Forward:before, .mi-ForwardLegacy:before {
-    content: "\EB3D"
-}
+.mi-Forward:before, .mi-ArrowHTMLLegacyMirrored:before, .mi-BackBttnMirroredArrow20Legacy:before, .mi-BackBttnMirroredArrow42Legacy:before, .mi-ForwardLegacy:before {
+  content: "\EBC9"; }
+
+.mi-ForwardMirrored:before {
+  content: "\EBCA"; }
 
 .mi-ForwardSm:before {
-    content: "\EB3E"
-}
+  content: "\EBCB"; }
 
 .mi-FourBars:before, .mi-FourBarsLegacy:before {
-    content: "\EB3F"
-}
+  content: "\EBCC"; }
+
+.mi-FreeFormClipping:before {
+  content: "\EBCD"; }
 
 .mi-Frigid:before {
-    content: "\EB40"
-}
+  content: "\EBCE"; }
 
 .mi-FullAlpha:before {
-    content: "\EB41"
-}
+  content: "\EBCF"; }
 
 .mi-FullCircleMask:before {
-    content: "\EB42"
-}
+  content: "\EBD0"; }
 
 .mi-FullHiragana:before {
-    content: "\EB43"
-}
+  content: "\EBD1"; }
 
 .mi-FullKatakana:before {
-    content: "\EB44"
-}
+  content: "\EBD2"; }
 
 .mi-FullScreen:before, .mi-FullScreenLegacy:before {
-    content: "\EB45"
-}
+  content: "\EBD3"; }
+
+.mi-FuzzyReading:before {
+  content: "\EBD4"; }
+
+.mi-GIF:before {
+  content: "\EBD5"; }
 
 .mi-Game:before {
-    content: "\EB46"
-}
+  content: "\EBD6"; }
 
 .mi-GameConsole:before {
-    content: "\EB47"
-}
+  content: "\EBD7"; }
+
+.mi-GiftboxOpen:before {
+  content: "\EBD8"; }
 
 .mi-GlobalNavButton:before {
-    content: "\EB48"
-}
+  content: "\EBD9"; }
+
+.mi-GlobalNavigationButton:before {
+  content: "\EBDA"; }
 
 .mi-Globe:before, .mi-GlobeLegacy:before {
-    content: "\EB49"
-}
+  content: "\EBDB"; }
 
 .mi-Go:before, .mi-GoLegacy:before {
-    content: "\EB4A"
-}
+  content: "\EBDC"; }
 
-.mi-GoLegacyMirrored:before, .mi-GoMirrored:before {
-    content: "\EB4B"
-}
+.mi-GoMirrored:before, .mi-GoLegacyMirrored:before {
+  content: "\EBDD"; }
 
 .mi-GoToStart:before, .mi-GoToStartLegacy:before {
-    content: "\EB4C"
-}
+  content: "\EBDE"; }
 
 .mi-GotoToday:before, .mi-GotoTodayLegacy:before {
-    content: "\EB4D"
-}
+  content: "\EBDF"; }
+
+.mi-GridView:before {
+  content: "\EBE0"; }
 
 .mi-GripperBarHorizontal:before {
-    content: "\EB4E"
-}
+  content: "\EBE1"; }
 
 .mi-GripperBarVertical:before {
-    content: "\EB4F"
-}
+  content: "\EBE2"; }
 
 .mi-GripperResize:before {
-    content: "\EB50"
-}
+  content: "\EBE3"; }
 
 .mi-GripperResizeMirrored:before {
-    content: "\EB51"
-}
+  content: "\EBE4"; }
 
 .mi-GripperTool:before {
-    content: "\EB52"
-}
+  content: "\EBE5"; }
 
 .mi-Groceries:before {
-    content: "\EB53"
-}
+  content: "\EBE6"; }
+
+.mi-Group:before {
+  content: "\EBE7"; }
+
+.mi-GroupList:before {
+  content: "\EBE8"; }
 
 .mi-GuestUser:before {
-    content: "\EB54"
-}
+  content: "\EBE9"; }
+
+.mi-HMD:before {
+  content: "\EBEA"; }
+
+.mi-HWPInsert:before {
+  content: "\EBEB"; }
+
+.mi-HWPJoin:before {
+  content: "\EBEC"; }
+
+.mi-HWPNewLine:before {
+  content: "\EBED"; }
+
+.mi-HWPOverwrite:before {
+  content: "\EBEE"; }
+
+.mi-HWPScratchOut:before {
+  content: "\EBEF"; }
+
+.mi-HWPSplit:before {
+  content: "\EBF0"; }
+
+.mi-HWPStrikeThrough:before {
+  content: "\EBF1"; }
 
 .mi-HalfAlpha:before {
-    content: "\EB55"
-}
+  content: "\EBF2"; }
 
 .mi-HalfDullSound:before {
-    content: "\EB56"
-}
+  content: "\EBF3"; }
 
 .mi-HalfKatakana:before {
-    content: "\EB57"
-}
+  content: "\EBF4"; }
 
 .mi-HalfStarLeft:before {
-    content: "\EB58"
-}
+  content: "\EBF5"; }
 
 .mi-HalfStarRight:before {
-    content: "\EB59"
-}
+  content: "\EBF6"; }
 
 .mi-Handwriting:before {
-    content: "\EB5A"
-}
+  content: "\EBF7"; }
 
 .mi-HangUp:before, .mi-HangUpLegacy:before {
-    content: "\EB5B"
-}
+  content: "\EBF8"; }
 
 .mi-HardDrive:before {
-    content: "\EB5C"
-}
+  content: "\EBF9"; }
+
+.mi-HeadlessDevice:before {
+  content: "\EBFA"; }
 
 .mi-Headphone:before {
-    content: "\EB5D"
-}
+  content: "\EBFB"; }
 
 .mi-Headphone0:before {
-    content: "\EB5E"
-}
+  content: "\EBFC"; }
 
 .mi-Headphone1:before {
-    content: "\EB5F"
-}
+  content: "\EBFD"; }
 
 .mi-Headphone2:before {
-    content: "\EB60"
-}
+  content: "\EBFE"; }
 
 .mi-Headphone3:before {
-    content: "\EB61"
-}
+  content: "\EBFF"; }
 
 .mi-Headset:before {
-    content: "\EB62"
-}
+  content: "\EC00"; }
 
 .mi-Health:before {
-    content: "\EB63"
-}
+  content: "\EC01"; }
 
 .mi-Heart:before, .mi-HeartLegacy:before {
-    content: "\EB64"
-}
+  content: "\EC02"; }
 
 .mi-HeartBroken:before {
-    content: "\EB65"
-}
+  content: "\EC03"; }
 
 .mi-HeartBrokenLegacy:before, .mi-HeartBrokenZeroWidthLegacy:before {
-    content: "\EB66"
-}
+  content: "\EC04"; }
 
 .mi-HeartFill:before, .mi-HeartFillLegacy:before, .mi-HeartFillZeroWidthLegacy:before {
-    content: "\EB67"
-}
+  content: "\EC05"; }
 
 .mi-Help:before, .mi-HelpLegacy:before {
-    content: "\EB68"
-}
+  content: "\EC06"; }
 
-.mi-HelpLegacyMirrored:before, .mi-HelpMirrored:before {
-    content: "\EB69"
-}
+.mi-HelpMirrored:before, .mi-HelpLegacyMirrored:before {
+  content: "\EC07"; }
 
 .mi-HideBcc:before, .mi-HideBccLegacy:before {
-    content: "\EB6A"
-}
+  content: "\EC08"; }
 
 .mi-Highlight:before, .mi-HighlightLegacy:before {
-    content: "\EB6B"
-}
+  content: "\EC09"; }
 
 .mi-HighlightFill:before {
-    content: "\EB6C"
-}
+  content: "\EC0A"; }
 
 .mi-HighlightFill2:before {
-    content: "\EB6D"
-}
+  content: "\EC0B"; }
 
 .mi-History:before {
-    content: "\EB6E"
-}
+  content: "\EC0C"; }
+
+.mi-HolePunchLandscapeBottom:before {
+  content: "\EC0D"; }
+
+.mi-HolePunchLandscapeLeft:before {
+  content: "\EC0E"; }
+
+.mi-HolePunchLandscapeRight:before {
+  content: "\EC0F"; }
+
+.mi-HolePunchLandscapeTop:before {
+  content: "\EC10"; }
+
+.mi-HolePunchOff:before {
+  content: "\EC11"; }
+
+.mi-HolePunchPortraitBottom:before {
+  content: "\EC12"; }
+
+.mi-HolePunchPortraitLeft:before {
+  content: "\EC13"; }
+
+.mi-HolePunchPortraitRight:before {
+  content: "\EC14"; }
+
+.mi-HolePunchPortraitTop:before {
+  content: "\EC15"; }
+
+.mi-HoloLensSelected:before {
+  content: "\EC16"; }
 
 .mi-Home:before, .mi-HomeLegacy:before {
-    content: "\EB6F"
-}
+  content: "\EC17"; }
 
 .mi-HomeGroup:before {
-    content: "\EB70"
-}
+  content: "\EC18"; }
 
 .mi-HomeSolid:before {
-    content: "\EB71"
-}
+  content: "\EC19"; }
 
 .mi-HorizontalTabKey:before {
-    content: "\EB72"
-}
+  content: "\EC1A"; }
 
 .mi-IBeam:before {
-    content: "\EB73"
-}
+  content: "\EC1B"; }
 
 .mi-IBeamOutline:before {
-    content: "\EB74"
-}
+  content: "\EC1C"; }
+
+.mi-IOT:before {
+  content: "\EC1D"; }
 
 .mi-ImageExport:before {
-    content: "\EB75"
-}
+  content: "\EC1E"; }
 
-.mi-ExportMirrored:before, .mi-Import:before, .mi-ImportLegacy:before {
-    content: "\EB76"
-}
+.mi-Import:before, .mi-ExportMirrored:before, .mi-ImportLegacy:before {
+  content: "\EC1F"; }
 
 .mi-ImportAll:before, .mi-ImportAllLegacy:before {
-    content: "\EB77"
-}
+  content: "\EC20"; }
 
-.mi-ImportAllLegacyMirrored:before, .mi-ImportAllMirrored:before {
-    content: "\EB78"
-}
+.mi-ImportAllMirrored:before, .mi-ImportAllLegacyMirrored:before {
+  content: "\EC21"; }
 
 .mi-Important:before, .mi-ImportantLegacy:before {
-    content: "\EB79"
-}
+  content: "\EC22"; }
 
 .mi-ImportantBadge12:before {
-    content: "\EB7A"
-}
+  content: "\EC23"; }
 
 .mi-InPrivate:before {
-    content: "\EB7B"
-}
+  content: "\EC24"; }
 
 .mi-IncidentTriangle:before {
-    content: "\EB7C"
-}
+  content: "\EC25"; }
+
+.mi-IncreaseIndent:before, .mi-IncreaseIndentLegacy:before {
+  content: "\EC26"; }
 
 .mi-IncreaseIndentLegacy:before {
-    content: "\EB7D"
-}
+  content: "\EC27"; }
 
 .mi-IncreaseIndentLegacyMirrored:before {
-    content: "\EB7E"
-}
+  content: "\EC28"; }
+
+.mi-IncreaseIndentMirrored:before, .mi-IncreaseIndentLegacyMirrored:before {
+  content: "\EC29"; }
 
 .mi-Info:before {
-    content: "\EB7F"
-}
+  content: "\EC2A"; }
 
 .mi-Info2:before {
-    content: "\EB80"
-}
+  content: "\EC2B"; }
+
+.mi-InfoSolid:before {
+  content: "\EC2C"; }
 
 .mi-InkingCaret:before {
-    content: "\EB81"
-}
+  content: "\EC2D"; }
 
 .mi-InkingColorFill:before {
-    content: "\EB82"
-}
+  content: "\EC2E"; }
 
 .mi-InkingColorOutline:before {
-    content: "\EB83"
-}
+  content: "\EC2F"; }
 
 .mi-InkingTool:before {
-    content: "\EB84"
-}
+  content: "\EC30"; }
 
 .mi-InkingToolFill:before {
-    content: "\EB85"
-}
+  content: "\EC31"; }
 
 .mi-InkingToolFill2:before {
-    content: "\EB86"
-}
+  content: "\EC32"; }
 
 .mi-Input:before {
-    content: "\EB87"
-}
+  content: "\EC33"; }
 
 .mi-InsiderHubApp:before {
-    content: "\EB88"
-}
+  content: "\EC34"; }
+
+.mi-InteractiveDashboard:before {
+  content: "\EC35"; }
 
 .mi-Italic:before, .mi-ItalicLegacy:before {
-    content: "\EB89"
-}
+  content: "\EC36"; }
+
+.mi-ItalicC:before, .mi-ItalicCLegacy:before {
+  content: "\EC37"; }
 
 .mi-ItalicCLegacy:before {
-    content: "\EB8A"
-}
+  content: "\EC38"; }
+
+.mi-ItalicI:before, .mi-ItalicILegacy:before {
+  content: "\EC39"; }
 
 .mi-ItalicILegacy:before {
-    content: "\EB8B"
-}
+  content: "\EC3A"; }
+
+.mi-ItalicK:before, .mi-ItalicKLegacy:before {
+  content: "\EC3B"; }
 
 .mi-ItalicKLegacy:before {
-    content: "\EB8C"
-}
+  content: "\EC3C"; }
+
+.mi-ItalicKorean:before, .mi-ItalicKoreanLegacy:before {
+  content: "\EC3D"; }
 
 .mi-ItalicKoreanLegacy:before {
-    content: "\EB8D"
-}
+  content: "\EC3E"; }
+
+.mi-ItalicRussian:before, .mi-ItalicRussianLegacy:before {
+  content: "\EC3F"; }
 
 .mi-ItalicRussianLegacy:before {
-    content: "\EB8E"
-}
+  content: "\EC40"; }
 
 .mi-Japanese:before {
-    content: "\EB8F"
-}
+  content: "\EC41"; }
 
 .mi-JpnRomanji:before {
-    content: "\EB90"
-}
+  content: "\EC42"; }
 
 .mi-JpnRomanjiLock:before {
-    content: "\EB91"
-}
+  content: "\EC43"; }
 
 .mi-JpnRomanjiShift:before {
-    content: "\EB92"
-}
+  content: "\EC44"; }
 
 .mi-JpnRomanjiShiftLock:before {
-    content: "\EB93"
-}
+  content: "\EC45"; }
 
 .mi-Key12On:before {
-    content: "\EB94"
-}
+  content: "\EC46"; }
 
-.mi-KeyBoardLegacy:before, .mi-KeyboardClassic:before {
-    content: "\EB95"
-}
+.mi-KeyBoardLegacy:before {
+  content: "\EC47"; }
+
+.mi-Keyboard12Key:before {
+  content: "\EC48"; }
 
 .mi-KeyboardBrightness:before {
-    content: "\EB96"
-}
+  content: "\EC49"; }
+
+.mi-KeyboardClassic:before, .mi-KeyBoardLegacy:before {
+  content: "\EC4A"; }
 
 .mi-KeyboardDismiss:before {
-    content: "\EB97"
-}
+  content: "\EC4B"; }
+
+.mi-KeyboardDock:before {
+  content: "\EC4C"; }
 
 .mi-KeyboardFull:before {
-    content: "\EB98"
-}
+  content: "\EC4D"; }
+
+.mi-KeyboardLeftAligned:before {
+  content: "\EC4E"; }
+
+.mi-KeyboardLeftDock:before {
+  content: "\EC4F"; }
 
 .mi-KeyboardLeftHanded:before {
-    content: "\EB99"
-}
+  content: "\EC50"; }
 
 .mi-KeyboardLowerBrightness:before {
-    content: "\EB9A"
-}
+  content: "\EC51"; }
+
+.mi-KeyboardNarrow:before {
+  content: "\EC52"; }
 
 .mi-KeyboardOneHanded:before {
-    content: "\EB9B"
-}
+  content: "\EC53"; }
+
+.mi-KeyboardRightAligned:before {
+  content: "\EC54"; }
+
+.mi-KeyboardRightDock:before {
+  content: "\EC55"; }
 
 .mi-KeyboardRightHanded:before {
-    content: "\EB9C"
-}
+  content: "\EC56"; }
+
+.mi-KeyboardSettings:before {
+  content: "\EC57"; }
 
 .mi-KeyboardShortcut:before {
-    content: "\EB9D"
-}
+  content: "\EC58"; }
 
 .mi-KeyboardSplit:before, .mi-KeyboardSplitLegacy:before {
-    content: "\EB9E"
-}
+  content: "\EC59"; }
 
 .mi-KeyboardStandard:before, .mi-KeyboardStandardLegacy:before {
-    content: "\EB9F"
-}
+  content: "\EC5A"; }
+
+.mi-KeyboardUndock:before {
+  content: "\EC5B"; }
+
+.mi-KnowledgeArticle:before {
+  content: "\EC5C"; }
 
 .mi-Korean:before {
-    content: "\EBA0"
-}
+  content: "\EC5D"; }
 
 .mi-LEDLight:before {
-    content: "\EBA1"
-}
+  content: "\EC5E"; }
 
 .mi-Label:before {
-    content: "\EBA2"
-}
+  content: "\EC5F"; }
+
+.mi-LandscapeOrientation:before {
+  content: "\EC60"; }
+
+.mi-LandscapeOrientationMirrored:before {
+  content: "\EC61"; }
 
 .mi-LangJPN:before {
-    content: "\EBA3"
-}
+  content: "\EC62"; }
 
 .mi-LanguageChs:before {
-    content: "\EBA4"
-}
+  content: "\EC63"; }
 
 .mi-LanguageCht:before {
-    content: "\EBA5"
-}
+  content: "\EC64"; }
 
 .mi-LanguageJpn:before {
-    content: "\EBA6"
-}
+  content: "\EC65"; }
 
 .mi-LanguageKor:before {
-    content: "\EBA7"
-}
+  content: "\EC66"; }
+
+.mi-LaptopSecure:before {
+  content: "\EC67"; }
 
 .mi-LaptopSelected:before {
-    content: "\EBA8"
-}
+  content: "\EC68"; }
+
+.mi-LargeErase:before {
+  content: "\EC69"; }
+
+.mi-Layout:before, .mi-LayoutLegacy:before {
+  content: "\EC6A"; }
 
 .mi-LayoutLegacy:before {
-    content: "\EBA9"
-}
+  content: "\EC6B"; }
 
 .mi-Leaf:before {
-    content: "\EBAA"
-}
+  content: "\EC6C"; }
 
 .mi-LeaveChat:before, .mi-LeaveChatLegacy:before {
-    content: "\EBAB"
-}
+  content: "\EC6D"; }
 
 .mi-LeaveChatMirrored:before {
-    content: "\EBAC"
-}
+  content: "\EC6E"; }
 
 .mi-LeftArrowKeyTime0:before {
-    content: "\EBAD"
-}
+  content: "\EC6F"; }
 
 .mi-LeftDoubleQuote:before {
-    content: "\EBAE"
-}
+  content: "\EC70"; }
 
 .mi-LeftQuote:before {
-    content: "\EBAF"
-}
+  content: "\EC71"; }
+
+.mi-LeftStick:before {
+  content: "\EC72"; }
+
+.mi-Lexicon:before {
+  content: "\EC73"; }
 
 .mi-Library:before, .mi-LibraryLegacy:before {
-    content: "\EBB0"
-}
+  content: "\EC74"; }
 
 .mi-Light:before {
-    content: "\EBB1"
-}
+  content: "\EC75"; }
 
-.mi-Lightbulb:before, .mi-ToolTip:before {
-    content: "\EBB2"
-}
+.mi-Lightbulb:before {
+  content: "\EC76"; }
 
 .mi-LightningBolt:before {
-    content: "\EBB3"
-}
+  content: "\EC77"; }
 
 .mi-Like:before, .mi-LikeInlineLegacy:before, .mi-LikeLegacy:before {
-    content: "\EBB4"
-}
+  content: "\EC78"; }
 
 .mi-LikeDislike:before, .mi-LikeDislikeLegacy:before {
-    content: "\EBB5"
-}
+  content: "\EC79"; }
+
+.mi-LineDisplay:before {
+  content: "\EC7A"; }
 
 .mi-Link:before, .mi-LinkLegacy:before {
-    content: "\EBB6"
-}
+  content: "\EC7B"; }
 
 .mi-List:before {
-    content: "\EBB7"
-}
+  content: "\EC7C"; }
 
 .mi-ListMirrored:before {
-    content: "\EBB8"
-}
+  content: "\EC7D"; }
 
 .mi-Location:before, .mi-LocationLegacy:before {
-    content: "\EBB9"
-}
+  content: "\EC7E"; }
 
 .mi-Lock:before, .mi-LockLegacy:before {
-    content: "\EBBA"
-}
+  content: "\EC7F"; }
+
+.mi-LockFeedback:before {
+  content: "\EC80"; }
 
 .mi-LockScreenGlance:before {
-    content: "\EBBB"
-}
+  content: "\EC81"; }
 
 .mi-LockscreenDesktop:before {
-    content: "\EBBC"
-}
+  content: "\EC82"; }
 
 .mi-LowerBrightness:before {
-    content: "\EBBD"
-}
+  content: "\EC83"; }
 
 .mi-MagStripeReader:before {
-    content: "\EBBE"
-}
+  content: "\EC84"; }
 
 .mi-Mail:before, .mi-MailLegacy:before {
-    content: "\EBBF"
-}
+  content: "\EC85"; }
 
 .mi-MailBadge12:before {
-    content: "\EBC0"
-}
+  content: "\EC86"; }
 
 .mi-MailFill:before, .mi-MailFillLegacy:before, .mi-MailMessageLegacy:before {
-    content: "\EBC1"
-}
+  content: "\EC87"; }
 
 .mi-MailForward:before, .mi-MailForwardLegacy:before {
-    content: "\EBC2"
-}
+  content: "\EC88"; }
 
-.mi-MailForwardLegacyMirrored:before, .mi-MailForwardMirrored:before {
-    content: "\EBC3"
-}
+.mi-MailForwardMirrored:before, .mi-MailForwardLegacyMirrored:before {
+  content: "\EC89"; }
 
 .mi-MailReply:before, .mi-MailReplyLegacy:before {
-    content: "\EBC4"
-}
+  content: "\EC8A"; }
 
 .mi-MailReplyAll:before, .mi-MailReplyAllLegacy:before {
-    content: "\EBC5"
-}
+  content: "\EC8B"; }
 
-.mi-MailReplyAllLegacyMirrored:before, .mi-MailReplyAllMirrored:before {
-    content: "\EBC6"
-}
+.mi-MailReplyAllMirrored:before, .mi-MailReplyAllLegacyMirrored:before {
+  content: "\EC8C"; }
 
-.mi-MailReplyLegacyMirrored:before, .mi-MailReplyMirrored:before {
-    content: "\EBC7"
-}
+.mi-MailReplyMirrored:before, .mi-MailReplyLegacyMirrored:before {
+  content: "\EC8D"; }
 
 .mi-Manage:before, .mi-ManageLegacy:before {
-    content: "\EBC8"
-}
+  content: "\EC8E"; }
 
 .mi-MapCompassBottom:before {
-    content: "\EBC9"
-}
+  content: "\EC8F"; }
 
 .mi-MapCompassTop:before {
-    content: "\EBCA"
-}
+  content: "\EC90"; }
 
 .mi-MapDirections:before {
-    content: "\EBCB"
-}
+  content: "\EC91"; }
 
 .mi-MapDrive:before, .mi-MapDriveLegacy:before {
-    content: "\EBCC"
-}
+  content: "\EC92"; }
 
 .mi-MapLayers:before {
-    content: "\EBCD"
-}
+  content: "\EC93"; }
 
-.mi-MapLegacy:before, .mi-MapPin:before {
-    content: "\EBCE"
-}
+.mi-MapPin:before, .mi-MapLegacy:before {
+  content: "\EC94"; }
 
 .mi-MapPin2:before, .mi-MapPinLegacy:before {
-    content: "\EBCF"
-}
+  content: "\EC95"; }
+
+.mi-MapPinLegacy:before {
+  content: "\EC96"; }
 
 .mi-Marker:before {
-    content: "\EBD0"
-}
+  content: "\EC97"; }
 
 .mi-Marquee:before {
-    content: "\EBD1"
-}
+  content: "\EC98"; }
 
 .mi-Media:before {
-    content: "\EBD2"
-}
+  content: "\EC99"; }
 
 .mi-MediaStorageTower:before {
-    content: "\EBD3"
-}
+  content: "\EC9A"; }
 
 .mi-Megaphone:before {
-    content: "\EBD4"
-}
+  content: "\EC9B"; }
 
 .mi-Memo:before, .mi-MemoLegacy:before {
-    content: "\EBD5"
-}
+  content: "\EC9C"; }
 
-.mi-CommentInlineLegacy:before, .mi-Message:before, .mi-MessageLegacy:before {
-    content: "\EBD6"
-}
+.mi-Message:before, .mi-CommentInlineLegacy:before, .mi-MessageLegacy:before {
+  content: "\EC9D"; }
 
 .mi-MicClipping:before {
-    content: "\EBD7"
-}
+  content: "\EC9E"; }
 
 .mi-MicError:before {
-    content: "\EBD8"
-}
+  content: "\EC9F"; }
 
 .mi-MicOff:before {
-    content: "\EBD9"
-}
+  content: "\ECA0"; }
 
 .mi-MicOn:before {
-    content: "\EBDA"
-}
+  content: "\ECA1"; }
 
 .mi-MicSleep:before {
-    content: "\EBDB"
-}
+  content: "\ECA2"; }
 
 .mi-Microphone:before, .mi-MicrophoneLegacy:before {
-    content: "\EBDC"
-}
+  content: "\ECA3"; }
+
+.mi-MicrophoneListening:before {
+  content: "\ECA4"; }
 
 .mi-MiracastLogoSmall:before {
-    content: "\EBDD"
-}
+  content: "\ECA5"; }
+
+.mi-MixVolumes:before {
+  content: "\ECA6"; }
 
 .mi-MobActionCenter:before {
-    content: "\EBDE"
-}
+  content: "\ECA7"; }
 
 .mi-MobAirplane:before {
-    content: "\EBDF"
-}
+  content: "\ECA8"; }
 
 .mi-MobBattery0:before {
-    content: "\EBE0"
-}
+  content: "\ECA9"; }
 
 .mi-MobBattery1:before {
-    content: "\EBE1"
-}
+  content: "\ECAA"; }
 
 .mi-MobBattery10:before {
-    content: "\EBE2"
-}
+  content: "\ECAB"; }
 
 .mi-MobBattery2:before {
-    content: "\EBE3"
-}
+  content: "\ECAC"; }
 
 .mi-MobBattery3:before {
-    content: "\EBE4"
-}
+  content: "\ECAD"; }
 
 .mi-MobBattery4:before {
-    content: "\EBE5"
-}
+  content: "\ECAE"; }
 
 .mi-MobBattery5:before {
-    content: "\EBE6"
-}
+  content: "\ECAF"; }
 
 .mi-MobBattery6:before {
-    content: "\EBE7"
-}
+  content: "\ECB0"; }
 
 .mi-MobBattery7:before {
-    content: "\EBE8"
-}
+  content: "\ECB1"; }
 
 .mi-MobBattery8:before {
-    content: "\EBE9"
-}
+  content: "\ECB2"; }
 
 .mi-MobBattery9:before {
-    content: "\EBEA"
-}
+  content: "\ECB3"; }
 
 .mi-MobBatteryCharging0:before {
-    content: "\EBEB"
-}
+  content: "\ECB4"; }
 
 .mi-MobBatteryCharging1:before {
-    content: "\EBEC"
-}
+  content: "\ECB5"; }
 
 .mi-MobBatteryCharging10:before {
-    content: "\EBED"
-}
+  content: "\ECB6"; }
 
 .mi-MobBatteryCharging2:before {
-    content: "\EBEE"
-}
+  content: "\ECB7"; }
 
 .mi-MobBatteryCharging3:before {
-    content: "\EBEF"
-}
+  content: "\ECB8"; }
 
 .mi-MobBatteryCharging4:before {
-    content: "\EBF0"
-}
+  content: "\ECB9"; }
 
 .mi-MobBatteryCharging5:before {
-    content: "\EBF1"
-}
+  content: "\ECBA"; }
 
 .mi-MobBatteryCharging6:before {
-    content: "\EBF2"
-}
+  content: "\ECBB"; }
 
 .mi-MobBatteryCharging7:before {
-    content: "\EBF3"
-}
+  content: "\ECBC"; }
 
 .mi-MobBatteryCharging8:before {
-    content: "\EBF4"
-}
+  content: "\ECBD"; }
 
 .mi-MobBatteryCharging9:before {
-    content: "\EBF5"
-}
+  content: "\ECBE"; }
 
 .mi-MobBatterySaver0:before {
-    content: "\EBF6"
-}
+  content: "\ECBF"; }
 
 .mi-MobBatterySaver1:before {
-    content: "\EBF7"
-}
+  content: "\ECC0"; }
 
 .mi-MobBatterySaver10:before {
-    content: "\EBF8"
-}
+  content: "\ECC1"; }
 
 .mi-MobBatterySaver2:before {
-    content: "\EBF9"
-}
+  content: "\ECC2"; }
 
 .mi-MobBatterySaver3:before {
-    content: "\EBFA"
-}
+  content: "\ECC3"; }
 
 .mi-MobBatterySaver4:before {
-    content: "\EBFB"
-}
+  content: "\ECC4"; }
 
 .mi-MobBatterySaver5:before {
-    content: "\EBFC"
-}
+  content: "\ECC5"; }
 
 .mi-MobBatterySaver6:before {
-    content: "\EBFD"
-}
+  content: "\ECC6"; }
 
 .mi-MobBatterySaver7:before {
-    content: "\EBFE"
-}
+  content: "\ECC7"; }
 
 .mi-MobBatterySaver8:before {
-    content: "\EBFF"
-}
+  content: "\ECC8"; }
 
 .mi-MobBatterySaver9:before {
-    content: "\EC00"
-}
+  content: "\ECC9"; }
 
 .mi-MobBatteryUnknown:before {
-    content: "\EC01"
-}
+  content: "\ECCA"; }
 
 .mi-MobBluetooth:before {
-    content: "\EC02"
-}
+  content: "\ECCB"; }
 
 .mi-MobCallForwarding:before {
-    content: "\EC03"
-}
+  content: "\ECCC"; }
 
 .mi-MobCallForwardingMirrored:before {
-    content: "\EC04"
-}
+  content: "\ECCD"; }
 
 .mi-MobDrivingMode:before {
-    content: "\EC05"
-}
+  content: "\ECCE"; }
 
 .mi-MobLocation:before {
-    content: "\EC06"
-}
+  content: "\ECCF"; }
 
 .mi-MobQuietHours:before {
-    content: "\EC07"
-}
+  content: "\ECD0"; }
+
+.mi-MobSIMError:before {
+  content: "\ECD1"; }
+
+.mi-MobSIMLock:before {
+  content: "\ECD2"; }
+
+.mi-MobSIMMissing:before {
+  content: "\ECD3"; }
 
 .mi-MobSignal1:before {
-    content: "\EC08"
-}
+  content: "\ECD4"; }
 
 .mi-MobSignal2:before {
-    content: "\EC09"
-}
+  content: "\ECD5"; }
 
 .mi-MobSignal3:before {
-    content: "\EC0A"
-}
+  content: "\ECD6"; }
 
 .mi-MobSignal4:before {
-    content: "\EC0B"
-}
+  content: "\ECD7"; }
 
 .mi-MobSignal5:before {
-    content: "\EC0C"
-}
+  content: "\ECD8"; }
 
 .mi-MobWifi1:before {
-    content: "\EC0D"
-}
+  content: "\ECD9"; }
 
 .mi-MobWifi2:before {
-    content: "\EC0E"
-}
+  content: "\ECDA"; }
 
 .mi-MobWifi3:before {
-    content: "\EC0F"
-}
+  content: "\ECDB"; }
 
 .mi-MobWifi4:before {
-    content: "\EC10"
-}
+  content: "\ECDC"; }
 
 .mi-MobWifiHotspot:before {
-    content: "\EC11"
-}
+  content: "\ECDD"; }
+
+.mi-MobWifiWarning1:before {
+  content: "\ECDE"; }
+
+.mi-MobWifiWarning2:before {
+  content: "\ECDF"; }
+
+.mi-MobWifiWarning3:before {
+  content: "\ECE0"; }
+
+.mi-MobWifiWarning4:before {
+  content: "\ECE1"; }
+
+.mi-MobeSIM:before {
+  content: "\ECE2"; }
+
+.mi-MobeSIMBusy:before {
+  content: "\ECE3"; }
+
+.mi-MobeSIMLocked:before {
+  content: "\ECE4"; }
+
+.mi-MobeSIMNoProfile:before {
+  content: "\ECE5"; }
 
 .mi-MobileLocked:before {
-    content: "\EC12"
-}
+  content: "\ECE6"; }
 
 .mi-MobileSelected:before {
-    content: "\EC13"
-}
+  content: "\ECE7"; }
 
 .mi-MobileTablet:before {
-    content: "\EC14"
-}
+  content: "\ECE8"; }
 
 .mi-More:before, .mi-MoreLegacy:before {
-    content: "\EC15"
-}
+  content: "\ECE9"; }
 
 .mi-Mouse:before {
-    content: "\EC16"
-}
+  content: "\ECEA"; }
 
 .mi-MoveToFolder:before, .mi-MoveToFolderLegacy:before {
-    content: "\EC17"
-}
+  content: "\ECEB"; }
 
 .mi-Movies:before {
-    content: "\EC18"
-}
+  content: "\ECEC"; }
 
 .mi-MultiSelect:before, .mi-MultiSelectLegacy:before {
-    content: "\EC19"
-}
+  content: "\ECED"; }
 
-.mi-MultiSelectLegacyMirrored:before, .mi-MultiSelectMirrored:before {
-    content: "\EC1A"
-}
+.mi-MultiSelectMirrored:before, .mi-MultiSelectLegacyMirrored:before {
+  content: "\ECEE"; }
 
 .mi-MultimediaDMP:before {
-    content: "\EC1B"
-}
+  content: "\ECEF"; }
 
 .mi-MultimediaDMS:before {
-    content: "\EC1C"
-}
+  content: "\ECF0"; }
 
 .mi-MultimediaDVR:before {
-    content: "\EC1D"
-}
+  content: "\ECF1"; }
 
 .mi-MultimediaPMP:before {
-    content: "\EC1E"
-}
+  content: "\ECF2"; }
 
 .mi-Multitask:before {
-    content: "\EC1F"
-}
+  content: "\ECF3"; }
 
 .mi-Multitask16:before {
-    content: "\EC20"
-}
+  content: "\ECF4"; }
 
 .mi-MultitaskExpanded:before {
-    content: "\EC21"
-}
+  content: "\ECF5"; }
 
 .mi-MusicAlbum:before {
-    content: "\EC22"
-}
+  content: "\ECF6"; }
 
 .mi-MusicInfo:before, .mi-MusicInfoLegacy:before {
-    content: "\EC23"
-}
+  content: "\ECF7"; }
 
 .mi-MusicNote:before {
-    content: "\EC24"
-}
+  content: "\ECF8"; }
+
+.mi-MusicSharing:before {
+  content: "\ECF9"; }
+
+.mi-MusicSharingOff:before {
+  content: "\ECFA"; }
 
 .mi-Mute:before, .mi-MuteLegacy:before {
-    content: "\EC25"
-}
+  content: "\ECFB"; }
 
 .mi-MyNetwork:before {
-    content: "\EC26"
-}
+  content: "\ECFC"; }
 
 .mi-NUIFPContinueSlideAction:before {
-    content: "\EC27"
-}
+  content: "\ECFD"; }
 
 .mi-NUIFPContinueSlideHand:before {
-    content: "\EC28"
-}
+  content: "\ECFE"; }
 
 .mi-NUIFPPressAction:before {
-    content: "\EC29"
-}
+  content: "\ECFF"; }
 
 .mi-NUIFPPressHand:before {
-    content: "\EC2A"
-}
+  content: "\ED00"; }
 
 .mi-NUIFPPressRepeatAction:before {
-    content: "\EC2B"
-}
+  content: "\ED01"; }
 
 .mi-NUIFPRollLeftAction:before {
-    content: "\EC2C"
-}
+  content: "\ED02"; }
 
 .mi-NUIFPRollLeftHand:before {
-    content: "\EC2D"
-}
+  content: "\ED03"; }
 
 .mi-NUIFPRollRightHand:before {
-    content: "\EC2E"
-}
+  content: "\ED04"; }
 
 .mi-NUIFPRollRightHandAction:before {
-    content: "\EC2F"
-}
+  content: "\ED05"; }
 
 .mi-NUIFPStartSlideAction:before {
-    content: "\EC30"
-}
+  content: "\ED06"; }
 
-.mi-NUIFPPressRepeatHand:before, .mi-NUIFPStartSlideHand:before {
-    content: "\EC31"
-}
+.mi-NUIFPStartSlideHand:before, .mi-NUIFPPressRepeatHand:before {
+  content: "\ED07"; }
 
 .mi-NUIFace:before {
-    content: "\EC32"
-}
+  content: "\ED08"; }
 
 .mi-NUIIris:before {
-    content: "\EC33"
-}
+  content: "\ED09"; }
 
 .mi-Narrator:before {
-    content: "\EC34"
-}
+  content: "\ED0A"; }
 
 .mi-NarratorForward:before {
-    content: "\EC35"
-}
+  content: "\ED0B"; }
 
 .mi-NarratorForwardMirrored:before {
-    content: "\EC36"
-}
+  content: "\ED0C"; }
+
+.mi-NearbySharing:before {
+  content: "\ED0D"; }
 
 .mi-Network:before {
-    content: "\EC37"
-}
+  content: "\ED0E"; }
 
 .mi-NetworkAdapter:before {
-    content: "\EC38"
-}
+  content: "\ED0F"; }
+
+.mi-NetworkConnected:before {
+  content: "\ED10"; }
+
+.mi-NetworkConnectedCheckmark:before {
+  content: "\ED11"; }
+
+.mi-NetworkOffline:before {
+  content: "\ED12"; }
 
 .mi-NetworkPrinter:before {
-    content: "\EC39"
-}
+  content: "\ED13"; }
+
+.mi-NetworkSharing:before {
+  content: "\ED14"; }
 
 .mi-NetworkTower:before {
-    content: "\EC3A"
-}
+  content: "\ED15"; }
 
 .mi-NewFolder:before, .mi-NewFolderLegacy:before {
-    content: "\EC3B"
-}
+  content: "\ED16"; }
 
 .mi-NewWindow:before, .mi-NewWindowLegacy:before {
-    content: "\EC3C"
-}
+  content: "\ED17"; }
 
 .mi-Next:before, .mi-NextLegacy:before {
-    content: "\EC3D"
-}
+  content: "\ED18"; }
+
+.mi-NoiseCancelation:before {
+  content: "\ED19"; }
+
+.mi-NoiseCancelationOff:before {
+  content: "\ED1A"; }
 
 .mi-OEM:before {
-    content: "\EC3E"
-}
+  content: "\ED1B"; }
 
 .mi-OneBar:before, .mi-OneBarLegacy:before {
-    content: "\EC3F"
-}
+  content: "\ED1C"; }
 
 .mi-OpenFile:before, .mi-OpenFileLegacy:before {
-    content: "\EC40"
-}
+  content: "\ED1D"; }
+
+.mi-OpenFolderHorizontal:before {
+  content: "\ED1E"; }
 
 .mi-OpenInNewWindow:before, .mi-OpenInNewWindowLegacy:before {
-    content: "\EC41"
-}
+  content: "\ED1F"; }
 
 .mi-OpenLocal:before, .mi-OpenLocalLegacy:before {
-    content: "\EC42"
-}
+  content: "\ED20"; }
 
 .mi-OpenPane:before, .mi-OpenPaneLegacy:before {
-    content: "\EC43"
-}
+  content: "\ED21"; }
 
-.mi-OpenPaneLegacyMirrored:before, .mi-OpenPaneMirrored:before {
-    content: "\EC44"
-}
+.mi-OpenPaneMirrored:before, .mi-OpenPaneLegacyMirrored:before {
+  content: "\ED22"; }
 
 .mi-OpenWith:before, .mi-OpenWithLegacy:before {
-    content: "\EC45"
-}
+  content: "\ED23"; }
 
-.mi-OpenWithLegacyMirrored:before, .mi-OpenWithMirrored:before {
-    content: "\EC46"
-}
+.mi-OpenWithMirrored:before, .mi-OpenWithLegacyMirrored:before {
+  content: "\ED24"; }
 
 .mi-Orientation:before, .mi-OrientationLegacy:before {
-    content: "\EC47"
-}
+  content: "\ED25"; }
 
 .mi-OtherUser:before, .mi-OtherUserLegacy:before {
-    content: "\EC48"
-}
+  content: "\ED26"; }
+
+.mi-OutlineHalfStarLeft:before {
+  content: "\ED27"; }
+
+.mi-OutlineHalfStarRight:before {
+  content: "\ED28"; }
+
+.mi-OutlineQuarterStarLeft:before {
+  content: "\ED29"; }
+
+.mi-OutlineQuarterStarRight:before {
+  content: "\ED2A"; }
+
+.mi-OutlineStarLeftHalf:before {
+  content: "\ED2B"; }
+
+.mi-OutlineStarRightHalf:before {
+  content: "\ED2C"; }
+
+.mi-OutlineThreeQuarterStarLeft:before {
+  content: "\ED2D"; }
+
+.mi-OutlineThreeQuarterStarRight:before {
+  content: "\ED2E"; }
 
 .mi-PC1:before, .mi-PC1Legacy:before {
-    content: "\EC49"
-}
+  content: "\ED2F"; }
+
+.mi-PINPad:before {
+  content: "\ED30"; }
 
 .mi-PLAP:before {
-    content: "\EC4A"
-}
+  content: "\ED31"; }
+
+.mi-PPSFourLandscape:before {
+  content: "\ED32"; }
+
+.mi-PPSFourPortrait:before {
+  content: "\ED33"; }
+
+.mi-PPSOneLandscape:before {
+  content: "\ED34"; }
+
+.mi-PPSOnePortrait:before {
+  content: "\ED35"; }
+
+.mi-PPSTwoLandscape:before {
+  content: "\ED36"; }
+
+.mi-PPSTwoPortrait:before {
+  content: "\ED37"; }
 
 .mi-Package:before {
-    content: "\EC4B"
-}
+  content: "\ED38"; }
 
 .mi-Page:before, .mi-PageLegacy:before {
-    content: "\EC4C"
-}
+  content: "\ED39"; }
 
 .mi-PageLeft:before {
-    content: "\EC4D"
-}
+  content: "\ED3A"; }
+
+.mi-PageMarginLandscapeModerate:before {
+  content: "\ED3B"; }
+
+.mi-PageMarginLandscapeNarrow:before {
+  content: "\ED3C"; }
+
+.mi-PageMarginLandscapeNormal:before {
+  content: "\ED3D"; }
+
+.mi-PageMarginLandscapeWide:before {
+  content: "\ED3E"; }
+
+.mi-PageMarginPortraitModerate:before {
+  content: "\ED3F"; }
+
+.mi-PageMarginPortraitNarrow:before {
+  content: "\ED40"; }
+
+.mi-PageMarginPortraitNormal:before {
+  content: "\ED41"; }
+
+.mi-PageMarginPortraitWide:before {
+  content: "\ED42"; }
+
+.mi-PageMirrored:before {
+  content: "\ED43"; }
 
 .mi-PageRight:before {
-    content: "\EC4E"
-}
+  content: "\ED44"; }
 
-.mi-PageFillLegacy:before, .mi-PageSolid:before {
-    content: "\EC4F"
-}
+.mi-PageSolid:before, .mi-PageFillLegacy:before {
+  content: "\ED45"; }
+
+.mi-PaginationDotOutline10:before {
+  content: "\ED46"; }
+
+.mi-PaginationDotSolid10:before {
+  content: "\ED47"; }
 
 .mi-PanMode:before {
-    content: "\EC50"
-}
+  content: "\ED48"; }
 
 .mi-ParkingLocation:before {
-    content: "\EC51"
-}
+  content: "\ED49"; }
 
 .mi-ParkingLocationMirrored:before {
-    content: "\EC52"
-}
+  content: "\ED4A"; }
 
 .mi-ParkingLocationSolid:before {
-    content: "\EC53"
-}
+  content: "\ED4B"; }
 
 .mi-PartyLeader:before {
-    content: "\EC54"
-}
+  content: "\ED4C"; }
+
+.mi-PassiveAuthentication:before {
+  content: "\ED4D"; }
 
 .mi-PasswordKeyHide:before {
-    content: "\EC55"
-}
+  content: "\ED4E"; }
 
 .mi-PasswordKeyShow:before {
-    content: "\EC56"
-}
+  content: "\ED4F"; }
 
 .mi-Paste:before, .mi-PasteLegacy:before {
-    content: "\EC57"
-}
+  content: "\ED50"; }
 
 .mi-Pause:before, .mi-PauseLegacy:before {
-    content: "\EC58"
-}
+  content: "\ED51"; }
 
 .mi-PauseBadge12:before {
-    content: "\EC59"
-}
+  content: "\ED52"; }
+
+.mi-PaymentCard:before {
+  content: "\ED53"; }
 
 .mi-PenPalette:before {
-    content: "\EC5A"
-}
+  content: "\ED54"; }
 
 .mi-PenPaletteMirrored:before {
-    content: "\EC5B"
-}
+  content: "\ED55"; }
+
+.mi-PenTips:before {
+  content: "\ED56"; }
+
+.mi-PenTipsMirrored:before {
+  content: "\ED57"; }
 
 .mi-PenWorkspace:before {
-    content: "\EC5C"
-}
+  content: "\ED58"; }
 
 .mi-PenWorkspaceMirrored:before {
-    content: "\EC5D"
-}
+  content: "\ED59"; }
 
 .mi-Pencil:before {
-    content: "\EC5E"
-}
+  content: "\ED5A"; }
+
+.mi-PencilFill:before {
+  content: "\ED5B"; }
 
 .mi-People:before, .mi-PeopleLegacy:before {
-    content: "\EC5F"
-}
+  content: "\ED5C"; }
 
 .mi-PeriodKey:before {
-    content: "\EC60"
-}
+  content: "\ED5D"; }
 
 .mi-Permissions:before, .mi-PermissionsLegacy:before {
-    content: "\EC61"
-}
+  content: "\ED5E"; }
 
 .mi-PersonalFolder:before {
-    content: "\EC62"
-}
+  content: "\ED5F"; }
 
 .mi-Personalize:before {
-    content: "\EC63"
-}
+  content: "\ED60"; }
 
 .mi-Phone:before, .mi-PhoneLegacy:before {
-    content: "\EC64"
-}
+  content: "\ED61"; }
 
 .mi-PhoneBook:before, .mi-PhoneBookLegacy:before {
-    content: "\EC65"
-}
+  content: "\ED62"; }
 
 .mi-Photo:before {
-    content: "\EC66"
-}
+  content: "\ED63"; }
 
 .mi-Photo2:before {
-    content: "\EC67"
-}
+  content: "\ED64"; }
 
 .mi-Picture:before, .mi-PictureLegacy:before {
-    content: "\EC68"
-}
+  content: "\ED65"; }
 
 .mi-PieSingle:before {
-    content: "\EC69"
-}
+  content: "\ED66"; }
 
 .mi-Pin:before, .mi-PinLegacy:before {
-    content: "\EC6A"
-}
+  content: "\ED67"; }
 
 .mi-PinFill:before {
-    content: "\EC6B"
-}
+  content: "\ED68"; }
 
 .mi-Pinned:before {
-    content: "\EC6C"
-}
+  content: "\ED69"; }
 
 .mi-PinnedFill:before {
-    content: "\EC6D"
-}
+  content: "\ED6A"; }
+
+.mi-PinyinIMELogo:before {
+  content: "\ED6B"; }
+
+.mi-PlaceFolder:before, .mi-PlaceFolderLegacy:before {
+  content: "\ED6C"; }
 
 .mi-PlaceFolderLegacy:before {
-    content: "\EC6E"
-}
+  content: "\ED6D"; }
 
 .mi-Play:before, .mi-PlayLegacy:before {
-    content: "\EC6F"
-}
+  content: "\ED6E"; }
 
 .mi-Play36:before {
-    content: "\EC70"
-}
+  content: "\ED6F"; }
 
 .mi-PlayBadge12:before {
-    content: "\EC71"
-}
+  content: "\ED70"; }
+
+.mi-PlayOn:before, .mi-PlayOnLegacy:before {
+  content: "\ED71"; }
 
 .mi-PlayOnLegacy:before {
-    content: "\EC72"
-}
+  content: "\ED72"; }
+
+.mi-PlaySolid:before {
+  content: "\ED73"; }
 
 .mi-PlaybackRate1x:before {
-    content: "\EC73"
-}
+  content: "\ED74"; }
 
 .mi-PlaybackRateOther:before {
-    content: "\EC74"
-}
+  content: "\ED75"; }
+
+.mi-PlayerSettings:before {
+  content: "\ED76"; }
 
 .mi-PointErase:before {
-    content: "\EC75"
-}
+  content: "\ED77"; }
 
 .mi-PointEraseMirrored:before {
-    content: "\EC76"
-}
+  content: "\ED78"; }
+
+.mi-PointerHand:before {
+  content: "\ED79"; }
 
 .mi-PoliceCar:before {
-    content: "\EC77"
-}
+  content: "\ED7A"; }
 
 .mi-PostUpdate:before, .mi-PostUpdateLegacy:before {
-    content: "\EC78"
-}
+  content: "\ED7B"; }
 
 .mi-PowerButton:before {
-    content: "\EC79"
-}
+  content: "\ED7C"; }
+
+.mi-PresenceChicklet:before {
+  content: "\ED7D"; }
 
 .mi-PresenceChickletVideo:before, .mi-PresenceChickletVideoLegacy:before {
-    content: "\EC7A"
-}
+  content: "\ED7E"; }
 
 .mi-Preview:before, .mi-PreviewLegacy:before {
-    content: "\EC7B"
-}
+  content: "\ED7F"; }
 
 .mi-PreviewLink:before, .mi-PreviewLinkLegacy:before {
-    content: "\EC7C"
-}
+  content: "\ED80"; }
 
 .mi-Previous:before, .mi-PreviousLegacy:before {
-    content: "\EC7D"
-}
+  content: "\ED81"; }
 
 .mi-Print:before, .mi-PrintLegacy:before {
-    content: "\EC7E"
-}
+  content: "\ED82"; }
+
+.mi-PrintAllPages:before {
+  content: "\ED83"; }
+
+.mi-PrintCustomRange:before {
+  content: "\ED84"; }
+
+.mi-PrintDefault:before {
+  content: "\ED85"; }
 
 .mi-Printer3D:before {
-    content: "\EC7F"
-}
+  content: "\ED86"; }
 
 .mi-Printer3DLegacy:before {
-    content: "\EC80"
-}
+  content: "\ED87"; }
 
 .mi-PrintfaxPrinterFile:before {
-    content: "\EC81"
-}
+  content: "\ED88"; }
 
 .mi-Priority:before, .mi-PriorityLegacy:before {
-    content: "\EC82"
-}
+  content: "\ED89"; }
 
 .mi-Process:before {
-    content: "\EC83"
-}
+  content: "\ED8A"; }
+
+.mi-Processing:before {
+  content: "\ED8B"; }
+
+.mi-ProgressRingDots:before {
+  content: "\ED8C"; }
 
 .mi-Project:before {
-    content: "\EC84"
-}
+  content: "\ED8D"; }
 
 .mi-Projector:before {
-    content: "\EC85"
-}
+  content: "\ED8E"; }
 
 .mi-ProtectedDocument:before, .mi-ProtectedDocumentLegacy:before {
-    content: "\EC86"
-}
+  content: "\ED8F"; }
+
+.mi-Protractor:before {
+  content: "\ED90"; }
 
 .mi-ProvisioningPackage:before {
-    content: "\EC87"
-}
+  content: "\ED91"; }
 
 .mi-PuncKey:before {
-    content: "\EC88"
-}
+  content: "\ED92"; }
 
 .mi-PuncKey0:before {
-    content: "\EC89"
-}
+  content: "\ED93"; }
 
 .mi-PuncKey1:before {
-    content: "\EC8A"
-}
+  content: "\ED94"; }
 
 .mi-PuncKey2:before {
-    content: "\EC8B"
-}
+  content: "\ED95"; }
 
 .mi-PuncKey3:before {
-    content: "\EC8C"
-}
+  content: "\ED96"; }
 
 .mi-PuncKey4:before {
-    content: "\EC8D"
-}
+  content: "\ED97"; }
 
 .mi-PuncKey5:before {
-    content: "\EC8E"
-}
+  content: "\ED98"; }
 
 .mi-PuncKey6:before {
-    content: "\EC8F"
-}
+  content: "\ED99"; }
 
 .mi-PuncKey7:before {
-    content: "\EC90"
-}
+  content: "\ED9A"; }
 
 .mi-PuncKey8:before {
-    content: "\EC91"
-}
+  content: "\ED9B"; }
 
 .mi-PuncKey9:before {
-    content: "\EC92"
-}
+  content: "\ED9C"; }
 
 .mi-PuncKeyLeftBottom:before {
-    content: "\EC93"
-}
+  content: "\ED9D"; }
 
 .mi-PuncKeyRightBottom:before {
-    content: "\EC94"
-}
+  content: "\ED9E"; }
 
 .mi-Puzzle:before {
-    content: "\EC95"
-}
+  content: "\ED9F"; }
 
 .mi-QWERTYOff:before {
-    content: "\EC96"
-}
+  content: "\EDA0"; }
 
 .mi-QWERTYOn:before {
-    content: "\EC97"
-}
+  content: "\EDA1"; }
+
+.mi-QuarentinedItems:before {
+  content: "\EDA2"; }
+
+.mi-QuarentinedItemsMirrored:before {
+  content: "\EDA3"; }
+
+.mi-QuarterStarLeft:before {
+  content: "\EDA4"; }
+
+.mi-QuarterStarRight:before {
+  content: "\EDA5"; }
 
 .mi-QuickNote:before {
-    content: "\EC98"
-}
+  content: "\EDA6"; }
 
 .mi-QuietHours:before {
-    content: "\EC99"
-}
+  content: "\EDA7"; }
+
+.mi-QuietHoursBadge12:before {
+  content: "\EDA8"; }
+
+.mi-Radar:before {
+  content: "\EDA9"; }
 
 .mi-RadioBtnOff:before {
-    content: "\EC9A"
-}
+  content: "\EDAA"; }
 
 .mi-RadioBtnOn:before {
-    content: "\EC9B"
-}
+  content: "\EDAB"; }
 
 .mi-RadioBullet:before {
-    content: "\EC9C"
-}
+  content: "\EDAC"; }
 
 .mi-RadioBullet2:before {
-    content: "\EC9D"
-}
+  content: "\EDAD"; }
 
 .mi-Read:before, .mi-ReadLegacy:before {
-    content: "\EC9E"
-}
+  content: "\EDAE"; }
 
 .mi-ReadingList:before {
-    content: "\EC9F"
-}
+  content: "\EDAF"; }
 
 .mi-ReceiptPrinter:before {
-    content: "\ECA0"
-}
+  content: "\EDB0"; }
 
-.mi-LengthLegacy:before, .mi-Recent:before {
-    content: "\ECA1"
-}
+.mi-Recent:before, .mi-LengthLegacy:before {
+  content: "\EDB1"; }
 
 .mi-Record:before, .mi-RecordLegacy:before {
-    content: "\ECA2"
-}
+  content: "\EDB2"; }
+
+.mi-RectangularClipping:before {
+  content: "\EDB3"; }
+
+.mi-RedEye:before {
+  content: "\EDB4"; }
 
 .mi-Redo:before, .mi-RedoLegacy:before {
-    content: "\ECA3"
-}
+  content: "\EDB5"; }
+
+.mi-ReduceTile:before, .mi-ReduceTileLegacy:before {
+  content: "\EDB6"; }
 
 .mi-ReduceTileLegacy:before {
-    content: "\ECA4"
-}
+  content: "\EDB7"; }
 
 .mi-ReduceTileLegacyMirrored:before {
-    content: "\ECA5"
-}
+  content: "\EDB8"; }
+
+.mi-ReduceTileMirrored:before, .mi-ReduceTileLegacyMirrored:before {
+  content: "\EDB9"; }
 
 .mi-Refresh:before, .mi-RefreshLegacy:before, .mi-RepeatAll:before, .mi-RepeatAllLegacy:before {
-    content: "\ECA6"
-}
+  content: "\EDBA"; }
+
+.mi-Relationship:before {
+  content: "\EDBB"; }
 
 .mi-RememberedDevice:before {
-    content: "\ECA7"
-}
+  content: "\EDBC"; }
 
 .mi-Reminder:before {
-    content: "\ECA8"
-}
+  content: "\EDBD"; }
 
 .mi-ReminderFill:before {
-    content: "\ECA9"
-}
+  content: "\EDBE"; }
 
 .mi-Remote:before, .mi-RemoteLegacy:before {
-    content: "\ECAA"
-}
+  content: "\EDBF"; }
 
 .mi-Remove:before, .mi-RemoveLegacy:before {
-    content: "\ECAB"
-}
+  content: "\EDC0"; }
 
 .mi-RemoveFrom:before {
-    content: "\ECAC"
-}
+  content: "\EDC1"; }
 
 .mi-Rename:before, .mi-RenameLegacy:before {
-    content: "\ECAD"
-}
+  content: "\EDC2"; }
 
 .mi-Repair:before, .mi-RepairLegacy:before {
-    content: "\ECAE"
-}
+  content: "\EDC3"; }
 
 .mi-RepeatOne:before, .mi-RepeatOneLegacy:before {
-    content: "\ECAF"
-}
+  content: "\EDC4"; }
+
+.mi-Replay:before {
+  content: "\EDC5"; }
 
 .mi-Reply:before, .mi-ReplyLegacy:before {
-    content: "\ECB0"
-}
+  content: "\EDC6"; }
 
 .mi-ReplyMirrored:before {
-    content: "\ECB1"
-}
+  content: "\EDC7"; }
+
+.mi-ReportDocument:before {
+  content: "\EDC8"; }
 
 .mi-ReportHacked:before, .mi-ReportHackedLegacy:before {
-    content: "\ECB2"
-}
+  content: "\EDC9"; }
 
 .mi-ResetDevice:before {
-    content: "\ECB3"
-}
+  content: "\EDCA"; }
 
 .mi-ResetDrive:before {
-    content: "\ECB4"
-}
+  content: "\EDCB"; }
 
 .mi-Reshare:before, .mi-ReshareLegacy:before {
-    content: "\ECB5"
-}
+  content: "\EDCC"; }
 
 .mi-ResizeMouseMedium:before {
-    content: "\ECB6"
-}
+  content: "\EDCD"; }
 
 .mi-ResizeMouseMediumMirrored:before {
-    content: "\ECB7"
-}
+  content: "\EDCE"; }
 
 .mi-ResizeMouseSmall:before {
-    content: "\ECB8"
-}
+  content: "\EDCF"; }
 
 .mi-ResizeMouseSmallMirrored:before {
-    content: "\ECB9"
-}
+  content: "\EDD0"; }
 
 .mi-ResizeMouseTall:before {
-    content: "\ECBA"
-}
+  content: "\EDD1"; }
 
 .mi-ResizeMouseTallMirrored:before {
-    content: "\ECBB"
-}
+  content: "\EDD2"; }
 
 .mi-ResizeMouseWide:before {
-    content: "\ECBC"
-}
+  content: "\EDD3"; }
 
 .mi-ResizeTouchLarger:before {
-    content: "\ECBD"
-}
+  content: "\EDD4"; }
 
 .mi-ResizeTouchNarrower:before {
-    content: "\ECBE"
-}
+  content: "\EDD5"; }
 
 .mi-ResizeTouchNarrowerMirrored:before {
-    content: "\ECBF"
-}
+  content: "\EDD6"; }
 
 .mi-ResizeTouchShorter:before {
-    content: "\ECC0"
-}
+  content: "\EDD7"; }
 
 .mi-ResizeTouchSmaller:before {
-    content: "\ECC1"
-}
+  content: "\EDD8"; }
+
+.mi-Resolution:before, .mi-ResolutionLegacy:before {
+  content: "\EDD9"; }
 
 .mi-ResolutionLegacy:before {
-    content: "\ECC2"
-}
+  content: "\EDDA"; }
 
 .mi-ReturnKey:before {
-    content: "\ECC3"
-}
+  content: "\EDDB"; }
 
 .mi-ReturnKeyLg:before {
-    content: "\ECC4"
-}
+  content: "\EDDC"; }
 
 .mi-ReturnKeySm:before {
-    content: "\ECC5"
-}
+  content: "\EDDD"; }
 
 .mi-ReturnToWindow:before, .mi-ReturnToWindowLegacy:before {
-    content: "\ECC6"
-}
+  content: "\EDDE"; }
 
 .mi-RevToggleKey:before {
-    content: "\ECC7"
-}
+  content: "\EDDF"; }
 
 .mi-Rewind:before {
-    content: "\ECC8"
-}
+  content: "\EDE0"; }
 
 .mi-RightArrowKeyTime0:before {
-    content: "\ECC9"
-}
+  content: "\EDE1"; }
 
 .mi-RightArrowKeyTime1:before {
-    content: "\ECCA"
-}
+  content: "\EDE2"; }
 
 .mi-RightArrowKeyTime2:before {
-    content: "\ECCB"
-}
+  content: "\EDE3"; }
 
 .mi-RightArrowKeyTime3:before {
-    content: "\ECCC"
-}
+  content: "\EDE4"; }
 
 .mi-RightArrowKeyTime4:before {
-    content: "\ECCD"
-}
+  content: "\EDE5"; }
 
 .mi-RightDoubleQuote:before {
-    content: "\ECCE"
-}
+  content: "\EDE6"; }
 
 .mi-RightQuote:before {
-    content: "\ECCF"
-}
+  content: "\EDE7"; }
+
+.mi-RightStick:before {
+  content: "\EDE8"; }
 
 .mi-Ringer:before {
-    content: "\ECD0"
-}
+  content: "\EDE9"; }
 
 .mi-RingerBadge12:before {
-    content: "\ECD1"
-}
+  content: "\EDEA"; }
 
 .mi-RingerSilent:before {
-    content: "\ECD2"
-}
+  content: "\EDEB"; }
 
 .mi-RoamingDomestic:before {
-    content: "\ECD3"
-}
+  content: "\EDEC"; }
 
 .mi-RoamingInternational:before {
-    content: "\ECD4"
-}
+  content: "\EDED"; }
 
 .mi-Robot:before {
-    content: "\ECD5"
-}
+  content: "\EDEE"; }
 
 .mi-Rotate:before {
-    content: "\ECD6"
-}
+  content: "\EDEF"; }
 
 .mi-RotateCamera:before, .mi-RotateCameraLegacy:before {
-    content: "\ECD7"
-}
+  content: "\EDF0"; }
 
 .mi-RotateLegacy:before {
-    content: "\ECD8"
-}
+  content: "\EDF1"; }
 
 .mi-RotateMapLeft:before {
-    content: "\ECD9"
-}
+  content: "\EDF2"; }
 
 .mi-RotateMapRight:before {
-    content: "\ECDA"
-}
+  content: "\EDF3"; }
 
 .mi-RotationLock:before {
-    content: "\ECDB"
-}
+  content: "\EDF4"; }
 
 .mi-Ruler:before {
-    content: "\ECDC"
-}
+  content: "\EDF5"; }
 
 .mi-SDCard:before {
-    content: "\ECDD"
-}
+  content: "\EDF6"; }
+
+.mi-SIMError:before {
+  content: "\EDF7"; }
 
 .mi-SIMLock:before {
-    content: "\ECDE"
-}
+  content: "\EDF8"; }
 
 .mi-SIMMissing:before {
-    content: "\ECDF"
-}
+  content: "\EDF9"; }
 
 .mi-SIPMove:before {
-    content: "\ECE0"
-}
+  content: "\EDFA"; }
 
 .mi-SIPRedock:before {
-    content: "\ECE1"
-}
+  content: "\EDFB"; }
 
 .mi-SIPUndock:before {
-    content: "\ECE2"
-}
+  content: "\EDFC"; }
+
+.mi-Safe:before {
+  content: "\EDFD"; }
 
 .mi-Save:before, .mi-SaveLegacy:before {
-    content: "\ECE3"
-}
+  content: "\EDFE"; }
 
 .mi-SaveAs:before, .mi-SaveAsLegacy:before {
-    content: "\ECE4"
-}
+  content: "\EDFF"; }
 
 .mi-SaveCopy:before {
-    content: "\ECE5"
-}
+  content: "\EE00"; }
 
 .mi-SaveLocal:before, .mi-SaveLocalLegacy:before {
-    content: "\ECE6"
-}
+  content: "\EE01"; }
 
 .mi-Scan:before, .mi-ScanLegacy:before {
-    content: "\ECE7"
-}
+  content: "\EE02"; }
+
+.mi-ScreenTime:before {
+  content: "\EE03"; }
 
 .mi-ScrollMode:before {
-    content: "\ECE8"
-}
+  content: "\EE04"; }
 
 .mi-ScrollUpDown:before {
-    content: "\ECE9"
-}
+  content: "\EE05"; }
 
-.mi-FindLegacy:before, .mi-Search:before, .mi-SearchboxLegacy:before {
-    content: "\ECEA"
-}
+.mi-Search:before, .mi-FindLegacy:before, .mi-SearchboxLegacy:before {
+  content: "\EE06"; }
 
 .mi-SearchAndApps:before {
-    content: "\ECEB"
-}
+  content: "\EE07"; }
 
 .mi-SelectAll:before, .mi-SelectAllLegacy:before {
-    content: "\ECEC"
-}
+  content: "\EE08"; }
+
+.mi-SemanticZoom:before, .mi-SemanticZoomLegacy:before {
+  content: "\EE09"; }
 
 .mi-SemanticZoomLegacy:before {
-    content: "\ECED"
-}
+  content: "\EE0A"; }
 
 .mi-Send:before, .mi-SendLegacy:before {
-    content: "\ECEE"
-}
+  content: "\EE0B"; }
 
 .mi-SendFill:before {
-    content: "\ECEF"
-}
+  content: "\EE0C"; }
 
 .mi-SendFillMirrored:before {
-    content: "\ECF0"
-}
+  content: "\EE0D"; }
 
 .mi-SendMirrored:before {
-    content: "\ECF1"
-}
+  content: "\EE0E"; }
 
 .mi-Sensor:before {
-    content: "\ECF2"
-}
+  content: "\EE0F"; }
+
+.mi-Set:before {
+  content: "\EE10"; }
+
+.mi-SetSolid:before {
+  content: "\EE11"; }
 
 .mi-SetTile:before, .mi-SetTileLegacy:before {
-    content: "\ECF3"
-}
+  content: "\EE12"; }
 
 .mi-SetlockScreen:before, .mi-SetlockScreenLegacy:before {
-    content: "\ECF4"
-}
+  content: "\EE13"; }
 
 .mi-Settings:before, .mi-SettingsLegacy:before {
-    content: "\ECF5"
-}
+  content: "\EE14"; }
 
 .mi-SettingsBattery:before {
-    content: "\ECF6"
-}
+  content: "\EE15"; }
 
 .mi-SettingsDisplaySound:before {
-    content: "\ECF7"
-}
+  content: "\EE16"; }
 
 .mi-Share:before {
-    content: "\ECF8"
-}
+  content: "\EE17"; }
 
 .mi-ShareBroadband:before {
-    content: "\ECF9"
-}
+  content: "\EE18"; }
+
+.mi-Shield:before {
+  content: "\EE19"; }
 
 .mi-Shop:before, .mi-ShopLegacy:before {
-    content: "\ECFA"
-}
+  content: "\EE1A"; }
 
 .mi-ShoppingCart:before {
-    content: "\ECFB"
-}
+  content: "\EE1B"; }
+
+.mi-ShowAllFiles1:before, .mi-ShowAllFiles1Legacy:before {
+  content: "\EE1C"; }
 
 .mi-ShowAllFiles1Legacy:before {
-    content: "\ECFC"
-}
+  content: "\EE1D"; }
+
+.mi-ShowAllFiles3:before, .mi-ShowAllFiles3Legacy:before {
+  content: "\EE1E"; }
 
 .mi-ShowAllFiles3Legacy:before {
-    content: "\ECFD"
-}
+  content: "\EE1F"; }
 
 .mi-ShowBcc:before, .mi-ShowBccLegacy:before {
-    content: "\ECFE"
-}
+  content: "\EE20"; }
 
 .mi-ShowResults:before, .mi-ShowResultsLegacy:before {
-    content: "\ECFF"
-}
+  content: "\EE21"; }
 
-.mi-ShowResultsLegacyMirrored:before, .mi-ShowResultsMirrored:before {
-    content: "\ED00"
-}
+.mi-ShowResultsMirrored:before, .mi-ShowResultsLegacyMirrored:before {
+  content: "\EE22"; }
 
 .mi-Shuffle:before, .mi-ShuffleLegacy:before {
-    content: "\ED01"
-}
+  content: "\EE23"; }
 
 .mi-SignalBars1:before {
-    content: "\ED02"
-}
+  content: "\EE24"; }
 
 .mi-SignalBars2:before {
-    content: "\ED03"
-}
+  content: "\EE25"; }
 
 .mi-SignalBars3:before {
-    content: "\ED04"
-}
+  content: "\EE26"; }
 
 .mi-SignalBars4:before {
-    content: "\ED05"
-}
+  content: "\EE27"; }
 
 .mi-SignalBars5:before {
-    content: "\ED06"
-}
+  content: "\EE28"; }
 
 .mi-SignalError:before {
-    content: "\ED07"
-}
+  content: "\EE29"; }
 
 .mi-SignalNotConnected:before {
-    content: "\ED08"
-}
+  content: "\EE2A"; }
 
 .mi-SignalRoaming:before {
-    content: "\ED09"
-}
+  content: "\EE2B"; }
+
+.mi-SignatureCapture:before {
+  content: "\EE2C"; }
+
+.mi-Size:before {
+  content: "\EE2D"; }
 
 .mi-SizeLegacy:before {
-    content: "\ED0A"
-}
+  content: "\EE2E"; }
 
 .mi-SkipBack10:before {
-    content: "\ED0B"
-}
+  content: "\EE2F"; }
 
 .mi-SkipForward30:before {
-    content: "\ED0C"
-}
+  content: "\EE30"; }
 
 .mi-SliderThumb:before {
-    content: "\ED0D"
-}
+  content: "\EE31"; }
 
 .mi-Slideshow:before, .mi-SlideshowLegacy:before {
-    content: "\ED0E"
-}
+  content: "\EE32"; }
+
+.mi-SlowMotionOn:before {
+  content: "\EE33"; }
+
+.mi-SmallErase:before {
+  content: "\EE34"; }
 
 .mi-Smartcard:before {
-    content: "\ED0F"
-}
+  content: "\EE35"; }
 
 .mi-SmartcardVirtual:before {
-    content: "\ED10"
-}
+  content: "\EE36"; }
 
 .mi-Sort:before, .mi-SortLegacy:before {
-    content: "\ED11"
-}
+  content: "\EE37"; }
+
+.mi-SpatialVolume0:before {
+  content: "\EE38"; }
+
+.mi-SpatialVolume1:before {
+  content: "\EE39"; }
+
+.mi-SpatialVolume2:before {
+  content: "\EE3A"; }
+
+.mi-SpatialVolume3:before {
+  content: "\EE3B"; }
 
 .mi-Speakers:before {
-    content: "\ED12"
-}
+  content: "\EE3C"; }
+
+.mi-Speech:before {
+  content: "\EE3D"; }
 
 .mi-SpeedHigh:before {
-    content: "\ED13"
-}
+  content: "\EE3E"; }
 
 .mi-SpeedMedium:before {
-    content: "\ED14"
-}
+  content: "\EE3F"; }
 
 .mi-SpeedOff:before {
-    content: "\ED15"
-}
+  content: "\EE40"; }
+
+.mi-StaplingLandscapeBookBinding:before {
+  content: "\EE41"; }
+
+.mi-StaplingLandscapeBottomLeft:before {
+  content: "\EE42"; }
+
+.mi-StaplingLandscapeBottomRight:before {
+  content: "\EE43"; }
+
+.mi-StaplingLandscapeTopLeft:before {
+  content: "\EE44"; }
+
+.mi-StaplingLandscapeTopRight:before {
+  content: "\EE45"; }
+
+.mi-StaplingLandscapeTwoBottom:before {
+  content: "\EE46"; }
+
+.mi-StaplingLandscapeTwoLeft:before {
+  content: "\EE47"; }
+
+.mi-StaplingLandscapeTwoRight:before {
+  content: "\EE48"; }
+
+.mi-StaplingLandscapeTwoTop:before {
+  content: "\EE49"; }
+
+.mi-StaplingOff:before {
+  content: "\EE4A"; }
+
+.mi-StaplingPortraitBookBinding:before {
+  content: "\EE4B"; }
+
+.mi-StaplingPortraitBottomLeft:before {
+  content: "\EE4C"; }
+
+.mi-StaplingPortraitBottomRight:before {
+  content: "\EE4D"; }
+
+.mi-StaplingPortraitTopLeft:before {
+  content: "\EE4E"; }
+
+.mi-StaplingPortraitTopRight:before {
+  content: "\EE4F"; }
+
+.mi-StaplingPortraitTwoBottom:before {
+  content: "\EE50"; }
+
+.mi-StaplingPortraitTwoLeft:before {
+  content: "\EE51"; }
+
+.mi-StaplingPortraitTwoRight:before {
+  content: "\EE52"; }
+
+.mi-StaplingPortraitTwoTop:before {
+  content: "\EE53"; }
 
 .mi-StartPoint:before {
-    content: "\ED16"
-}
+  content: "\EE54"; }
 
 .mi-StartPointSolid:before {
-    content: "\ED17"
-}
+  content: "\EE55"; }
+
+.mi-StatusCheckmark:before {
+  content: "\EE56"; }
+
+.mi-StatusCheckmark7:before {
+  content: "\EE57"; }
+
+.mi-StatusCheckmarkLeft:before {
+  content: "\EE58"; }
 
 .mi-StatusCircle:before {
-    content: "\ED18"
-}
+  content: "\EE59"; }
+
+.mi-StatusCircle7:before {
+  content: "\EE5A"; }
+
+.mi-StatusCircleBlock:before {
+  content: "\EE5B"; }
+
+.mi-StatusCircleBlock2:before {
+  content: "\EE5C"; }
+
+.mi-StatusCircleCheckmark:before {
+  content: "\EE5D"; }
+
+.mi-StatusCircleErrorX:before {
+  content: "\EE5E"; }
+
+.mi-StatusCircleExclamation:before {
+  content: "\EE5F"; }
+
+.mi-StatusCircleInfo:before {
+  content: "\EE60"; }
+
+.mi-StatusCircleInner:before {
+  content: "\EE61"; }
 
 .mi-StatusCircleLeft:before {
-    content: "\ED19"
-}
+  content: "\EE62"; }
+
+.mi-StatusCircleOuter:before {
+  content: "\EE63"; }
+
+.mi-StatusCircleQuestionMark:before {
+  content: "\EE64"; }
+
+.mi-StatusCircleRing:before {
+  content: "\EE65"; }
+
+.mi-StatusCircleSync:before {
+  content: "\EE66"; }
 
 .mi-StatusConnecting1:before {
-    content: "\ED1A"
-}
+  content: "\EE67"; }
 
 .mi-StatusConnecting2:before {
-    content: "\ED1B"
-}
+  content: "\EE68"; }
 
 .mi-StatusDataTransfer:before {
-    content: "\ED1C"
-}
+  content: "\EE69"; }
 
 .mi-StatusDataTransferVPN:before {
-    content: "\ED1D"
-}
+  content: "\EE6A"; }
 
 .mi-StatusDualSIM1:before {
-    content: "\ED1E"
-}
+  content: "\EE6B"; }
 
 .mi-StatusDualSIM1VPN:before {
-    content: "\ED1F"
-}
+  content: "\EE6C"; }
 
 .mi-StatusDualSIM2:before {
-    content: "\ED20"
-}
+  content: "\EE6D"; }
 
 .mi-StatusDualSIM2VPN:before {
-    content: "\ED21"
-}
+  content: "\EE6E"; }
 
 .mi-StatusError:before {
-    content: "\ED22"
-}
+  content: "\EE6F"; }
+
+.mi-StatusErrorCircle7:before {
+  content: "\EE70"; }
 
 .mi-StatusErrorFull:before {
-    content: "\ED23"
-}
+  content: "\EE71"; }
 
 .mi-StatusErrorLeft:before {
-    content: "\ED24"
-}
+  content: "\EE72"; }
+
+.mi-StatusExclamationCircle7:before {
+  content: "\EE73"; }
+
+.mi-StatusInfo:before {
+  content: "\EE74"; }
+
+.mi-StatusInfoLeft:before {
+  content: "\EE75"; }
+
+.mi-StatusPause7:before {
+  content: "\EE76"; }
 
 .mi-StatusSGLTE:before {
-    content: "\ED25"
-}
+  content: "\EE77"; }
 
 .mi-StatusSGLTECell:before {
-    content: "\ED26"
-}
+  content: "\EE78"; }
 
 .mi-StatusSGLTEDataVPN:before {
-    content: "\ED27"
-}
+  content: "\EE79"; }
 
 .mi-StatusTriangle:before {
-    content: "\ED28"
-}
+  content: "\EE7A"; }
+
+.mi-StatusTriangleExclamation:before {
+  content: "\EE7B"; }
+
+.mi-StatusTriangleInner:before {
+  content: "\EE7C"; }
 
 .mi-StatusTriangleLeft:before {
-    content: "\ED29"
-}
+  content: "\EE7D"; }
+
+.mi-StatusTriangleOuter:before {
+  content: "\EE7E"; }
 
 .mi-StatusUnsecure:before {
-    content: "\ED2A"
-}
+  content: "\EE7F"; }
 
 .mi-StatusVPN:before {
-    content: "\ED2B"
-}
+  content: "\EE80"; }
 
 .mi-StatusWarning:before {
-    content: "\ED2C"
-}
+  content: "\EE81"; }
 
 .mi-StatusWarningLeft:before {
-    content: "\ED2D"
-}
+  content: "\EE82"; }
+
+.mi-Sticker2:before {
+  content: "\EE83"; }
 
 .mi-StockDown:before {
-    content: "\ED2E"
-}
+  content: "\EE84"; }
 
 .mi-StockUp:before {
-    content: "\ED2F"
-}
+  content: "\EE85"; }
 
 .mi-Stop:before, .mi-StopLegacy:before {
-    content: "\ED30"
-}
+  content: "\EE86"; }
 
 .mi-StopPoint:before {
-    content: "\ED31"
-}
+  content: "\EE87"; }
 
 .mi-StopPointSolid:before {
-    content: "\ED32"
-}
+  content: "\EE88"; }
+
+.mi-StopSlideshow:before, .mi-StopSlideshowLegacy:before {
+  content: "\EE89"; }
 
 .mi-StopSlideshowLegacy:before {
-    content: "\ED33"
-}
+  content: "\EE8A"; }
 
 .mi-Stopwatch:before {
-    content: "\ED34"
-}
+  content: "\EE8B"; }
 
 .mi-StorageNetworkWireless:before {
-    content: "\ED35"
-}
+  content: "\EE8C"; }
 
 .mi-StorageOptical:before {
-    content: "\ED36"
-}
+  content: "\EE8D"; }
 
 .mi-StorageTape:before {
-    content: "\ED37"
-}
+  content: "\EE8E"; }
 
 .mi-Streaming:before {
-    content: "\ED38"
-}
+  content: "\EE8F"; }
 
 .mi-StreamingEnterprise:before {
-    content: "\ED39"
-}
+  content: "\EE90"; }
 
 .mi-Street:before, .mi-StreetLegacy:before {
-    content: "\ED3A"
-}
+  content: "\EE91"; }
 
 .mi-StreetsideSplitExpand:before {
-    content: "\ED3B"
-}
+  content: "\EE92"; }
 
 .mi-StreetsideSplitMinimize:before {
-    content: "\ED3C"
-}
+  content: "\EE93"; }
 
 .mi-StrokeErase:before {
-    content: "\ED3D"
-}
+  content: "\EE94"; }
+
+.mi-StrokeErase2:before {
+  content: "\EE95"; }
 
 .mi-StrokeEraseMirrored:before {
-    content: "\ED3E"
-}
+  content: "\EE96"; }
 
 .mi-Subtitles:before {
-    content: "\ED3F"
-}
+  content: "\EE97"; }
 
 .mi-SubtitlesAudio:before {
-    content: "\ED40"
-}
+  content: "\EE98"; }
 
 .mi-SurfaceHub:before {
-    content: "\ED41"
-}
+  content: "\EE99"; }
+
+.mi-SurfaceHubSelected:before {
+  content: "\EE9A"; }
 
 .mi-Sustainable:before {
-    content: "\ED42"
-}
+  content: "\EE9B"; }
 
 .mi-Swipe:before {
-    content: "\ED43"
-}
+  content: "\EE9C"; }
 
 .mi-SwipeRevealArt:before {
-    content: "\ED44"
-}
+  content: "\EE9D"; }
 
 .mi-Switch:before, .mi-SwitchLegacy:before {
-    content: "\ED45"
-}
+  content: "\EE9E"; }
 
 .mi-SwitchApps:before, .mi-SwitchAppsLegacy:before {
-    content: "\ED46"
-}
+  content: "\EE9F"; }
 
 .mi-SwitchUser:before {
-    content: "\ED47"
-}
+  content: "\EEA0"; }
 
 .mi-Sync:before, .mi-SyncLegacy:before {
-    content: "\ED48"
-}
+  content: "\EEA1"; }
 
 .mi-SyncBadge12:before {
-    content: "\ED49"
-}
+  content: "\EEA2"; }
 
 .mi-SyncError:before {
-    content: "\ED4A"
-}
+  content: "\EEA3"; }
 
 .mi-SyncFolder:before, .mi-SyncFolderLegacy:before {
-    content: "\ED4B"
-}
+  content: "\EEA4"; }
 
 .mi-System:before {
-    content: "\ED4C"
-}
+  content: "\EEA5"; }
 
 .mi-TVMonitor:before {
-    content: "\ED4D"
-}
+  content: "\EEA6"; }
 
 .mi-TVMonitorSelected:before {
-    content: "\ED4E"
-}
+  content: "\EEA7"; }
 
 .mi-Tablet:before {
-    content: "\ED4F"
-}
+  content: "\EEA8"; }
 
 .mi-TabletMode:before {
-    content: "\ED50"
-}
+  content: "\EEA9"; }
 
 .mi-TabletSelected:before {
-    content: "\ED51"
-}
+  content: "\EEAA"; }
 
 .mi-Tag:before, .mi-TagLegacy:before {
-    content: "\ED52"
-}
+  content: "\EEAB"; }
 
 .mi-TapAndSend:before {
-    content: "\ED53"
-}
+  content: "\EEAC"; }
+
+.mi-TaskView:before {
+  content: "\EEAD"; }
+
+.mi-TaskViewExpanded:before {
+  content: "\EEAE"; }
+
+.mi-TaskViewSettings:before {
+  content: "\EEAF"; }
 
 .mi-TaskbarPhone:before {
-    content: "\ED54"
-}
+  content: "\EEB0"; }
 
 .mi-ThisPC:before {
-    content: "\ED55"
-}
+  content: "\EEB1"; }
 
 .mi-ThoughtBubble:before {
-    content: "\ED56"
-}
+  content: "\EEB2"; }
 
 .mi-ThreeBars:before, .mi-ThreeBarsLegacy:before {
-    content: "\ED57"
-}
+  content: "\EEB3"; }
+
+.mi-ThreeQuarterStarLeft:before {
+  content: "\EEB4"; }
+
+.mi-ThreeQuarterStarRight:before {
+  content: "\EEB5"; }
 
 .mi-Tiles:before {
-    content: "\ED58"
-}
+  content: "\EEB6"; }
 
 .mi-TiltDown:before {
-    content: "\ED59"
-}
+  content: "\EEB7"; }
 
 .mi-TiltUp:before {
-    content: "\ED5A"
-}
+  content: "\EEB8"; }
 
 .mi-TimeLanguage:before {
-    content: "\ED5B"
-}
+  content: "\EEB9"; }
 
 .mi-ToggleBorder:before {
-    content: "\ED5C"
-}
+  content: "\EEBA"; }
 
 .mi-ToggleFilled:before {
-    content: "\ED5D"
-}
+  content: "\EEBB"; }
 
 .mi-ToggleThumb:before {
-    content: "\ED5E"
-}
+  content: "\EEBC"; }
+
+.mi-TollSolid:before {
+  content: "\EEBD"; }
+
+.mi-ToolTip:before, .mi-Lightbulb:before {
+  content: "\EEBE"; }
 
 .mi-Touch:before {
-    content: "\ED5F"
-}
+  content: "\EEBF"; }
 
 .mi-TouchPointer:before, .mi-TouchPointerLegacy:before {
-    content: "\ED60"
-}
+  content: "\EEC0"; }
+
+.mi-Touchpad:before {
+  content: "\EEC1"; }
 
 .mi-Touchscreen:before {
-    content: "\ED61"
-}
+  content: "\EEC2"; }
 
 .mi-Trackers:before {
-    content: "\ED62"
-}
+  content: "\EEC3"; }
 
 .mi-TrackersMirrored:before {
-    content: "\ED63"
-}
+  content: "\EEC4"; }
+
+.mi-TrafficCongestionSolid:before {
+  content: "\EEC5"; }
+
+.mi-TrafficLight:before {
+  content: "\EEC6"; }
 
 .mi-Train:before {
-    content: "\ED64"
-}
+  content: "\EEC7"; }
 
 .mi-TrainSolid:before {
-    content: "\ED65"
-}
+  content: "\EEC8"; }
 
 .mi-TreeFolderFolder:before {
-    content: "\ED66"
-}
+  content: "\EEC9"; }
 
 .mi-TreeFolderFolderFill:before {
-    content: "\ED67"
-}
+  content: "\EECA"; }
 
 .mi-TreeFolderFolderOpen:before {
-    content: "\ED68"
-}
+  content: "\EECB"; }
 
 .mi-TreeFolderFolderOpenFill:before {
-    content: "\ED69"
-}
+  content: "\EECC"; }
+
+.mi-TriggerLeft:before {
+  content: "\EECD"; }
+
+.mi-TriggerRight:before {
+  content: "\EECE"; }
 
 .mi-Trim:before, .mi-TrimLegacy:before {
-    content: "\ED6A"
-}
+  content: "\EECF"; }
 
 .mi-TwoBars:before, .mi-TwoBarsLegacy:before {
-    content: "\ED6B"
-}
+  content: "\EED0"; }
 
 .mi-TwoPage:before, .mi-TwoPageLegacy:before {
-    content: "\ED6C"
-}
+  content: "\EED1"; }
 
 .mi-Type:before, .mi-TypeLegacy:before {
-    content: "\ED6D"
-}
+  content: "\EED2"; }
 
 .mi-TypingIndicatorLegacy:before {
-    content: "\ED6E"
-}
+  content: "\EED3"; }
 
 .mi-USB:before {
-    content: "\ED6F"
-}
+  content: "\EED4"; }
 
 .mi-USBSafeConnect:before {
-    content: "\ED70"
-}
+  content: "\EED5"; }
 
 .mi-Underline:before, .mi-UnderlineLegacy:before {
-    content: "\ED71"
-}
+  content: "\EED6"; }
+
+.mi-UnderlineLKorean:before, .mi-UnderlineLKoreanLegacy:before {
+  content: "\EED7"; }
 
 .mi-UnderlineLKoreanLegacy:before {
-    content: "\ED72"
-}
+  content: "\EED8"; }
+
+.mi-UnderlineRussian:before, .mi-UnderlineRussianLegacy:before {
+  content: "\EED9"; }
 
 .mi-UnderlineRussianLegacy:before {
-    content: "\ED73"
-}
+  content: "\EEDA"; }
+
+.mi-UnderlineS:before, .mi-UnderlineSLegacy:before {
+  content: "\EEDB"; }
 
 .mi-UnderlineSLegacy:before {
-    content: "\ED74"
-}
+  content: "\EEDC"; }
+
+.mi-UnderlineU:before, .mi-UnderlineULegacy:before {
+  content: "\EEDD"; }
 
 .mi-UnderlineULegacy:before {
-    content: "\ED75"
-}
+  content: "\EEDE"; }
 
 .mi-UnderscoreSpace:before {
-    content: "\ED76"
-}
+  content: "\EEDF"; }
 
 .mi-Undo:before, .mi-UndoLegacy:before {
-    content: "\ED77"
-}
+  content: "\EEE0"; }
 
 .mi-Unfavorite:before, .mi-UnfavoriteLegacy:before {
-    content: "\ED78"
-}
+  content: "\EEE1"; }
 
 .mi-Unit:before {
-    content: "\ED79"
-}
+  content: "\EEE2"; }
+
+.mi-Unknown:before {
+  content: "\EEE3"; }
+
+.mi-UnknownMirrored:before {
+  content: "\EEE4"; }
 
 .mi-Unlock:before, .mi-UnlockLegacy:before {
-    content: "\ED7A"
-}
+  content: "\EEE5"; }
 
 .mi-Unpin:before, .mi-UnpinLegacy:before {
-    content: "\ED7B"
-}
+  content: "\EEE6"; }
 
 .mi-UnsyncFolder:before, .mi-UnsyncFolderLegacy:before {
-    content: "\ED7C"
-}
+  content: "\EEE7"; }
 
 .mi-Up:before, .mi-UpLegacy:before {
-    content: "\ED7D"
-}
+  content: "\EEE8"; }
 
 .mi-UpArrowShiftKey:before {
-    content: "\ED7E"
-}
+  content: "\EEE9"; }
 
 .mi-UpShiftKey:before {
-    content: "\ED7F"
-}
+  content: "\EEEA"; }
 
 .mi-UpdateRestore:before {
-    content: "\ED80"
-}
+  content: "\EEEB"; }
 
 .mi-Upload:before, .mi-UploadLegacy:before, .mi-UploadSkyDriveLegacy:before {
-    content: "\ED81"
-}
+  content: "\EEEC"; }
+
+.mi-UserAPN:before {
+  content: "\EEED"; }
 
 .mi-VPN:before {
-    content: "\ED82"
-}
+  content: "\EEEE"; }
+
+.mi-VerticalBattery0:before {
+  content: "\EEEF"; }
+
+.mi-VerticalBattery1:before {
+  content: "\EEF0"; }
+
+.mi-VerticalBattery10:before {
+  content: "\EEF1"; }
+
+.mi-VerticalBattery2:before {
+  content: "\EEF2"; }
+
+.mi-VerticalBattery3:before {
+  content: "\EEF3"; }
+
+.mi-VerticalBattery4:before {
+  content: "\EEF4"; }
+
+.mi-VerticalBattery5:before {
+  content: "\EEF5"; }
+
+.mi-VerticalBattery6:before {
+  content: "\EEF6"; }
+
+.mi-VerticalBattery7:before {
+  content: "\EEF7"; }
+
+.mi-VerticalBattery8:before {
+  content: "\EEF8"; }
+
+.mi-VerticalBattery9:before {
+  content: "\EEF9"; }
+
+.mi-VerticalBatteryCharging0:before {
+  content: "\EEFA"; }
+
+.mi-VerticalBatteryCharging1:before {
+  content: "\EEFB"; }
+
+.mi-VerticalBatteryCharging10:before {
+  content: "\EEFC"; }
+
+.mi-VerticalBatteryCharging2:before {
+  content: "\EEFD"; }
+
+.mi-VerticalBatteryCharging3:before {
+  content: "\EEFE"; }
+
+.mi-VerticalBatteryCharging4:before {
+  content: "\EEFF"; }
+
+.mi-VerticalBatteryCharging5:before {
+  content: "\EF00"; }
+
+.mi-VerticalBatteryCharging6:before {
+  content: "\EF01"; }
+
+.mi-VerticalBatteryCharging7:before {
+  content: "\EF02"; }
+
+.mi-VerticalBatteryCharging8:before {
+  content: "\EF03"; }
+
+.mi-VerticalBatteryCharging9:before {
+  content: "\EF04"; }
+
+.mi-VerticalBatteryUnknown:before {
+  content: "\EF05"; }
 
 .mi-Vibrate:before {
-    content: "\ED83"
-}
+  content: "\EF06"; }
 
 .mi-Video:before, .mi-VideoInlineLegacy:before, .mi-VideoLegacy:before {
-    content: "\ED84"
-}
+  content: "\EF07"; }
+
+.mi-Video360:before {
+  content: "\EF08"; }
 
 .mi-VideoChat:before, .mi-VideoChatLegacy:before {
-    content: "\ED85"
-}
+  content: "\EF09"; }
 
-.mi-RevealPasswordLegacy:before, .mi-View:before, .mi-ViewLegacy:before {
-    content: "\ED86"
-}
+.mi-VideoSolid:before {
+  content: "\EF0A"; }
 
-.mi-ShowAllFilesLegacy:before, .mi-ViewAll:before, .mi-ViewAllLegacy:before {
-    content: "\ED87"
-}
+.mi-View:before, .mi-RevealPasswordLegacy:before, .mi-ViewLegacy:before {
+  content: "\EF0B"; }
+
+.mi-ViewAll:before, .mi-ShowAllFilesLegacy:before, .mi-ViewAllLegacy:before {
+  content: "\EF0C"; }
+
+.mi-ViewDashboard:before {
+  content: "\EF0D"; }
 
 .mi-Volume:before, .mi-VolumeLegacy:before {
-    content: "\ED88"
-}
+  content: "\EF0E"; }
 
 .mi-Volume0:before {
-    content: "\ED89"
-}
+  content: "\EF0F"; }
 
 .mi-Volume1:before {
-    content: "\ED8A"
-}
+  content: "\EF10"; }
 
 .mi-Volume2:before {
-    content: "\ED8B"
-}
+  content: "\EF11"; }
 
 .mi-Volume3:before {
-    content: "\ED8C"
-}
+  content: "\EF12"; }
 
 .mi-VolumeBars:before {
-    content: "\ED8D"
-}
+  content: "\EF13"; }
 
 .mi-Walk:before {
-    content: "\ED8E"
-}
+  content: "\EF14"; }
 
 .mi-WalkSolid:before {
-    content: "\ED8F"
-}
+  content: "\EF15"; }
 
 .mi-Warning:before {
-    content: "\ED90"
-}
+  content: "\EF16"; }
 
 .mi-Webcam:before, .mi-WebcamLegacy:before {
-    content: "\ED91"
-}
+  content: "\EF17"; }
 
 .mi-Webcam2:before {
-    content: "\ED92"
-}
+  content: "\EF18"; }
+
+.mi-Website:before {
+  content: "\EF19"; }
 
 .mi-Wheel:before {
-    content: "\ED93"
-}
+  content: "\EF1A"; }
 
 .mi-Wifi:before {
-    content: "\ED94"
-}
+  content: "\EF1B"; }
 
 .mi-Wifi1:before {
-    content: "\ED95"
-}
+  content: "\EF1C"; }
 
 .mi-Wifi2:before {
-    content: "\ED96"
-}
+  content: "\EF1D"; }
 
 .mi-Wifi3:before {
-    content: "\ED97"
-}
+  content: "\EF1E"; }
 
 .mi-WifiAttentionOverlay:before {
-    content: "\ED98"
-}
+  content: "\EF1F"; }
 
 .mi-WifiCall0:before {
-    content: "\ED99"
-}
+  content: "\EF20"; }
 
 .mi-WifiCall1:before {
-    content: "\ED9A"
-}
+  content: "\EF21"; }
 
 .mi-WifiCall2:before {
-    content: "\ED9B"
-}
+  content: "\EF22"; }
 
 .mi-WifiCall3:before {
-    content: "\ED9C"
-}
+  content: "\EF23"; }
 
 .mi-WifiCall4:before {
-    content: "\ED9D"
-}
+  content: "\EF24"; }
 
 .mi-WifiCallBars:before {
-    content: "\ED9E"
-}
+  content: "\EF25"; }
 
 .mi-WifiError0:before {
-    content: "\ED9F"
-}
+  content: "\EF26"; }
 
 .mi-WifiError1:before {
-    content: "\EDA0"
-}
+  content: "\EF27"; }
 
 .mi-WifiError2:before {
-    content: "\EDA1"
-}
+  content: "\EF28"; }
 
 .mi-WifiError3:before {
-    content: "\EDA2"
-}
+  content: "\EF29"; }
 
 .mi-WifiError4:before {
-    content: "\EDA3"
-}
+  content: "\EF2A"; }
 
 .mi-WifiEthernet:before {
-    content: "\EDA4"
-}
+  content: "\EF2B"; }
 
-.mi-InternetSharing:before, .mi-WifiHotspot:before {
-    content: "\EDA5"
-}
+.mi-WifiHotspot:before, .mi-InternetSharing:before {
+  content: "\EF2C"; }
 
 .mi-WifiWarning0:before {
-    content: "\EDA6"
-}
+  content: "\EF2D"; }
 
 .mi-WifiWarning1:before {
-    content: "\EDA7"
-}
+  content: "\EF2E"; }
 
 .mi-WifiWarning2:before {
-    content: "\EDA8"
-}
+  content: "\EF2F"; }
 
 .mi-WifiWarning3:before {
-    content: "\EDA9"
-}
+  content: "\EF30"; }
 
 .mi-WifiWarning4:before {
-    content: "\EDAA"
-}
+  content: "\EF31"; }
 
 .mi-WindDirection:before {
-    content: "\EDAB"
-}
+  content: "\EF32"; }
+
+.mi-WindowsInsider:before {
+  content: "\EF33"; }
 
 .mi-WiredUSB:before {
-    content: "\EDAC"
-}
+  content: "\EF34"; }
 
 .mi-WirelessUSB:before {
-    content: "\EDAD"
-}
+  content: "\EF35"; }
 
 .mi-Work:before {
-    content: "\EDAE"
-}
+  content: "\EF36"; }
 
 .mi-WorkSolid:before {
-    content: "\EDAF"
-}
+  content: "\EF37"; }
 
 .mi-World:before, .mi-WorldLegacy:before {
-    content: "\EDB0"
-}
+  content: "\EF38"; }
 
 .mi-XboxOneConsole:before {
-    content: "\EDB1"
-}
+  content: "\EF39"; }
 
 .mi-ZeroBars:before, .mi-ZeroBarsLegacy:before {
-    content: "\EDB2"
-}
+  content: "\EF3A"; }
 
 .mi-Zoom:before, .mi-ZoomLegacy:before {
-    content: "\EDB3"
-}
+  content: "\EF3B"; }
 
 .mi-ZoomIn:before, .mi-ZoomInLegacy:before {
-    content: "\EDB4"
-}
+  content: "\EF3C"; }
 
 .mi-ZoomMode:before {
-    content: "\EDB5"
-}
+  content: "\EF3D"; }
 
 .mi-ZoomOut:before, .mi-ZoomOutLegacy:before {
-    content: "\EDB6"
-}
+  content: "\EF3E"; }
 
 .mi-eSIM:before {
-    content: "\EDB7"
-}
+  content: "\EF3F"; }
 
 .mi-eSIMBusy:before {
-    content: "\EDB8"
-}
+  content: "\EF40"; }
 
 .mi-eSIMLocked:before {
-    content: "\EDB9"
-}
+  content: "\EF41"; }
 
 .mi-eSIMNoProfile:before {
-    content: "\EDBA"
-}
+  content: "\EF42"; }
 
+.mi-uniE80B:before {
+  content: "\EF43"; }
+
+.mi-uniEA0D:before {
+  content: "\EF44"; }
+
+.mi-uniEA3F:before {
+  content: "\EF45"; }
+
+.mi-uniEA90:before {
+  content: "\EF46"; }
+
+.mi-uniEAC2:before {
+  content: "\EF47"; }
+
+.mi-uniEC6C:before {
+  content: "\EF48"; }
+
+.mi-uniEEA3:before {
+  content: "\EF49"; }
+
+.mi-uniF2B7:before {
+  content: "\EF4A"; }
+
+.mi-uniF5AA:before {
+  content: "\EF4B"; }
+
+.mi-uniF614:before {
+  content: "\EF4C"; }
+
+.mi-uniF615:before {
+  content: "\EF4D"; }
+
+.mi-uniF616:before {
+  content: "\EF4E"; }
+
+.mi-uniF617:before {
+  content: "\EF4F"; }
+
+.mi-uniF657:before {
+  content: "\EF50"; }
+
+.mi-uniF658:before {
+  content: "\EF51"; }
+
+.mi-uniF659:before {
+  content: "\EF52"; }
+
+.mi-uniF65A:before {
+  content: "\EF53"; }
+
+.mi-uniF65B:before {
+  content: "\EF54"; }
+
+.mi-uniF65C:before {
+  content: "\EF55"; }
+
+.mi-uniF69E:before {
+  content: "\EF56"; }
+
+.mi-uniF6FA:before {
+  content: "\EF57"; }
+
+.mi-uniF712:before {
+  content: "\EF58"; }
+
+.mi-uniF71C:before {
+  content: "\EF59"; }
+
+.mi-uniF71D:before {
+  content: "\EF5A"; }
+
+.mi-uniF71E:before {
+  content: "\EF5B"; }
+
+.mi-uniF738:before {
+  content: "\EF5C"; }
+
+.mi-uniF739:before {
+  content: "\EF5D"; }
+
+.mi-uniF73D:before {
+  content: "\EF5E"; }
+
+.mi-uniF73E:before {
+  content: "\EF5F"; }
+
+.mi-uniF73F:before {
+  content: "\EF60"; }
+
+.mi-uniF740:before {
+  content: "\EF61"; }
+
+.mi-uniF741:before {
+  content: "\EF62"; }
+
+.mi-uniF742:before {
+  content: "\EF63"; }
+
+.mi-uniF743:before {
+  content: "\EF64"; }
+
+.mi-uniF744:before {
+  content: "\EF65"; }
+
+.mi-uniF745:before {
+  content: "\EF66"; }
+
+.mi-uniF746:before {
+  content: "\EF67"; }
+
+.mi-uniF785:before {
+  content: "\EF68"; }
+
+.sr-only {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
