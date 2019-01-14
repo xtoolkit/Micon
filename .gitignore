@@ -5,3 +5,4 @@ script_out/*
 [Dd]esktop.ini
 *.DS_store
 .DS_store?
+node_modules/
