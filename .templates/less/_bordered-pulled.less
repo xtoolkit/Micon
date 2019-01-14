@@ -1,0 +1,17 @@
+// Bordered & Pulled
+// -------------------------
+
+{{=[[ ]]=}}
+.@{[[config.fontPrefix]]-css-prefix}-border {
+  border-radius: .1em;
+  border: solid .08em @[[config.fontPrefix]]-border-color;
+  padding: .2em .25em .15em;
+}
+
+.@{[[config.fontPrefix]]-css-prefix}-pull-left { float: left; }
+.@{[[config.fontPrefix]]-css-prefix}-pull-right { float: right; }
+
+.@{[[config.fontPrefix]]-css-prefix}, .fas, .far, .fal, .fab {
+  &.@{[[config.fontPrefix]]-css-prefix}-pull-left { margin-right: .3em; }
+  &.@{[[config.fontPrefix]]-css-prefix}-pull-right { margin-left: .3em; }
+}

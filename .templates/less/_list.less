@@ -1,0 +1,19 @@
+// List Icons
+// -------------------------
+
+{{=[[ ]]=}}
+.@{[[config.fontPrefix]]-css-prefix}-ul {
+  list-style-type: none;
+  margin-left: @[[config.fontPrefix]]-li-width * 5/4;
+  padding-left: 0;
+
+  > li { position: relative; }
+}
+
+.@{[[config.fontPrefix]]-css-prefix}-li {
+  left: -@[[config.fontPrefix]]-li-width;
+  position: absolute;
+  text-align: center;
+  width: @[[config.fontPrefix]]-li-width;
+  line-height: inherit;
+}

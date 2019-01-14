@@ -1,0 +1,28 @@
+// Icon Sizes
+// -------------------------
+
+{{=[[ ]]=}}
+.larger(@factor) when (@factor > 0) {
+  .larger((@factor - 1));
+
+  .@{[[config.fontPrefix]]-css-prefix}-@{factor}x {
+    font-size: (@factor * 1em);
+  }
+}
+
+/* makes the font 33% larger relative to the icon container */
+.@{[[config.fontPrefix]]-css-prefix}-lg {
+  font-size: (4em / 3);
+  line-height: (3em / 4);
+  vertical-align: -.0667em;
+}
+
+.@{[[config.fontPrefix]]-css-prefix}-xs {
+  font-size: .75em;
+}
+
+.@{[[config.fontPrefix]]-css-prefix}-sm {
+  font-size: .875em;
+}
+
+.larger(10);

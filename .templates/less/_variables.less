@@ -1,0 +1,16 @@
+// Variables
+// --------------------------
+
+{{=[[ ]]=}}
+@[[config.fontPrefix]]-font-path:        "[[&config.fontPath]]";
+@[[config.fontPrefix]]-font-size-base:   16px;
+@[[config.fontPrefix]]-line-height-base: 1;
+@[[config.fontPrefix]]-css-prefix:       [[config.fontPrefix]];
+@[[config.fontPrefix]]-version:          "[[config.fontVersion]]";
+@[[config.fontPrefix]]-border-color:     #eee;
+@[[config.fontPrefix]]-inverse:          #fff;
+@[[config.fontPrefix]]-li-width:         2em;
+
+[[#glyphs]]
+@[[config.fontPrefix]]-var-[[name]]: "\[[codepoint]]";
+[[/glyphs]]

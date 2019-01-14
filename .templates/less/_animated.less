@@ -2,11 +2,11 @@
 // --------------------------
 
 {{=[[ ]]=}}
-.#{$[[config.fontPrefix]]-css-prefix}-spin {
+.@{[[config.fontPrefix]]-css-prefix}-spin {
   animation: [[config.fontPrefix]]-spin 2s infinite linear;
 }
 
-.#{$[[config.fontPrefix]]-css-prefix}-pulse {
+.@{[[config.fontPrefix]]-css-prefix}-pulse {
   animation: [[config.fontPrefix]]-spin 1s infinite steps(8);
 }
 
@@ -14,7 +14,6 @@
   0% {
     transform: rotate(0deg);
   }
-
   100% {
     transform: rotate(360deg);
   }
