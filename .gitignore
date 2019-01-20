@@ -6,3 +6,4 @@ script_out/*
 *.DS_store
 .DS_store?
 node_modules/
+script.php

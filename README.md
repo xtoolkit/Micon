@@ -134,10 +134,10 @@ We are thinking of supporting **react** and **vuejs**
 - remove classic create font css
 - use **scss compiler** for create font css
 - remove **sourcemap** by default
-- change lodash with **mustache**
+- change *lodash* with **mustache**
 - update **scss** and **less** template to **Font-Awesome 5.6.3**
 - rename fontname.(scss|less) file to style.(scss|less)
-- move font config from *gulpfile.js* to **config.js** file in root
+- move font config from *gulpfile.js* to **config.json** file in root
 - icons name db file move to icons pack directory (db.json)
 - rewrite **gulpfile.js**
 

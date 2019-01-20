@@ -1,5 +1,6 @@
 /*! Micon v3.0.168 | MIT License | http://xtoolkit.github.io/Micon/ */
 
+const fs = require('fs');
 const gulp = require('gulp');
 const sass = require('gulp-sass');
 const rename = require('gulp-rename');
@@ -16,9 +17,11 @@ var main = {
 };
 var fonts = [];
 var namedb = {};
+var namedbcomp = {};
 for (var pack of config.iconsPacks) {
   fonts.push(`icons/${pack}/*.svg`);
   namedb[pack] = require(`./icons/${pack}/db.json`);
+  namedbcomp = Object.assign(namedbcomp, namedb[pack]);
 }
 
 gulp.task('mimake', function() {
@@ -45,6 +48,14 @@ gulp.task('mimake', function() {
       gulp.src(`${pathTemplates}/less/*.less`)
         .pipe(consolidate('mustache', options))
         .pipe(gulp.dest(`${path}/${config.fontName}/less/`));
+      for (var glypx of options.glyphs) {
+        namedbcomp[glypx.origin]['unicode'] = glypx.codepoint;
+      }
+      fs.writeFile(`${path}/${config.fontName}/db.json`, JSON.stringify(namedbcomp, null, "\t"), function(err) {
+        if (err) {
+          return console.log(err);
+        }
+      });
       return gulp.src(`${pathTemplates}/scss/*.scss`)
         .pipe(consolidate('mustache', options))
         .pipe(gulp.dest(`${path}/${config.fontName}/scss/`))
@@ -73,10 +84,28 @@ gulp.task('mimake', function() {
 function mapGlyphs(glyph) {
   var aliases = [];
   var temp = {};
+  var origi = glyph.name;
+  var isalias = false;
+  if (typeof namedbcomp[glyph.name] == 'undefined') {
+    for (var key of Object.keys(namedbcomp)) {
+      if (typeof namedbcomp[key].alias != 'undefined') {
+        for (var alias of namedbcomp[key].alias) {
+          if (alias == glyph.name) {
+            origi = key;
+            isalias = true;
+            aliases.push(key);
+          }
+        }
+      }
+    }
+  }
   for (var pack of config.iconsPacks) {
-    if (typeof namedb[pack][glyph.name] != 'undefined') {
-      if (typeof namedb[pack][glyph.name].alias != 'undefined') {
-        for (var alias of namedb[pack][glyph.name].alias) {
+    if (typeof namedb[pack][origi] != 'undefined') {
+      if (typeof namedb[pack][origi].alias != 'undefined') {
+        for (var alias of namedb[pack][origi].alias) {
+          if (isalias == true && alias == origi) {
+            continue;
+          }
           aliases.push(alias);
         }
       }
@@ -84,7 +113,8 @@ function mapGlyphs(glyph) {
   }
   return {
     name: glyph.name,
+    origin: origi,
     codepoint: (glyph.unicode[0].charCodeAt(0)).toString(16).toUpperCase(),
     names: aliases
-  }
+  };
 }
