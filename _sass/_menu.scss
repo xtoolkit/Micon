@@ -1,0 +1,56 @@
+ul.menu {
+  margin: 0;
+  padding: 0;
+  float: left;
+  li {
+    float: left;
+    margin: 0 0 0 1px;
+    padding: 0;
+    a {
+      float: left;
+      padding: 0 22px;
+      height: 70px;
+      color: #fff;
+      font: normal 16px/66px "Segoe UI", arial;
+      transition: background-color 0.3s ease-out;
+      span {
+        font-size: 8px;
+        margin-left: 2px;
+      }
+      &:hover {
+        background: #006cc1;
+      }
+      &:focus {
+        background: #0060ac;
+      }
+    }
+    &.selected{
+      a {
+        background: #0060ac;
+      }
+    }
+    ul {
+      margin: 0;
+      background: #006cc1;
+      width: 288px;
+      position: absolute;
+      padding: 10px 0px;
+      display: none;
+      float: none;
+      top: 71px;
+      li {
+        margin: 0;
+        a {
+          width: 288px;
+          padding: 0;
+          text-indent: 22px;
+          height: 40px;
+          line-height: 36px;
+          &:hover {
+            background: #0060ac;
+          }
+        }
+      }
+    }
+  }
+}

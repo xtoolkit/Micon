@@ -1,0 +1,81 @@
+---
+layout: default
+---
+<div class="homep">
+  <div class="theme">
+    <div class="left">
+      <div class="hltext">{{page.description}}
+        <p><a href="https://github.com/xtoolkit/Micon/releases">Download</a></p>
+      </div>
+    </div>
+    <div class="right">
+      <ul class="bjqs">
+        {% for slide in site.defined.icons.slider %}
+      	<li><span class="{{site.font.prefix}} {{site.font.prefix}}-{{slide}}"></span></li>{% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="homehp">
+  <div class="theme">
+    <ul class="hxmenu">
+      <li>Version {{site.font.version}}</li>
+      <li class="splash">-</li>
+      <li><a href="{{site.font.repo}}">GitHub Project</a></li>
+      <li class="splash">-</li>
+      <li>Last update : {{site.font.lastupdate}}</li>
+      <li class="splash">-</li>
+      <li>Created by <a href="{{site.author.home}}" title="Mehdi HosseinZade">{{site.author.nickname}} ({{site.author.username.github}})</a></li>
+    </ul>
+  </div>
+</div>
+<div class="main">
+  <div class="theme">
+    <div class="nbox">
+      <p class="row1">{{site.title}}</p>
+      <div class="row2">{{content}}</div>
+      <ul class="xrow">
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.collection}}"></span></div>
+          <h4>One Font, {{site.font.count}} Icons</h4>
+          <div class="contactx">In a single collection, Micon is a pictographic language of web-related actions.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.nojavascript}}"></span></div>
+          <h4>No JavaScript Required</h4>
+          <div class="contactx">Fewer compatibility concerns because Micon doesn't require JavaScript.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.responsive}}"></span></div>
+          <h4>Infinite Scalability</h4>
+          <div class="contactx">Scalable vector graphics means every icon looks awesome at any size.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.license}}"></span></div>
+          <h4>Free, as in Speech</h4>
+          <div class="contactx">Micon is completely free for commercial use. Check out the <a href="http://{{site.font.prefix}}crosoft.com/">Microsoft license</a>.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.editable}}"></span></div>
+          <h4>CSS Control</h4>
+          <div class="contactx">Easily style icon color, size, shadow, and anything that's possible with CSS.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.quality}}"></span></div>
+          <h4>Perfect on Retina Displays</h4>
+          <div class="contactx">Micon icons are vectors, which mean they're gorgeous on high-resolution displays.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.worldwide}}"></span></div>
+          <h4>Plays Well with Others</h4>
+          <div class="contactx">Originally designed for <a href="http://getbootstrap.com">Bootstrap</a>, Micon works great with all frameworks.</div>
+        </li>
+        <li>
+          <div class="icon"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.desktop}}"></span></div>
+          <h4>Desktop Friendly</h4>
+          <div class="contactx">To use on the desktop or for a complete set of vectors, check out the <a href="cheatsheet/">cheatsheet</a>.</div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

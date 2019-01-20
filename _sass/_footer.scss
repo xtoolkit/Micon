@@ -1,0 +1,26 @@
+.footer {
+  float: right;
+  width: 100%;
+  padding: 10px 0;
+
+  ul.hxmenu {
+    a,
+    li {
+      color: #fff;
+    }
+  }
+
+  .crighty {
+    float: right;
+    margin: 14px 0 0 1px;
+    padding: 0 10px;
+    height: 56px;
+    font: normal 14px/16px "Segoe UI", arial;
+    color: #fff;
+    text-align: center;
+
+    span {
+      font-size: 24px;
+    }
+  }
+}

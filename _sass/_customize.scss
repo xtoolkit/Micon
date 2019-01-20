@@ -1,0 +1,53 @@
+/* customize */
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+code.highlighter-rouge {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  outline: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+button {
+  cursor: pointer;
+}
+
+button,
+input,
+textarea {
+  outline: 0;
+}

@@ -1,0 +1,188 @@
+.iconsp {
+  background: #d2d2d2;
+  float: right;
+  min-height: 236px;
+  width: 100%;
+  margin-top: 71px;
+
+  .hmtop {
+    float: right;
+    height: 166px;
+    width: 100%;
+    font: normal 44px/210px "Segoe UI", arial;
+    color: #505050;
+  }
+
+  .hmtopicon {
+    float: right;
+    height: 166px;
+    width: 100%;
+    font: normal 100px/350px "Segoe UI", arial;
+    color: #505050;
+  }
+
+  .hmbot {
+    float: right;
+    min-height: 70px;
+    width: 100%;
+    font: normal 24px/66px "Segoe UI", arial;
+    color: #606060;
+  }
+}
+
+.quitset {
+  height: 282px;
+  width: 100%;
+  color: #505050;
+  float: left;
+  background: url("../images/1.png") right no-repeat;
+  font: normal 13px "Segoe UI", arial;
+  margin: 50px 0 26px;
+
+  div {
+    float: left;
+    width: 50%;
+  }
+
+  a,
+  span {
+    font-weight: bold;
+  }
+}
+
+.importi {
+  float: right;
+  width: 100%;
+  background: #ededf0;
+
+  .contact {
+    color: #505050;
+    padding: 15px 25px;
+    font: normal 13px "Segoe UI", arial;
+
+    h3 {
+      font-weight: bold;
+    }
+
+    ul {
+      margin: 0 0 0 28px;
+      padding: 0;
+
+      li {
+        padding: 0;
+        margin: 0;
+        list-style-type: disc;
+
+        a,
+        span {
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
+
+.pemu {
+  ol,
+  ul {
+    li {
+      margin: 10px 0 !important;
+      line-height: 1.6;
+    }
+  }
+}
+
+.iconst {
+  float: right;
+  width: 100%;
+  margin: 10px 0;
+
+  h3 {
+    float: right;
+    width: 100%;
+    margin: 10px 0;
+    font: normal 16px/66px "Segoe UI", arial;
+    color: #0078d7;
+  }
+
+  #icons,
+  .mi-ul {
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+    padding: 0;
+  }
+
+  #icons {
+    li {
+      float: left;
+      width: 24.9%;
+      height: 40px;
+      margin: 4px 0;
+      padding: 0;
+      overflow: hidden;
+
+      a {
+        float: left;
+        width: 1000px;
+        height: 40px;
+        margin: 0;
+        font: normal 14px "Segoe UI", arial;
+        color: #000;
+        transition: all 0.3s ease-out;
+      }
+
+      .mi {
+        font-size: 20px;
+        float: left;
+        height: 40px;
+        width: 40px;
+        text-align: center;
+        line-height: 40px;
+      }
+
+      .ulatitle {
+        height: 40px;
+        line-height: 40px;
+        float: left;
+      }
+
+      &:hover {
+        a {
+          background: #0078d7;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+.livefilter {
+  border: 0;
+  background: #D2D2D2;
+  float: right;
+  width: 100%;
+  margin: 0;
+  padding: 10px 0;
+  text-indent: 10px;
+  font: normal 14px "Segoe UI", arial;
+  color: #2F2F2F;
+}
+
+.cheatsheet {
+  #icons {
+    li {
+      a {
+        font-size: 10px;
+      }
+    }
+  }
+}
+
+.fixrg {
+  &,
+  pre {
+    float: left;
+    width: 100%;
+  }
+}

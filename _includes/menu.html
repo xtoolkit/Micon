@@ -1,0 +1,10 @@
+<div class="hmenu">
+  <div class="theme">
+    <a href="{{ '/' | prepend: site.baseurl }}" class="logo"><span class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.logo}}"></span><span class="logoinfo">{{site.menutitle}}</span></a>
+    <a href="#" class="xmenu"><i class="{{site.font.prefix}} {{site.font.prefix}}-{{site.defined.icons.hambergermenu}}"></i></a>
+    <ul class="menu">
+      {% for itemx in site.data.menu %}
+    	<li {% if page.permalink == itemx.url %}class="selected"{% endif %}><a href="{{ itemx.url | prepend: site.baseurl }}">{{itemx.title}}</a></li>{% endfor %}
+    </ul>
+  </div>
+</div>

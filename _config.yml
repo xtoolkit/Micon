@@ -1,0 +1,72 @@
+---
+title: Micon (MDL2 Icons)
+menutitle: Micon
+email: arshen@outlook.com
+description: yo
+baseurl: http://xtoolkit.github.io/Micon/
+url: http://xtoolkit.github.io/Micon/
+markdown: kramdown
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+author:
+  name: Mehdi HosseinZade
+  home: http://arshen.ir/
+  nickname: Arshen
+  username:
+    github: xtoolkit
+    twitter: Arshen74
+sass:
+  sass_dir: _sass
+  style: compressed
+styles:
+- /css/style-v3.0.0.css
+- /css/micon.min-v3.0.168.css
+scripts:
+- /js/tools-v3.0.0.js
+collections:
+  icon:
+    output: true
+font:
+  name: micon
+  prefix: mi
+  version: 3.0.168
+  count: 1794
+  releaseyear: 2019
+  lastupdate: 2019/1/14
+  repo: https://github.com/xtoolkit/Micon/
+defined:
+  icons:
+    logo: ResolutionLegacy
+    hambergermenu: GlobalNavButton
+    collection: Font
+    nojavascript: BlockedLegacy
+    responsive: ChromeFullScreen
+    license: TimeLanguage
+    editable: Edit
+    quality: RevealPasswordLegacy
+    worldwide: DMC
+    desktop: TVMonitor
+    slider:
+      - Settings
+      - FileExplorer
+      - ActionCenterNotification
+      - Tiles
+      - Home
+      - Send
+    example:
+      basic: Settings
+      flip: SDCard
+      list:
+        - Send
+        - Rotate
+        - MyNetwork
+      animate:
+        - Globe
+        - Refresh
+      stack:
+        - BodyCam
+        - BlockedLegacy
+      stack2:
+        - HeartFill
+        - Heart

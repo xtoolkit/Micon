@@ -1,0 +1,62 @@
+body {
+  direction: ltr;
+  background: #2F2F2F;
+}
+
+.theme {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.main {
+  float: right;
+  width: 100%;
+  background-color: #fff;
+}
+
+.text-danger {
+  color: #F25022;
+}
+
+.xmenu {
+  display: none;
+  float: right;
+  width: 70px;
+  height: 70px;
+  color: #fff;
+  font-size: 24px;
+  line-height: 74px;
+  text-align: center;
+}
+
+.hmenu {
+  position: fixed;
+  height: 70px;
+  width: 100%;
+  background: #0078d7;
+  border-bottom: 1px solid #006cc1;
+  z-index: 100001;
+}
+
+.logo {
+  float: left;
+  height: 70px;
+  margin: 0 10px 0 0;
+  color: #fff;
+
+  .mi {
+    float: left;
+    height: 70px;
+    line-height: 70px;
+    font-size: 22px;
+    width: 28px;
+    text-align: center;
+  }
+
+  .logoinfo {
+    float: left;
+    height: 70px;
+    font: normal 22px/70px "Segoe UI", arial;
+  }
+}

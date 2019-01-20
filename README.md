@@ -1,27 +1,9 @@
 # Micon [![Build Status](https://travis-ci.org/xtoolkit/Micon.svg?branch=gh-pages)](https://travis-ci.org/xtoolkit/Micon)
 
-Micon github page
+Micon github page template for Micon font maker
 
-## Build Instructions (for make custom page)
+## How use this?
 
-This repo already comes with all the files built and ready to go, but can also build the fonts from the source. Requires **nodeJs**.
-
-Follow these steps to build custom font:
-
-1- install requires Dependencies (_gulp, gulp-consolidate, gulp-iconfont, gulp-rename, loadash_) with down command.<br>
-
-```
-$ npm install
-```
-
-1- config `config.json`.
-
-2- customize your pages template in `.templates/`. (default use Micon github template)
-
-3- build your font page with down command
-
-```
-$ npm start
-```
-
-6- end, you can see demo your pages in `/www/`
+1. Copy `micon-repo/dist/yourfont/db.json` to `micon-page/_data`
+2. Edit `_config.yml` for your theme
+3. Your font page automatic building with github ci!

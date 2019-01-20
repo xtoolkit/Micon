@@ -1,0 +1,151 @@
+@media (max-width:1023px) {
+  .homep {
+    .left,
+    .right {
+      width: 100%;
+      height: 230px !important;
+    }
+
+    .hltext {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 24px;
+    }
+
+    .right {
+      * {
+        height: 230px !important;
+      }
+
+      ul.bjqs-controls {
+        height: 42px !important;
+        margin-top: -58px;
+        position: relative;
+        z-index: 99;
+      }
+
+      ul.bjqs-controls li {
+        height: 42px !important;
+      }
+    }
+  }
+
+  ul.bjqs {
+    li {
+      &.bjqs-slide {
+        font-size: 140px;
+        line-height: 200px;
+      }
+    }
+  }
+
+  .xmenu {
+    display: block;
+  }
+
+  ul.menu {
+    position: absolute;
+    top: 71px;
+    width: 100%;
+    right: 0;
+    left: 0;
+    background: #333;
+    display: none;
+
+    li {
+      width: 100%;
+
+      a {
+        padding: 0;
+        width: 100%;
+        text-indent: 20px;
+        height: 50px;
+        line-height: 50px;
+      }
+    }
+  }
+
+  ul.hxmenu {
+    width: 100%;
+    width: 100%;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      float: left;
+      width: 100%;
+      height: 50px;
+      line-height: 50px;
+      padding: 0;
+      text-align: left;
+      margin: 0;
+
+      &.splash {
+        display: none;
+      }
+    }
+  }
+
+  ul.xrow {
+    li {
+      width: 100%;
+    }
+  }
+
+  .footer {
+    .crighty {
+      width: 100%;
+      margin-right: 0;
+      margin-left: 0;
+    }
+  }
+
+  .iconst {
+    .fixrg {
+      ul {
+        margin-left: 30px;
+      }
+    }
+
+    #icons {
+      li {
+        width: 100%;
+      }
+    }
+  }
+
+  .quitset {
+    background-size: 100% auto;
+    padding-top: 300px;
+    background-position: top center;
+    margin-top: 80px;
+
+    div {
+      width: 100%;
+    }
+  }
+
+  .iconsp {
+    .hmtopicon {
+      i {
+        display: none;
+      }
+
+      .iconxorg {
+        display: block;
+      }
+    }
+  }
+
+  .sifixa {
+    text-align: center;
+  }
+
+  ul.hxmenu {
+    li {
+      &.spash {
+        display: none;
+      }
+    }
+  }
+}

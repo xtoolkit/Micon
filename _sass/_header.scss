@@ -1,0 +1,127 @@
+.homep {
+  background: #0078d7;
+  float: right;
+  height: 460px;
+  width: 100%;
+  margin-top: 70px;
+
+  .left {
+    float: left;
+    height: 460px;
+    width: 49%;
+  }
+
+  .hltext {
+    float: left;
+    width: 100%;
+    font: 400 34px "Segoe UI", arial;
+    color: #fff;
+    margin-top: 148px;
+
+    a {
+      padding: 12px 20px;
+      font: 400 18px "Segoe UI", arial;
+      color: #0078d7;
+      background: #fff;
+
+      &:hover {
+        border: 2px solid #BFBFBF;
+        padding: 10px 18px;
+      }
+    }
+  }
+
+  .right {
+    float: right;
+    height: 460px;
+    width: 49%;
+  }
+}
+
+ul.bjqs {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  display: none;
+
+  li {
+    &.bjqs-slide {
+      position: absolute;
+      display: none;
+      text-align: center;
+      color: #fff;
+      display: none;
+      font-size: 200px;
+      line-height: 500px;
+    }
+  }
+}
+
+ul.bjqs-controls {
+  float: right;
+  width: 100%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+  line-height: 30px;
+
+  &.v-centered {
+    li {
+      margin: 0;
+      padding: 0;
+
+      a {
+        color: #fff;
+      }
+
+      &.bjqs-next {
+        float: right;
+        height: 60px;
+        width: 49%;
+        text-align: left;
+      }
+
+      &.bjqs-prev {
+        float: left;
+        height: 60px;
+        width: 49%;
+        text-align: right;
+      }
+    }
+  }
+}
+
+.homehp {
+  background: #d2d2d2;
+  float: right;
+  min-height: 70px;
+  width: 100%;
+  line-height: 66px;
+}
+
+ul.hxmenu {
+  margin: 0;
+  padding: 0;
+  float: left;
+
+  li {
+    float: left;
+    margin: 0 0 0 1px;
+    padding: 0 10px;
+    height: 70px;
+    font: normal 14px/66px "Segoe UI", arial;
+    color: #505050;
+    transition: color 0.3s ease-out;
+
+    a {
+      color: #0078d7;
+
+      &:hover {
+        color: #0060ac;
+      }
+    }
+  }
+}
