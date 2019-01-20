@@ -1,31 +1,32 @@
 {
-    "name": "micon-font",
-    "version": "2.2.155",
-    "style": "dist/micon/css/micon.css",
-    "description": "Micon, The iconic windows 10 font and CSS toolkit.",
-    "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap", "windows 10", "windows 10 icons", "windows 10 css", "windows 10 css icons", "windows 10 web font"],
-    "homepage": "http://xtoolkit.github.io/Micon/",
-    "bugs": {
-        "url": "http://github.com/xtoolkit/Micon/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/xtoolkit/Micon.git"
-    },
-    "author": {
-        "name": "Mehdi HosseinZade",
-        "email": "arshen@outlook.com",
-        "web": "http://arshen.ir/"
-    },
-    "license": "MIT",
-    "devDependencies": {
-        "gulp": ">=3.9.1",
-        "gulp-consolidate": ">=0.2.0",
-        "gulp-iconfont": ">=8.0.1",
-        "gulp-rename": ">=1.2.2",
-        "lodash": ">=4.17.2"
-    },
-    "scripts": {
-        "start": "gulp mimake"
-    }
+  "name": "micon-font",
+  "version": "3.0.168",
+  "style": "dist/micon/css/micon.css",
+  "description": "Micon, The iconic windows 10 font and CSS toolkit.",
+  "keywords": ["Micon", "MDL2 icons", "MDL2 web font", "icon", "font", "bootstrap", "windows 10", "windows 10 icons", "windows 10 css", "windows 10 css icons", "windows 10 web font"],
+  "homepage": "http://xtoolkit.github.io/Micon/",
+  "bugs": {
+    "url": "http://github.com/xtoolkit/Micon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtoolkit/Micon.git"
+  },
+  "author": {
+    "name": "Mehdi HosseinZade",
+    "email": "arshen@outlook.com",
+    "web": "http://arshen.ir/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0",
+    "gulp-consolidate": "^0.2",
+    "gulp-iconfont": "^10.0",
+    "gulp-rename": "^1.4",
+    "gulp-sass": "^4.0",
+    "mustache": "^3.0"
+  },
+  "scripts": {
+    "start": "gulp mimake"
+  }
 }

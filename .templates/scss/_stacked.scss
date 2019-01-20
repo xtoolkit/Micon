@@ -1,31 +1,32 @@
 // Stacked Icons
 // -------------------------
 
-.#{$<%= className %>-css-prefix}-stack {
-    position: relative;
-    display: inline-block;
-    width: 2em;
-    height: 2em;
-    line-height: 2em;
-    vertical-align: middle;
+{{=[[ ]]=}}
+.#{$[[config.fontPrefix]]-css-prefix}-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: ($[[config.fontPrefix]]-fw-width*2);
 }
 
-.#{$<%= className %>-css-prefix}-stack-1x,
-.#{$<%= className %>-css-prefix}-stack-2x {
-    position: absolute;
-    left: 0;
-    width: 100%;
-    text-align: center;
+.#{$[[config.fontPrefix]]-css-prefix}-stack-1x,
+.#{$[[config.fontPrefix]]-css-prefix}-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
 }
 
-.#{$<%= className %>-css-prefix}-stack-1x {
-    line-height: inherit;
+.#{$[[config.fontPrefix]]-css-prefix}-stack-1x {
+  line-height: inherit;
 }
 
-.#{$<%= className %>-css-prefix}-stack-2x {
-    font-size: 2em;
+.#{$[[config.fontPrefix]]-css-prefix}-stack-2x {
+  font-size: 2em;
 }
 
-.#{$<%= className %>-css-prefix}-inverse {
-    color: $<%= className %>-inverse;
+.#{$[[config.fontPrefix]]-css-prefix}-inverse {
+  color: $[[config.fontPrefix]]-inverse;
 }

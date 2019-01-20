@@ -1,7 +1,8 @@
 // Fixed Width Icons
 // -------------------------
 
-.#{$<%= className %>-css-prefix}-fw {
-    width: (18em / 14);
-    text-align: center;
+{{=[[ ]]=}}
+.#{$[[config.fontPrefix]]-css-prefix}-fw {
+  text-align: center;
+  width: $[[config.fontPrefix]]-fw-width;
 }

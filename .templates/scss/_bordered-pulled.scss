@@ -1,44 +1,17 @@
 // Bordered & Pulled
 // -------------------------
 
-.#{$<%= className %>-css-prefix}-border {
-    padding: 0.2em 0.25em 0.15em;
-    border: solid 0.08em $<%= className %>-border-color;
-    border-radius: 0.1em;
+{{=[[ ]]=}}
+.#{$[[config.fontPrefix]]-css-prefix}-border {
+  border: solid .08em $[[config.fontPrefix]]-border-color;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
 }
 
-.#{$<%= className %>-css-prefix}-pull-left {
-    float: left;
-}
+.#{$[[config.fontPrefix]]-css-prefix}-pull-left { float: left; }
+.#{$[[config.fontPrefix]]-css-prefix}-pull-right { float: right; }
 
-.#{$<%= className %>-css-prefix}-pull-right {
-    float: right;
-}
-
-.#{$<%= className %>-css-prefix} {
-    &.#{$<%= className %>-css-prefix}-pull-left {
-        margin-right: 0.3em;
-    }
-
-    &.#{$<%= className %>-css-prefix}-pull-right {
-        margin-left: 0.3em;
-    }
-}
-
-.pull-right {
-    float: right;
-}
-
-.pull-left {
-    float: left;
-}
-
-.#{$<%= className %>-css-prefix} {
-    &.pull-left {
-        margin-right: 0.3em;
-    }
-
-    &.pull-right {
-        margin-left: 0.3em;
-    }
+.#{$[[config.fontPrefix]]-css-prefix}{
+  &.#{$[[config.fontPrefix]]-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$[[config.fontPrefix]]-css-prefix}-pull-right { margin-left: .3em; }
 }

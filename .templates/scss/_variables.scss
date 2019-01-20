@@ -1,14 +1,21 @@
 // Variables
 // --------------------------
 
-$<%= className %>-font-path:        "<%= fontPath %>" !default;
-$<%= className %>-font-size-base:   14px !default;
-$<%= className %>-line-height-base: 1 !default;
-$<%= className %>-css-prefix:       <%= className %> !default;
-$<%= className %>-version:          "<%= fontVer %>" !default;
-$<%= className %>-border-color:     #eee !default;
-$<%= className %>-inverse:          #fff !default;
-$<%= className %>-li-width:         (30em / 14) !default;
+{{=[[ ]]=}}
+$[[config.fontPrefix]]-font-path:                "[[&config.fontPath]]" !default;
+$[[config.fontPrefix]]-font-size-base:           16px !default;
+$[[config.fontPrefix]]-css-prefix:               [[config.fontPrefix]] !default;
+$[[config.fontPrefix]]-version:                  "[[config.fontVersion]]" !default;
+$[[config.fontPrefix]]-border-color:             #eee !default;
+$[[config.fontPrefix]]-inverse:                  #fff !default;
+$[[config.fontPrefix]]-li-width:                 2em !default;
+$[[config.fontPrefix]]-fw-width:                 (20em / 16);
 
-<% _.each(glyphs, function(glyph) { %>$<%= className %>-var-<%= glyph.name %>: \<%= glyph.codepoint.toString(16).toUpperCase() %>;
-<% }); %>
+// Convenience function used to set content property
+@function [[config.fontPrefix]]-content($[[config.fontPrefix]]-var) {
+  @return unquote("\"#{ $[[config.fontPrefix]]-var }\"");
+}
+
+[[#glyphs]]
+$[[config.fontPrefix]]-var-[[name]]: \[[codepoint]];
+[[/glyphs]]

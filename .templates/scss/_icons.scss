@@ -1,10 +1,7 @@
-/* Micon uses the Unicode Private Use Area (PUA) to ensure screen
-   readers do not read off random characters that represent icons */
-<% _.each(glyphs, function(glyph) {
-var xname=glyph.name;
-var temp=namedb[xname];
-%>.#{$<%= className %>-css-prefix}-<%= temp.join(":before,\n.#{$" + className + '-css-prefix}-') %>:before {
-     content: <%= className %>-get-icon($<%= className %>-var-<%= glyph.name %>);
-}
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+readers do not read off random characters that represent icons */
 
-<% }); %>
+{{=[[ ]]=}}
+[[#glyphs]]
+.#{$[[config.fontPrefix]]-css-prefix}-[[name]][[#names]]:before, .#{$[[config.fontPrefix]]-css-prefix}-[[.]][[/names]]:before { content: [[config.fontPrefix]]-content($[[config.fontPrefix]]-var-[[name]]); }
+[[/glyphs]]

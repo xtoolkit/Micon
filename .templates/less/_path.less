@@ -1,0 +1,20 @@
+/* FONT PATH
+ * -------------------------- */
+
+{{=[[ ]]=}}
+@font-face {
+  font-family: '[[config.fontName]]';
+  font-style: normal;
+  font-weight: 400;
+  src: url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].eot');
+  src: url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].eot?#iefix') format('embedded-opentype'),
+    url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].woff2') format('woff2'),
+    url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].woff') format('woff'),
+    url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].ttf') format('truetype'),
+    url('@{[[config.fontPrefix]]-font-path}/[[config.fontName]].svg#[[config.fontName]]') format('svg');
+}
+
+.[[config.fontPrefix]] {
+  font-family: '[[config.fontName]]';
+  font-weight: 400;
+}

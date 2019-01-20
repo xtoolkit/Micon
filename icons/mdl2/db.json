@@ -1,0 +1,7757 @@
+{
+    "Accept": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AcceptLegacy",
+            "CheckmarkListviewLegacy",
+            "CheckmarkMenuLegacy"
+        ]
+    },
+    "Accident": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AccidentSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Accounts": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AccountsLegacy"
+        ]
+    },
+    "ActionCenter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterAsterisk": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterNotification": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterNotificationMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterQuiet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ActionCenterQuietNotification": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Add": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AddLegacy"
+        ]
+    },
+    "AddFriend": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AddFriendLegacy"
+        ]
+    },
+    "AddRemoteDevice": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AddSurfaceHub": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AddTo": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AdjustHologram": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Admin": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AdminLegacy"
+        ]
+    },
+    "Airplane": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AirplaneSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AlignCenter": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AlignCenterLegacy"
+        ]
+    },
+    "AlignLeft": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AlignLeftLegacy"
+        ]
+    },
+    "AlignRight": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AlignRightLegacy"
+        ]
+    },
+    "AllApps": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AllAppsLegacy"
+        ]
+    },
+    "AllAppsMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AllAppsLegacyMirrored"
+        ]
+    },
+    "Annotation": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AppIconDefault": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Apps": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "AreaChart": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ArrowDown8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ArrowLeft8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ArrowRight8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ArrowUp8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "AspectRatio": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Asterisk": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "AsteriskBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Attach": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AttachLegacy"
+        ]
+    },
+    "AttachCamera": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AttachCameraLegacy"
+        ]
+    },
+    "Audio": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "AudioLegacy"
+        ]
+    },
+    "Back": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ArrowHTMLLegacy",
+            "BackBttnArrow20Legacy",
+            "BackBttnArrow42Legacy",
+            "BackLegacy"
+        ]
+    },
+    "BackMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BackSpaceQWERTYLg": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BackSpaceQWERTYMd": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BackSpaceQWERTYSm": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BackToWindow": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BackToWindowLegacy"
+        ]
+    },
+    "BackgroundToggle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Badge": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BandBattery0": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery5": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BandBattery6": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Bank": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BarcodeScanner": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Battery9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryCharging9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatterySaver9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BatteryUnknown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Beta": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BidiLtr": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BidiRtl": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BlockContact": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BlockContactLegacy"
+        ]
+    },
+    "Blocked": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BlockedLegacy"
+        ]
+    },
+    "BlueLight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Bluetooth": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BodyCam": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Bold": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BoldLegacy"
+        ]
+    },
+    "BoldF": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "BoldFLegacy"
+        ]
+    },
+    "BoldG": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "BoldGLegacy"
+        ]
+    },
+    "BoldKorean": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "BoldKoreanLegacy"
+        ]
+    },
+    "BoldN": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "BoldNLegacy"
+        ]
+    },
+    "BoldRussion": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "BoldRussionLegacy"
+        ]
+    },
+    "Bookmarks": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BookmarksLegacy"
+        ]
+    },
+    "BookmarksMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BookmarksLegacyMirrored"
+        ]
+    },
+    "Brightness": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Broom": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BrowsePhotos": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BrowsePhotosLegacy"
+        ]
+    },
+    "BrushSize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Bug": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BuildingEnergy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BulletedList": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BulletedListLegacy",
+            "ListLegacy"
+        ]
+    },
+    "BulletedListMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BulletedListLegacyMirrored",
+            "ListLegacyMirrored"
+        ]
+    },
+    "Bullseye": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BumperLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "BumperRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Bus": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "BusSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ButtonA": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ButtonB": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ButtonMenu": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ButtonView2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ButtonX": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ButtonY": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CC": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CCLegacy"
+        ]
+    },
+    "CCEuro": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "CCEuroLegacy"
+        ]
+    },
+    "CCJapan": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "CCJapanLegacy"
+        ]
+    },
+    "Cafe": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Calculator": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalculatorLegacy"
+        ]
+    },
+    "CalculatorAddition": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorBackspace": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "BackSpaceQWERTY"
+        ]
+    },
+    "CalculatorDivide": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorEqualTo": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorMultiply": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorNegate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorPercentage": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorSquareroot": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalculatorSubtract": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Calendar": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalendarLegacy"
+        ]
+    },
+    "CalendarDay": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalendarDayLegacy"
+        ]
+    },
+    "CalendarMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalendarLegacyMirrored"
+        ]
+    },
+    "CalendarReply": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalendarReplyLegacy"
+        ]
+    },
+    "CalendarSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalendarWeek": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CalendarWeekLegacy"
+        ]
+    },
+    "CallForwardInternational": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CallForwardInternationalMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CallForwardRoaming": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CallForwardRoamingMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CallForwarding": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CallForwardingMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CalligraphyFill": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CalligraphyPen": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Calories": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Camera": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CameraLegacy"
+        ]
+    },
+    "Cancel": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CancelLegacy"
+        ]
+    },
+    "Caption": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CaptionLegacy"
+        ]
+    },
+    "Car": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DrivingMode"
+        ]
+    },
+    "CaretBottomRightSolidCenter8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CaretDownSolid8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CaretLeftSolid8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CaretRight8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CaretRightSolid8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CaretUpSolid8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CashDrawer": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CellPhone": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CellPhoneLegacy",
+            "MobileContactLegacy"
+        ]
+    },
+    "Certificate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CharacterAppearance": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Characters": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CharactersLegacy"
+        ]
+    },
+    "ChatBubbles": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CheckList": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CheckMark": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckMarkLegacy",
+            "CheckMarkZeroWidthLegacy"
+        ]
+    },
+    "Checkbox": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckboxLegacy"
+        ]
+    },
+    "Checkbox14": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CheckboxComposite": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckboxCompositeLegacy"
+        ]
+    },
+    "CheckboxComposite14": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CheckboxCompositeReversed": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckboxCompositeReversedLegacy"
+        ]
+    },
+    "CheckboxFill": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckboxFillLegacy",
+            "CheckboxFillZeroWidthLegacy",
+            "PresenceChicklet",
+            "PresenceChickletLegacy",
+            "ResizeMouseLarge"
+        ]
+    },
+    "CheckboxIndeterminate": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CheckboxIndeterminateLegacy"
+        ]
+    },
+    "CheckboxIndeterminateCombo": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CheckboxIndeterminateCombo14": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChecklistMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChevronDown": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronDown1Legacy",
+            "ChevronDown2Legacy",
+            "ChevronDown3Legacy",
+            "ChevronDown4Legacy",
+            "ChevronFlipDownLegacy",
+            "ScrollChevronDownBoldLegacy",
+            "ScrollChevronDownLegacy"
+        ]
+    },
+    "ChevronDownMed": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChevronDownSmall": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronDownSmLegacy"
+        ]
+    },
+    "ChevronLeft": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronFlipLeftLegacy",
+            "ChevronLeft1Legacy",
+            "ChevronLeft2Legacy",
+            "ChevronLeft3Legacy",
+            "ChevronLeft4Legacy",
+            "ScrollChevronLeftBoldLegacy",
+            "ScrollChevronLeftLegacy"
+        ]
+    },
+    "ChevronLeftMed": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChevronLeftSmall": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronLeftSmLegacy"
+        ]
+    },
+    "ChevronRight": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronFlipRightLegacy",
+            "ChevronRight1Legacy",
+            "ChevronRight2Legacy",
+            "ChevronRight3Legacy",
+            "ChevronRight4Legacy",
+            "ScrollChevronRightBoldLegacy",
+            "ScrollChevronRightLegacy"
+        ]
+    },
+    "ChevronRightMed": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChevronRightSmall": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronRightSmLegacy"
+        ]
+    },
+    "ChevronUp": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ChevronFlipUpLegacy",
+            "ChevronUp1Legacy",
+            "ChevronUp2Legacy",
+            "ChevronUp3Legacy",
+            "ChevronUp4Legacy",
+            "ScrollChevronUpBoldLegacy",
+            "ScrollChevronUpLegacy"
+        ]
+    },
+    "ChevronUpMed": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChevronUpSmall": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChineseBoPoMoFo": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChineseChangjie": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChinesePinyin": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChinesePunctuation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChineseQuick": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChipCardCreditCardReader": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeAnnotate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeAnnotateContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeBack": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeBackContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeBackContrastMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeBackMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeBackToWindow": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeBackToWindowContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeClose": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeCloseContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeFullScreen": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeFullScreenContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeMaximize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeMaximizeContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeMinimize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeMinimizeContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeRestore": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ChromeRestoreContrast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeSwitch": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ChromeSwitchContast": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CircleFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CircleFillBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CircleRing": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CircleRingBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CityNext": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CityNext2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Clear": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ClearLegacy"
+        ]
+    },
+    "ClearAllInk": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ClearAllInkMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ClearSelection": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ClearSelectionLegacy"
+        ]
+    },
+    "ClearSelectionMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ClearSelectionLegacyMirrored"
+        ]
+    },
+    "Click": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ClipboardList": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ClipboardListMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ClippingTool": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Clock": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ClockLegacy"
+        ]
+    },
+    "ClosePane": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ClosePaneLegacy"
+        ]
+    },
+    "ClosePaneMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ClosePaneLegacyMirrored"
+        ]
+    },
+    "Cloud": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CloudPrinter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CloudSeach": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Code": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CollapseContent": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CollapseContentSingle": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CollateLandscape": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CollateLandscapeSeparated": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CollatePortrait": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CollatePortraitSeparated": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Color": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ColorLegacy"
+        ]
+    },
+    "ColorOff": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CommaKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CommandPrompt": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Comment": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CommentLegacy"
+        ]
+    },
+    "Communications": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CompanionApp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CompanionDeviceFramework": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Completed": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "CompletedSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Component": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Connect": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ConnectApp": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MiracastLogoLarge"
+        ]
+    },
+    "Connected": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Construction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ConstructionCone": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ConstructionSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Contact": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "Contact3Legacy",
+            "ContactLegacy"
+        ]
+    },
+    "Contact2": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "Contact2Legacy"
+        ]
+    },
+    "ContactInfo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ContactInfoLegacy"
+        ]
+    },
+    "ContactInfoMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ContactPresence": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ContactPresenceLegacy"
+        ]
+    },
+    "ContactSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Copy": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CopyLegacy"
+        ]
+    },
+    "CopyTo": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Courthouse": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Crop": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CropLegacy"
+        ]
+    },
+    "CtrlSpatialLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "CtrlSpatialRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Cut": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CutLegacy"
+        ]
+    },
+    "DMC": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DashKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DataSense": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DataSenseBar": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DateTime": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DateTimeMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DecreaseIndent": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "DecreaseIndentLegacy"
+        ]
+    },
+    "DecreaseIndentMirrored": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "DecreaseIndentLegacyMirrored"
+        ]
+    },
+    "DefaultAPN": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DefenderApp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DefenderBadge12": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Delete": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DeleteLegacy"
+        ]
+    },
+    "Design": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DetachablePC": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DevUpdate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeveloperTools": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceDiscovery": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceLaptopNoPic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceLaptopPic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceMonitorLeftPic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceMonitorNoPic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DeviceMonitorRightPic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Devices": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Devices2": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DevicesLegacy"
+        ]
+    },
+    "Devices3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Devices4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Diagnostic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Dial1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial10": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial11": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial12": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial13": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial14": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial15": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial16": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial5": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial6": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Dial9": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DialShape1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DialShape2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DialShape3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DialShape4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DialUp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Dialpad": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Dictionary": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DictionaryAdd": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DictionaryCloud": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DirectAccess": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Directions": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DirectionsLegacy"
+        ]
+    },
+    "DisableUpdates": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DisableUpdatesLegacy"
+        ]
+    },
+    "DisconnectDisplay": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DisconnectDrive": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DisconnectDriveLegacy"
+        ]
+    },
+    "Dislike": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DislikeLegacy"
+        ]
+    },
+    "Dock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DockBottom": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DockBottomLegacy"
+        ]
+    },
+    "DockLeft": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DockLeftLegacy"
+        ]
+    },
+    "DockLeftMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DockLeftLegacyMirrored"
+        ]
+    },
+    "DockRight": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DockRightLegacy"
+        ]
+    },
+    "DockRightMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DockRightLegacyMirrored"
+        ]
+    },
+    "Document": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DocumentLegacy"
+        ]
+    },
+    "DoublePinyin": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Down": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DownLegacy"
+        ]
+    },
+    "DownShiftKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Download": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "DownloadLegacy"
+        ]
+    },
+    "DownloadMap": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Dpad": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Draw": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DrawSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Drop": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DullSound": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DullSoundKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "DuplexLandscapeOneSided": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexLandscapeOneSidedMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexLandscapeTwoSidedLongEdge": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexLandscapeTwoSidedLongEdgeMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexLandscapeTwoSidedShortEdge": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexLandscapeTwoSidedShortEdgeMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitOneSided": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitOneSidedMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitTwoSidedLongEdge": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitTwoSidedLongEdgeMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitTwoSidedShortEdge": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DuplexPortraitTwoSidedShortEdgeMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "DynamicLock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "EMI": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Ear": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Earbud": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "EaseOfAccess": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "EaseOfAccessLegacy"
+        ]
+    },
+    "Edit": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "EditLegacy"
+        ]
+    },
+    "EditMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "EditLegacyMirrored"
+        ]
+    },
+    "Education": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Emoji": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "EmojiLegacy"
+        ]
+    },
+    "Emoji2": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "Emoji2Legacy"
+        ]
+    },
+    "EmojiSwatch": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabCelebrationObjects": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabFavorites": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabFoodPlants": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabPeople": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabSmilesAnimals": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabSymbols": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabTextSmiles": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EmojiTabTransitPlaces": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EndPointSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EnglishPunctuation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Equalizer": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "EraseTool": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EraseToolFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EraseToolFill2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Error": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ErrorBadge": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ErrorBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Ethernet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EthernetError": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "EthernetWarning": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ExpandTile": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ExpandTileLegacy"
+        ]
+    },
+    "ExpandTileMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ExpandTileLegacyMirrored"
+        ]
+    },
+    "ExploitProtectionSettings": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ExploreContent": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ExploreContentSingle": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Export": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ImportLegacyMirrored",
+            "ImportMirrored"
+        ]
+    },
+    "EyeGaze": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Eyedropper": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Family": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "FastForward": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Favicon": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "FavoriteList": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FavoriteStar": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FavoriteInlineLegacy",
+            "OutlineStarLegacy",
+            "RatingStarLegacy",
+            "Unfavorite2Legacy"
+        ]
+    },
+    "FavoriteStarFill": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "Favorite2Legacy",
+            "FavoriteLegacy",
+            "RatingStarFillLegacy",
+            "RatingStarFillReducedPaddingHTMLLegacy",
+            "RatingStarFillSmallLegacy",
+            "RatingStarFillZeroWidthLegacy",
+            "SolidStarLegacy"
+        ]
+    },
+    "Feedback": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FeedbackApp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Ferry": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FerrySolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FileExplorer": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FileExplorerApp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Filter": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FilterLegacy"
+        ]
+    },
+    "FingerInking": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Fingerprint": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FitPage": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Flag": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "EndPoint",
+            "FlagLegacy"
+        ]
+    },
+    "Flashlight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FlickDown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FlickLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FlickRight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FlickUp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Folder": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FolderFill": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FolderLegacy"
+        ]
+    },
+    "FolderHorizontal": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "FolderOpen": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Font": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FontLegacy"
+        ]
+    },
+    "FontColor": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FontColorLegacy"
+        ]
+    },
+    "FontColorKorean": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "FontColorKoreanLegacy"
+        ]
+    },
+    "FontDecrease": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FontDecreaseLegacy"
+        ]
+    },
+    "FontIncrease": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FontIncreaseLegacy"
+        ]
+    },
+    "FontSize": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FontSizeLegacy"
+        ]
+    },
+    "FontStyleKorean": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "FontStyleKoreanLegacy"
+        ]
+    },
+    "Forward": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ArrowHTMLLegacyMirrored",
+            "BackBttnMirroredArrow20Legacy",
+            "BackBttnMirroredArrow42Legacy",
+            "ForwardLegacy"
+        ]
+    },
+    "ForwardMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ForwardSm": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FourBars": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FourBarsLegacy"
+        ]
+    },
+    "FreeFormClipping": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Frigid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FullAlpha": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FullCircleMask": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FullHiragana": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FullKatakana": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "FullScreen": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FullScreenLegacy"
+        ]
+    },
+    "FuzzyReading": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "GIF": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Game": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GameConsole": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GiftboxOpen": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "GlobalNavigationButton": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Globe": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "GlobeLegacy"
+        ]
+    },
+    "Go": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "GoLegacy"
+        ]
+    },
+    "GoMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "GoLegacyMirrored"
+        ]
+    },
+    "GoToStart": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "GoToStartLegacy"
+        ]
+    },
+    "GotoToday": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "GotoTodayLegacy"
+        ]
+    },
+    "GridView": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "GripperBarHorizontal": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GripperBarVertical": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GripperResize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GripperResizeMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "GripperTool": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Groceries": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Group": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "GroupList": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "GuestUser": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HMD": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPInsert": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPJoin": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPNewLine": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPOverwrite": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPScratchOut": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPSplit": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HWPStrikeThrough": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HalfAlpha": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HalfDullSound": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HalfKatakana": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HalfStarLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HalfStarRight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Handwriting": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HangUp": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HangUpLegacy"
+        ]
+    },
+    "HardDrive": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HeadlessDevice": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Headphone": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Headphone0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Headphone1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Headphone2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Headphone3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Headset": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Health": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Heart": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HeartLegacy"
+        ]
+    },
+    "HeartBroken": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HeartBrokenLegacy": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HeartBrokenZeroWidthLegacy"
+        ]
+    },
+    "HeartFill": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HeartFillLegacy",
+            "HeartFillZeroWidthLegacy"
+        ]
+    },
+    "Help": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HelpLegacy"
+        ]
+    },
+    "HelpMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HelpLegacyMirrored"
+        ]
+    },
+    "HideBcc": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HideBccLegacy"
+        ]
+    },
+    "Highlight": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HighlightLegacy"
+        ]
+    },
+    "HighlightFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HighlightFill2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "History": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HolePunchLandscapeBottom": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchLandscapeLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchLandscapeRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchLandscapeTop": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchOff": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchPortraitBottom": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchPortraitLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchPortraitRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HolePunchPortraitTop": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "HoloLensSelected": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Home": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "HomeLegacy"
+        ]
+    },
+    "HomeGroup": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HomeSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "HorizontalTabKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "IBeam": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "IBeamOutline": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "IOT": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ImageExport": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Import": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ExportMirrored",
+            "ImportLegacy"
+        ]
+    },
+    "ImportAll": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ImportAllLegacy"
+        ]
+    },
+    "ImportAllMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ImportAllLegacyMirrored"
+        ]
+    },
+    "Important": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ImportantLegacy"
+        ]
+    },
+    "ImportantBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InPrivate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "IncidentTriangle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "IncreaseIndent": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "IncreaseIndentLegacy"
+        ]
+    },
+    "IncreaseIndentMirrored": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "IncreaseIndentLegacyMirrored"
+        ]
+    },
+    "Info": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Info2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InfoSolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "InkingCaret": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InkingColorFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InkingColorOutline": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InkingTool": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InkingToolFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InkingToolFill2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Input": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InsiderHubApp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "InteractiveDashboard": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Italic": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ItalicLegacy"
+        ]
+    },
+    "ItalicC": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ItalicCLegacy"
+        ]
+    },
+    "ItalicI": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ItalicILegacy"
+        ]
+    },
+    "ItalicK": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ItalicKLegacy"
+        ]
+    },
+    "ItalicKorean": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ItalicKoreanLegacy"
+        ]
+    },
+    "ItalicRussian": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ItalicRussianLegacy"
+        ]
+    },
+    "Japanese": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "JpnRomanji": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "JpnRomanjiLock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "JpnRomanjiShift": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "JpnRomanjiShiftLock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Key12On": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Keyboard12Key": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardBrightness": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardClassic": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "KeyBoardLegacy"
+        ]
+    },
+    "KeyboardDismiss": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardDock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardFull": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardLeftAligned": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardLeftDock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardLeftHanded": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardLowerBrightness": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardNarrow": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardOneHanded": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardRightAligned": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardRightDock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardRightHanded": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardSettings": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KeyboardShortcut": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "KeyboardSplit": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "KeyboardSplitLegacy"
+        ]
+    },
+    "KeyboardStandard": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "KeyboardStandardLegacy"
+        ]
+    },
+    "KeyboardUndock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "KnowledgeArticle": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Korean": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LEDLight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Label": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LandscapeOrientation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "LandscapeOrientationMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "LangJPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LanguageChs": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LanguageCht": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LanguageJpn": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LanguageKor": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LaptopSecure": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "LaptopSelected": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LargeErase": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Layout": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "LayoutLegacy"
+        ]
+    },
+    "Leaf": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LeaveChat": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LeaveChatLegacy"
+        ]
+    },
+    "LeaveChatMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LeftArrowKeyTime0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LeftDoubleQuote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LeftQuote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LeftStick": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Lexicon": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Library": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LibraryLegacy"
+        ]
+    },
+    "Light": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LightningBolt": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Like": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LikeInlineLegacy",
+            "LikeLegacy"
+        ]
+    },
+    "LikeDislike": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LikeDislikeLegacy"
+        ]
+    },
+    "LineDisplay": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Link": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LinkLegacy"
+        ]
+    },
+    "List": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ListMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Location": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LocationLegacy"
+        ]
+    },
+    "Lock": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LockLegacy"
+        ]
+    },
+    "LockFeedback": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "LockScreenGlance": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LockscreenDesktop": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "LowerBrightness": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MagStripeReader": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Mail": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailLegacy"
+        ]
+    },
+    "MailBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MailFill": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailFillLegacy",
+            "MailMessageLegacy"
+        ]
+    },
+    "MailForward": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailForwardLegacy"
+        ]
+    },
+    "MailForwardMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailForwardLegacyMirrored"
+        ]
+    },
+    "MailReply": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailReplyLegacy"
+        ]
+    },
+    "MailReplyAll": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailReplyAllLegacy"
+        ]
+    },
+    "MailReplyAllMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailReplyAllLegacyMirrored"
+        ]
+    },
+    "MailReplyMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MailReplyLegacyMirrored"
+        ]
+    },
+    "Manage": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ManageLegacy"
+        ]
+    },
+    "MapCompassBottom": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MapCompassTop": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MapDirections": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MapDrive": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MapDriveLegacy"
+        ]
+    },
+    "MapLayers": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MapPin": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MapLegacy"
+        ]
+    },
+    "MapPin2": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MapPinLegacy"
+        ]
+    },
+    "Marker": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Marquee": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Media": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MediaStorageTower": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Megaphone": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Memo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MemoLegacy"
+        ]
+    },
+    "Message": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "CommentInlineLegacy",
+            "MessageLegacy"
+        ]
+    },
+    "MicClipping": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MicError": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MicOff": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MicOn": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MicSleep": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Microphone": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MicrophoneLegacy"
+        ]
+    },
+    "MicrophoneListening": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MiracastLogoSmall": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MixVolumes": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobActionCenter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobAirplane": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBattery9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryCharging9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatterySaver9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBatteryUnknown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobBluetooth": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobCallForwarding": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobCallForwardingMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobDrivingMode": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobLocation": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobQuietHours": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobSIMError": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobSIMLock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobSIMMissing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobSignal1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobSignal2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobSignal3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobSignal4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobSignal5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifi1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifi2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifi3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifi4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifiHotspot": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobWifiWarning1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobWifiWarning2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobWifiWarning3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobWifiWarning4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobeSIM": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobeSIMBusy": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobeSIMLocked": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobeSIMNoProfile": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MobileLocked": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobileSelected": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MobileTablet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "More": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MoreLegacy"
+        ]
+    },
+    "Mouse": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MoveToFolder": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MoveToFolderLegacy"
+        ]
+    },
+    "Movies": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MultiSelect": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MultiSelectLegacy"
+        ]
+    },
+    "MultiSelectMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MultiSelectLegacyMirrored"
+        ]
+    },
+    "MultimediaDMP": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MultimediaDMS": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MultimediaDVR": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MultimediaPMP": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Multitask": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Multitask16": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MultitaskExpanded": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MusicAlbum": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MusicInfo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MusicInfoLegacy"
+        ]
+    },
+    "MusicNote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "MusicSharing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "MusicSharingOff": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Mute": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "MuteLegacy"
+        ]
+    },
+    "MyNetwork": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPContinueSlideAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPContinueSlideHand": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPPressAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPPressHand": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPPressRepeatAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPRollLeftAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPRollLeftHand": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPRollRightHand": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPRollRightHandAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPStartSlideAction": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIFPStartSlideHand": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "NUIFPPressRepeatHand"
+        ]
+    },
+    "NUIFace": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NUIIris": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Narrator": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NarratorForward": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NarratorForwardMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NearbySharing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Network": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NetworkAdapter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NetworkConnected": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "NetworkConnectedCheckmark": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "NetworkOffline": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "NetworkPrinter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NetworkSharing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "NetworkTower": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "NewFolder": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "NewFolderLegacy"
+        ]
+    },
+    "NewWindow": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "NewWindowLegacy"
+        ]
+    },
+    "Next": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "NextLegacy"
+        ]
+    },
+    "NoiseCancelation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "NoiseCancelationOff": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OEM": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "OneBar": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OneBarLegacy"
+        ]
+    },
+    "OpenFile": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenFileLegacy"
+        ]
+    },
+    "OpenFolderHorizontal": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OpenInNewWindow": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenInNewWindowLegacy"
+        ]
+    },
+    "OpenLocal": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenLocalLegacy"
+        ]
+    },
+    "OpenPane": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenPaneLegacy"
+        ]
+    },
+    "OpenPaneMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenPaneLegacyMirrored"
+        ]
+    },
+    "OpenWith": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenWithLegacy"
+        ]
+    },
+    "OpenWithMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OpenWithLegacyMirrored"
+        ]
+    },
+    "Orientation": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OrientationLegacy"
+        ]
+    },
+    "OtherUser": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "OtherUserLegacy"
+        ]
+    },
+    "OutlineHalfStarLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineHalfStarRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineQuarterStarLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineQuarterStarRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineStarLeftHalf": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineStarRightHalf": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineThreeQuarterStarLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "OutlineThreeQuarterStarRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PC1": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PC1Legacy"
+        ]
+    },
+    "PINPad": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PLAP": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PPSFourLandscape": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PPSFourPortrait": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PPSOneLandscape": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PPSOnePortrait": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PPSTwoLandscape": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PPSTwoPortrait": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Package": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Page": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PageLegacy"
+        ]
+    },
+    "PageLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PageMarginLandscapeModerate": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginLandscapeNarrow": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginLandscapeNormal": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginLandscapeWide": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginPortraitModerate": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginPortraitNarrow": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginPortraitNormal": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMarginPortraitWide": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PageRight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PageSolid": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PageFillLegacy"
+        ]
+    },
+    "PaginationDotOutline10": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PaginationDotSolid10": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PanMode": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ParkingLocation": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ParkingLocationMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ParkingLocationSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PartyLeader": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PassiveAuthentication": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PasswordKeyHide": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PasswordKeyShow": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Paste": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PasteLegacy"
+        ]
+    },
+    "Pause": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PauseLegacy"
+        ]
+    },
+    "PauseBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PaymentCard": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PenPalette": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PenPaletteMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PenTips": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PenTipsMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PenWorkspace": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PenWorkspaceMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Pencil": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PencilFill": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "People": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PeopleLegacy"
+        ]
+    },
+    "PeriodKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Permissions": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PermissionsLegacy"
+        ]
+    },
+    "PersonalFolder": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Personalize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Phone": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PhoneLegacy"
+        ]
+    },
+    "PhoneBook": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PhoneBookLegacy"
+        ]
+    },
+    "Photo": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Photo2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Picture": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PictureLegacy"
+        ]
+    },
+    "PieSingle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Pin": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PinLegacy"
+        ]
+    },
+    "PinFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Pinned": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PinnedFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PinyinIMELogo": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PlaceFolder": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "PlaceFolderLegacy"
+        ]
+    },
+    "Play": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PlayLegacy"
+        ]
+    },
+    "Play36": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PlayBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PlayOn": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "PlayOnLegacy"
+        ]
+    },
+    "PlaySolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PlaybackRate1x": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PlaybackRateOther": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PlayerSettings": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PointErase": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PointEraseMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PointerHand": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PoliceCar": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PostUpdate": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PostUpdateLegacy"
+        ]
+    },
+    "PowerButton": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PresenceChickletVideo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PresenceChickletVideoLegacy"
+        ]
+    },
+    "Preview": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PreviewLegacy"
+        ]
+    },
+    "PreviewLink": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PreviewLinkLegacy"
+        ]
+    },
+    "Previous": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PreviousLegacy"
+        ]
+    },
+    "Print": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PrintLegacy"
+        ]
+    },
+    "PrintAllPages": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PrintCustomRange": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "PrintDefault": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Printer3D": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Printer3DLegacy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PrintfaxPrinterFile": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Priority": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "PriorityLegacy"
+        ]
+    },
+    "Process": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Processing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ProgressRingDots": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Project": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Projector": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ProtectedDocument": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ProtectedDocumentLegacy"
+        ]
+    },
+    "Protractor": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ProvisioningPackage": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey6": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey7": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey8": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKey9": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKeyLeftBottom": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "PuncKeyRightBottom": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Puzzle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "QWERTYOff": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "QWERTYOn": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "QuarentinedItems": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "QuarentinedItemsMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "QuarterStarLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "QuarterStarRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "QuickNote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "QuietHours": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "QuietHoursBadge12": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Radar": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "RadioBtnOff": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RadioBtnOn": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RadioBullet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RadioBullet2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Read": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ReadLegacy"
+        ]
+    },
+    "ReadingList": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReceiptPrinter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Recent": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "LengthLegacy"
+        ]
+    },
+    "Record": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RecordLegacy"
+        ]
+    },
+    "RectangularClipping": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "RedEye": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Redo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RedoLegacy"
+        ]
+    },
+    "ReduceTile": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ReduceTileLegacy"
+        ]
+    },
+    "ReduceTileMirrored": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ReduceTileLegacyMirrored"
+        ]
+    },
+    "Refresh": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RefreshLegacy",
+            "RepeatAll",
+            "RepeatAllLegacy"
+        ]
+    },
+    "Relationship": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "RememberedDevice": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Reminder": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReminderFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Remote": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RemoteLegacy"
+        ]
+    },
+    "Remove": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RemoveLegacy"
+        ]
+    },
+    "RemoveFrom": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Rename": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RenameLegacy"
+        ]
+    },
+    "Repair": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RepairLegacy"
+        ]
+    },
+    "RepeatOne": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RepeatOneLegacy"
+        ]
+    },
+    "Replay": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Reply": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ReplyLegacy"
+        ]
+    },
+    "ReplyMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReportDocument": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ReportHacked": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ReportHackedLegacy"
+        ]
+    },
+    "ResetDevice": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResetDrive": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Reshare": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ReshareLegacy"
+        ]
+    },
+    "ResizeMouseMedium": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseMediumMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseSmall": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseSmallMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseTall": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseTallMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeMouseWide": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeTouchLarger": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeTouchNarrower": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeTouchNarrowerMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeTouchShorter": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ResizeTouchSmaller": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Resolution": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ResolutionLegacy"
+        ]
+    },
+    "ReturnKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReturnKeyLg": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReturnKeySm": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ReturnToWindow": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ReturnToWindowLegacy"
+        ]
+    },
+    "RevToggleKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Rewind": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightArrowKeyTime0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightArrowKeyTime1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightArrowKeyTime2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightArrowKeyTime3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightArrowKeyTime4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightDoubleQuote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightQuote": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RightStick": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Ringer": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RingerBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RingerSilent": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RoamingDomestic": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RoamingInternational": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Robot": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Rotate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RotateCamera": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RotateCameraLegacy"
+        ]
+    },
+    "RotateLegacy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RotateMapLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RotateMapRight": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "RotationLock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Ruler": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SDCard": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SIMError": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SIMLock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SIMMissing": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SIPMove": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SIPRedock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SIPUndock": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Safe": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Save": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SaveLegacy"
+        ]
+    },
+    "SaveAs": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SaveAsLegacy"
+        ]
+    },
+    "SaveCopy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SaveLocal": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SaveLocalLegacy"
+        ]
+    },
+    "Scan": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ScanLegacy"
+        ]
+    },
+    "ScreenTime": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ScrollMode": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ScrollUpDown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Search": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "FindLegacy",
+            "SearchboxLegacy"
+        ]
+    },
+    "SearchAndApps": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SelectAll": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SelectAllLegacy"
+        ]
+    },
+    "SemanticZoom": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "SemanticZoomLegacy"
+        ]
+    },
+    "Send": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SendLegacy"
+        ]
+    },
+    "SendFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SendFillMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SendMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Sensor": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Set": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SetSolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SetTile": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SetTileLegacy"
+        ]
+    },
+    "SetlockScreen": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SetlockScreenLegacy"
+        ]
+    },
+    "Settings": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SettingsLegacy"
+        ]
+    },
+    "SettingsBattery": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SettingsDisplaySound": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Share": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ShareBroadband": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Shield": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Shop": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShopLegacy"
+        ]
+    },
+    "ShoppingCart": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ShowAllFiles1": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ShowAllFiles1Legacy"
+        ]
+    },
+    "ShowAllFiles3": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "ShowAllFiles3Legacy"
+        ]
+    },
+    "ShowBcc": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShowBccLegacy"
+        ]
+    },
+    "ShowResults": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShowResultsLegacy"
+        ]
+    },
+    "ShowResultsMirrored": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShowResultsLegacyMirrored"
+        ]
+    },
+    "Shuffle": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShuffleLegacy"
+        ]
+    },
+    "SignalBars1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalBars2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalBars3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalBars4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalBars5": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalError": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalNotConnected": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignalRoaming": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SignatureCapture": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Size": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SkipBack10": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SkipForward30": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SliderThumb": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Slideshow": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SlideshowLegacy"
+        ]
+    },
+    "SlowMotionOn": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SmallErase": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Smartcard": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SmartcardVirtual": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Sort": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SortLegacy"
+        ]
+    },
+    "SpatialVolume0": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SpatialVolume1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SpatialVolume2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SpatialVolume3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Speakers": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Speech": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "SpeedHigh": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SpeedMedium": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SpeedOff": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StaplingLandscapeBookBinding": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeBottomLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeBottomRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTopLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTopRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTwoBottom": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTwoLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTwoRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingLandscapeTwoTop": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingOff": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitBookBinding": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitBottomLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitBottomRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTopLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTopRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTwoBottom": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTwoLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTwoRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StaplingPortraitTwoTop": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StartPoint": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StartPointSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusCheckmark": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCheckmark7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCheckmarkLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusCircle7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleBlock": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleBlock2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleCheckmark": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleErrorX": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleExclamation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleInfo": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleInner": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusCircleOuter": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleQuestionMark": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleRing": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusCircleSync": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusConnecting1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusConnecting2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDataTransfer": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDataTransferVPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDualSIM1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDualSIM1VPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDualSIM2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusDualSIM2VPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusError": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusErrorCircle7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusErrorFull": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusErrorLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusExclamationCircle7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusInfo": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusInfoLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusPause7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusSGLTE": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusSGLTECell": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusSGLTEDataVPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusTriangle": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusTriangleExclamation": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusTriangleInner": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusTriangleLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusTriangleOuter": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StatusUnsecure": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusVPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusWarning": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StatusWarningLeft": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Sticker2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StockDown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StockUp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Stop": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "StopLegacy"
+        ]
+    },
+    "StopPoint": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StopPointSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StopSlideshow": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "StopSlideshowLegacy"
+        ]
+    },
+    "Stopwatch": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StorageNetworkWireless": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StorageOptical": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StorageTape": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Streaming": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StreamingEnterprise": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Street": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "StreetLegacy"
+        ]
+    },
+    "StreetsideSplitExpand": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StreetsideSplitMinimize": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StrokeErase": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "StrokeErase2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "StrokeEraseMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Subtitles": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SubtitlesAudio": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SurfaceHub": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SurfaceHubSelected": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Sustainable": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Swipe": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SwipeRevealArt": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Switch": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SwitchLegacy"
+        ]
+    },
+    "SwitchApps": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SwitchAppsLegacy"
+        ]
+    },
+    "SwitchUser": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Sync": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SyncLegacy"
+        ]
+    },
+    "SyncBadge12": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SyncError": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "SyncFolder": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "SyncFolderLegacy"
+        ]
+    },
+    "System": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TVMonitor": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TVMonitorSelected": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Tablet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TabletMode": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TabletSelected": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Tag": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TagLegacy"
+        ]
+    },
+    "TapAndSend": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TaskView": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "TaskViewExpanded": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "TaskViewSettings": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "TaskbarPhone": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ThisPC": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ThoughtBubble": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ThreeBars": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ThreeBarsLegacy"
+        ]
+    },
+    "ThreeQuarterStarLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ThreeQuarterStarRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Tiles": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TiltDown": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TiltUp": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TimeLanguage": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ToggleBorder": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ToggleFilled": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ToggleThumb": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TollSolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "ToolTip": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "Lightbulb"
+        ]
+    },
+    "Touch": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TouchPointer": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TouchPointerLegacy"
+        ]
+    },
+    "Touchpad": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Touchscreen": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Trackers": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TrackersMirrored": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TrafficCongestionSolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "TrafficLight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Train": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TrainSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TreeFolderFolder": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TreeFolderFolderFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TreeFolderFolderOpen": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TreeFolderFolderOpenFill": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "TriggerLeft": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "TriggerRight": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Trim": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TrimLegacy"
+        ]
+    },
+    "TwoBars": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TwoBarsLegacy"
+        ]
+    },
+    "TwoPage": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TwoPageLegacy"
+        ]
+    },
+    "Type": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "TypeLegacy"
+        ]
+    },
+    "TypingIndicatorLegacy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "USB": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "USBSafeConnect": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Underline": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UnderlineLegacy"
+        ]
+    },
+    "UnderlineLKorean": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "UnderlineLKoreanLegacy"
+        ]
+    },
+    "UnderlineRussian": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "UnderlineRussianLegacy"
+        ]
+    },
+    "UnderlineS": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "UnderlineSLegacy"
+        ]
+    },
+    "UnderlineU": {
+        "info": {
+            "created": "1.0.155",
+            "updated": "3.0.168"
+        },
+        "alias": [
+            "UnderlineULegacy"
+        ]
+    },
+    "UnderscoreSpace": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Undo": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UndoLegacy"
+        ]
+    },
+    "Unfavorite": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UnfavoriteLegacy"
+        ]
+    },
+    "Unit": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Unknown": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "UnknownMirrored": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Unlock": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UnlockLegacy"
+        ]
+    },
+    "Unpin": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UnpinLegacy"
+        ]
+    },
+    "UnsyncFolder": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UnsyncFolderLegacy"
+        ]
+    },
+    "Up": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UpLegacy"
+        ]
+    },
+    "UpArrowShiftKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "UpShiftKey": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "UpdateRestore": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Upload": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "UploadLegacy",
+            "UploadSkyDriveLegacy"
+        ]
+    },
+    "UserAPN": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VPN": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "VerticalBattery0": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery10": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery5": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery6": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBattery9": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging0": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging1": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging10": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging2": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging3": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging4": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging5": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging6": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging7": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging8": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryCharging9": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VerticalBatteryUnknown": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Vibrate": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Video": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "VideoInlineLegacy",
+            "VideoLegacy"
+        ]
+    },
+    "Video360": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "VideoChat": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "VideoChatLegacy"
+        ]
+    },
+    "VideoSolid": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "View": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "RevealPasswordLegacy",
+            "ViewLegacy"
+        ]
+    },
+    "ViewAll": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ShowAllFilesLegacy",
+            "ViewAllLegacy"
+        ]
+    },
+    "ViewDashboard": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Volume": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "VolumeLegacy"
+        ]
+    },
+    "Volume0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Volume1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Volume2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Volume3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "VolumeBars": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Walk": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WalkSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Warning": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Webcam": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "WebcamLegacy"
+        ]
+    },
+    "Webcam2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Website": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "Wheel": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Wifi": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Wifi1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Wifi2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Wifi3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiAttentionOverlay": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCall0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCall1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCall2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCall3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCall4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiCallBars": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiError0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiError1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiError2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiError3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiError4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiEthernet": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiHotspot": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "InternetSharing"
+        ]
+    },
+    "WifiWarning0": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiWarning1": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiWarning2": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiWarning3": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WifiWarning4": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WindDirection": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WindowsInsider": {
+        "info": {
+            "created": "3.0.168"
+        }
+    },
+    "WiredUSB": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WirelessUSB": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "Work": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "WorkSolid": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "World": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "WorldLegacy"
+        ]
+    },
+    "XboxOneConsole": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ZeroBars": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ZeroBarsLegacy"
+        ]
+    },
+    "Zoom": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ZoomLegacy"
+        ]
+    },
+    "ZoomIn": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ZoomInLegacy"
+        ]
+    },
+    "ZoomMode": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "ZoomOut": {
+        "info": {
+            "created": "1.0.155"
+        },
+        "alias": [
+            "ZoomOutLegacy"
+        ]
+    },
+    "eSIM": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "eSIMBusy": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "eSIMLocked": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "eSIMNoProfile": {
+        "info": {
+            "created": "1.0.155"
+        }
+    },
+    "E80B": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniE80B"
+        ]
+    },
+    "EA0D": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEA0D"
+        ]
+    },
+    "EA3F": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEA3F"
+        ]
+    },
+    "EA90": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEA90"
+        ]
+    },
+    "EAC2": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEAC2"
+        ]
+    },
+    "EC6C": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEC6C"
+        ]
+    },
+    "EEA3": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniEEA3"
+        ]
+    },
+    "F2B7": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF2B7"
+        ]
+    },
+    "F5AA": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF5AA"
+        ]
+    },
+    "F614": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF614"
+        ]
+    },
+    "F615": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF615"
+        ]
+    },
+    "F616": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF616"
+        ]
+    },
+    "F617": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF617"
+        ]
+    },
+    "F657": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF657"
+        ]
+    },
+    "F658": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF658"
+        ]
+    },
+    "F659": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF659"
+        ]
+    },
+    "F65A": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF65A"
+        ]
+    },
+    "F65B": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF65B"
+        ]
+    },
+    "F65C": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF65C"
+        ]
+    },
+    "F69E": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF69E"
+        ]
+    },
+    "F6FA": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF6FA"
+        ]
+    },
+    "F712": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF712"
+        ]
+    },
+    "F71C": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF71C"
+        ]
+    },
+    "F71D": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF71D"
+        ]
+    },
+    "F71E": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF71E"
+        ]
+    },
+    "F738": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF738"
+        ]
+    },
+    "F739": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF739"
+        ]
+    },
+    "F73D": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF73D"
+        ]
+    },
+    "F73E": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF73E"
+        ]
+    },
+    "F73F": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF73F"
+        ]
+    },
+    "F740": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF740"
+        ]
+    },
+    "F741": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF741"
+        ]
+    },
+    "F742": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF742"
+        ]
+    },
+    "F743": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF743"
+        ]
+    },
+    "F744": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF744"
+        ]
+    },
+    "F745": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF745"
+        ]
+    },
+    "F746": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF746"
+        ]
+    },
+    "F785": {
+        "info": {
+            "create": "3.0.168"
+        },
+        "alias": [
+            "uniF785"
+        ]
+    }
+}

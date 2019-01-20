@@ -1,0 +1,7 @@
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+
+{{=[[ ]]=}}
+[[#glyphs]]
+.@{[[config.fontPrefix]]-css-prefix}-[[name]][[#names]]:before, .@{[[config.fontPrefix]]-css-prefix}-[[.]][[/names]]:before { content: @[[config.fontPrefix]]-var-[[name]]; }
+[[/glyphs]]
