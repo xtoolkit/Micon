@@ -3,7 +3,8 @@ title: Micon (MDL2 Icons)
 menutitle: Micon
 email: arshen@outlook.com
 description: yo
-baseurl: http://xtoolkit.github.io/Micon
+baseurl: /Micon
+url: http://xtoolkit.github.io
 markdown: kramdown
 plugins:
 - jekyll-seo-tag
