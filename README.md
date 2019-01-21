@@ -1,4 +1,4 @@
-# Micon [![Build Status](https://travis-ci.org/xtoolkit/Micon.svg?branch=gh-pages)](https://travis-ci.org/xtoolkit/Micon)
+# Micon github page
 
 Micon github page template for Micon font maker
 
